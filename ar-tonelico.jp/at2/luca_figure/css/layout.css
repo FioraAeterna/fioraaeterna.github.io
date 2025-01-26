@@ -1,0 +1,134 @@
+/*▼main_layout
+------------------*/
+
+
+/*header*/
+
+#header{
+	width: 850px;
+	height: 55px;
+	background-image: url(../img/header/headerbg_01.jpg);
+	background-repeat: no-repeat;
+	list-style-type: none;
+	padding: 0px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+	position: relative;
+}
+
+#header ul{
+	padding: 0px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#header ul li a{
+	display: block;
+	text-indent: -9999px;
+	text-decoration: none;
+	list-style-type: none;	
+}
+
+/* header_gust */
+#header ul li#headerNaviGust{
+	position: absolute;
+	top: 9px;
+	left: 10px;
+	list-style-type: none;
+}
+#header ul li#headerNaviGust a{
+	width: 127px;
+	height: 33px;
+	list-style-type: none;
+	background-image: url(../img/header/h_gust_01.gif);
+	background-repeat: no-repeat;
+}
+
+/* header_banpresto */
+#header ul li#headerNaviBanpre{
+	position: absolute;
+	top: 9px;
+	left: 139px;
+	list-style-type: none;
+}
+#header ul li#headerNaviBanpre a{
+	width: 60px;
+	height: 33px;
+	list-style-type: none;
+	background-image: url(../img/header/h_banpresto_01.gif);
+	background-repeat: no-repeat;
+}
+
+/* header_arpotal */
+#header ul li#headerNaviArp{
+	position: absolute;
+	top: 4px;
+	left: 680px;
+	list-style-type: none;
+}
+#header ul li#headerNaviArp a{
+	width: 94px;
+	height: 21px;
+	list-style-type: none;
+	background-image: url(../img/header/h_arp_bt_01.gif);
+	background-repeat: no-repeat;
+}
+/* header_at2 */
+#header ul li#headerNaviAt2{
+	position: absolute;
+	top: 24px;
+	left: 680px;
+	list-style-type: none;
+}
+#header ul li#headerNaviAt2 a{
+	width: 156px;
+	height: 22px;
+	list-style-type: none;
+	background-image: url(../img/header/h_at2_bt_01.gif);
+	background-repeat: no-repeat;
+}
+
+/*header*/
+
+/*main*/
+#mein{
+	position: relative;
+	width: 850px;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	top: 0px;
+}
+
+/*main*/
+
+
+/*footer*/
+
+#footer{
+	width: 100%;
+	height: 72px;
+	margin: 0 auto 20px auto;
+	overflow: hidden;
+	background-image: url(../img/footer/footerbg_02.jpg);
+	background-repeat: repeat-x;
+}
+
+
+#footerCopyright{
+	position: relative;
+	width: 850px;
+	height: 70px;
+	margin: 0 auto;
+	background-image: url(../img/footer/footerbg_01.jpg);
+	background-repeat: no-repeat;
+}
+
+
+/*footer*/
+
+/*▲main_layout
+------------------*/

@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>アルトネリコ２発売記念サイト『ドッコイ秋祭り』</title>
+<link rel="stylesheet" href="css/base.css" type="text/css" >
+<script src="js/at.js"></script>
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+<script type="text/javascript">
+<!--
+overlayOpacity = 0.5;   // 背景の不透明度
+resizeSpeed = 1;        // リサイズ処理速度 (1:低速、10:高速)
+borderSize = 10;        // 枠サイズ（ピクセル）
+// --></script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="main">
+<table width="850" border="0" cellspacing="0" cellpadding="0">
+  	<tr>
+    <td colspan="2" width="850" height="250"><img src="img/top01.jpg" width="850" height="250" /></td>
+    </tr>
+  	<tr>
+    <td width="659" align="left" valign="top">
+	<!--アンケートテーブル-->
+    
+    
+    <table cellpadding="0" cellspacing="0" border="0" width="659">
+    <tr><td><img src="img/top_enq.jpg" alt="" />
+    </td></tr>
+    </table>
+	<table cellpadding="0" cellspacing="0" border="0" width="659">
+<tr><td bgcolor="#00A69F">
+<table cellpadding="0" cellspacing="0" border="0" width="659" background="img/bg_02.jpg">
+<tr><td colspan="9" align="center" class="font3"><font color="#fff"><b>たくさんのご応募ありがとうございました！！</b></font></td></tr>
+<tr><td><img src="images/spacer.gif" width="19" border="0" /></td>
+	<td align="center"><img src="140px/kuroa(bt)_af.jpg" alt="クロア（戦闘）" border="0" /><br /><font color="#FFFFFF" class="title2">クロア（戦闘服）</font></td>
+	<td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td align="center"><img src="140px/kuroa(normal)_af.jpg" alt="クロア（通常）" border="0" /><br /><font color="#FFFFFF" class="title2">クロア（普段着）</font></td>
+    <td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td align="center"><img src="140px/ruka_af.jpg" alt="ルカ" border="0" /><br /><font color="#FFFFFF" class="title2">ルカ</font></td>
+    <td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td align="center"><img src="140px/kurosye_af.jpg" alt="クローシェ" border="0" /><br /><font color="#FFFFFF" class="title2">クローシェ</font></td>
+    <td><img src="images/spacer.gif" width="19" border="0" /></td></tr>
+<tr><td><img src="images/spacer.gif" height="20" /></td></tr>
+<tr><td><img src="images/spacer.gif" width="19" border="0" /></td>
+	<td align="center"><img src="140px/cocona_af.jpg" alt="ココナ" border="0" /><br /><font color="#FFFFFF" class="title2">ココナ</font></td>
+    <td><img src="images/spacer.gif" width="20" border="0" />
+    <td align="center"><img src="140px/amarie_af.jpg" alt="アマリエ" border="0" /><br /><font color="#FFFFFF" class="title2">アマリエ</font></td>
+	<td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td align="center"><img src="140px/sinsia_af.jpg" alt="シンシア" border="0" /><br /><font color="#FFFFFF" class="title2">シンシア</font></td>
+    <td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td align="center"><img src="140px/sasya_af.jpg" alt="サーシャ" border="0" /><br /><font color="#FFFFFF" class="title2">サーシャ</font></td>
+    <td><img src="images/spacer.gif" width="19" border="0" /></td></tr>
+<tr><td><img src="images/spacer.gif" height="20" /></td></tr>
+<tr><td><img src="images/spacer.gif" width="19" border="0" /></td>
+    <td align="center"><img src="140px/supika_af.jpg" alt="スピカ" border="0" /><br /><font color="#FFFFFF" class="title2">スピカ</font></td>
+    <td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td align="center"><img src="140px/soraneko_af.jpg" alt="空猫" border="0" /><br /><font color="#FFFFFF" class="title2">空猫</font></td>
+    <td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td><img src="images/spacer.gif" width="140" border="0" /></td>
+    <td><img src="images/spacer.gif" width="20" border="0" /></td>
+    <td><img src="images/spacer.gif" width="140" border="0" /></td>
+    <td><img src="images/spacer.gif" width="19" border="0" /></td></tr>
+</table>
+</td></tr>
+</table>
+
+	<!--アンケートテーブル-->	
+	</td>
+    
+    <td width="191" background="img/top04.jpg" align="left" valign="top">
+	<!--menu-->
+		<table width="191" border="0" cellspacing="0" cellpadding="0">
+  		<tr>
+    	<td width="191"><a href="index.htm"><img src="img/bt_01.jpg" alt="メタ・ファルス武勇伝" width="191" height="170" border="0" /></a></td>
+  		</tr>
+  		<tr>
+    	<td width="191"><img src="img/bt_02.jpg" width="191" height="175" alt="アルトネリコ２等身大タオル制作企画" /></td>
+  		</tr>
+  		<tr>
+    	<td width="191"><img src="img/bt_03.jpg" width="191" height="171" alt="アルトネリコ２アンケートキャンペーン" /></td>
+  		</tr>
+  		<tr>
+    	<td width="191"><img src="img/bt_04.jpg" width="191" height="175" alt="ガストショップ" /></td>
+  		</tr>
+        <tr>
+    	<td width="191"><a href="http://ar-tonelico.jp/"><img src="img/bt_05.jpg" width="191" height="80" alt="アルポータル" border="0" /></a></td>
+  		</tr>
+		</table>
+	<!--menu-->
+	</td>
+  	</tr>
+  	<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  	</tr>
+  	<tr>
+    <td colspan="2" width="850" align="right" class="fonts1"><font color="#FFFFFF">&copy;GUST CO.,LTD. 2007 &copy;BANPRESTO 2007</font></td>
+    </tr>
+</table>
+</div>
+</body>
+</html>
