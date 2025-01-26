@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#container{
+	width:800px;
+	height:auto;
+
+}
+.top{
+	width:800px;
+	height:176px;
+}
+.left{
+	width:158px;
+	height:628px;;
+	float:left;
+	background-image:url(images/chroche_test_02.jpg);
+	background-repeat:no-repeat;
+	background-color:#FFFFFF;
+	background-position:top;
+}
+.right{
+	width:642px;
+	height:auto;
+	float:left;
+	background-image:url(images/chroche_test_03.jpg);
+	background-repeat:no-repeat;
+	background-color:#FFFFFF;
+	background-position:top;
+	text-align:center;
+}

@@ -1,0 +1,200 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#total_container{
+	width:900px;
+	height:auto;
+	margin:0 auto;
+}
+
+#site_name_area{
+	width:400px;
+	height:48px;
+	padding:0 500px0 0;
+}
+
+#header{
+	width:900px;
+	height:173px;
+}
+
+/* ---------------- left ---------------- */
+
+#left_area{
+	width:250px;
+	height:auto;
+	background-image:url(img/menu_bg.jpg);
+	background-repeat:repeat-y;
+	background-position:top;
+	float:left;
+}
+
+.menu_title{
+	width:250px;
+	height:29px;
+	padding:13px 0 2px 0;
+}
+.menu_banner{
+	width:250px;
+	height:80px;
+	padding:6px 0 0 0;
+}
+
+.left_logo{
+	width:250px;
+	height:145px;
+	padding:20px 0 10px 0;
+}
+
+/* ---------------- left ---------------- */
+
+/* ---------------- right ---------------- */
+
+#right_area{
+	width:650px;
+	height:auto;
+	background-image:url(img/contents_bg.jpg);
+	background-repeat:repeat-y;
+	background-position:top;
+	float:right;
+}
+
+.combo_box{
+	width:650px;
+	height:auto;
+	padding:5px 0 10px 0;
+}
+
+.combo_box_top{
+	width:650px;
+	height:85px;
+}
+.combo_box_left{
+	width:26px;
+	height:auto;
+	background-image:url(img/4th_combo_left.png);
+	background-repeat:repeat-y;
+	background-position:top;
+	float:left;
+}
+.combo_box_center{
+	width:614px;
+	height:auto;
+	background-color:#FFFFFF;
+	float:left;
+}
+
+.combo_box_center_font_title{
+	font-size:16px;
+	font-weight:bold;
+	line-height:20px;
+}
+.combo_box_center_font1{
+	font-size:10px;
+	line-height:13px;
+}
+.combo_box_center_font2{
+	font-size:12px;
+	line-height:16px;
+}
+.combo_box_right{
+	width:10px;
+	height:auto;
+	background-image:url(img/4th_combo_right.png);
+	background-repeat:repeat-y;
+	background-position:top;
+	float:left;
+}
+.combo_box_bottom{
+	width:650px;
+	height:30px;
+	clear:both;
+}
+
+.goods_box{
+	width:170px;
+	height:auto;
+	float:left;
+}
+.goods_img{
+	width:170px;
+	height:170px;
+}
+.goods_text{
+	font-size:11px;
+	line-height:14px;
+	font-weight:bold;
+	color:#333333;
+	text-align:center;
+	padding:3px 0 3px 0;
+}
+.goods_text_mini{
+	font-size:10px;
+	line-height:12px;
+	color:#FF0000;
+	text-align:center;
+}
+.goods_link_btn{
+	width:170px;
+	height:20px;
+	background-color:#d82900;
+}
+.goods_link_text{
+	font-size:12px;
+	line-height:14px;
+	text-align:center;
+	color:#FFFFFF;
+	padding:3px 0 3px 0;
+}
+.goods_link_text a{
+	display:block;
+}
+.goods_link_text a:link,a:visited{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+.goods_link_text a:hover{
+	text-decoration:underline;
+	color:#FFFF00;
+}
+
+.goods_space{
+	float:left;
+}
+.comboset_buy_btn{
+	width:180px;
+	height:60px;
+	margin:0 auto;
+	padding:15px 0 7px 0;
+	clear:both;
+}
+.comboset_buy_btn2{
+	width:180px;
+	height:60px;
+	margin:0 auto;
+	padding:10px 0 7px 0;
+	clear:both;
+}
+/* ---------------- right ---------------- */
+
+
+/* ---------------- footer ---------------- */
+
+#footer{
+	width:900px;
+	height:20px;
+	text-align:right;
+	font-size:10px;
+	color:#FFFFFF;
+	background-color:#840501;
+	line-height:15px;
+	clear:both;
+}
+
+/* ---------------- footer ---------------- */

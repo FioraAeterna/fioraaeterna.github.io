@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#open01,#open02,#open03,#open04,#open05{
+	margin-top:-10px;
+	padding-top:10px;
+	margin-left:10px;
+	padding-left:10px;
+	width:460px;
+	height:auto;
+	font-size:9pt;
+	background-color:#ffffff;
+	color:#692C04;
+	font-size: 2.8mm;
+	line-height: 3.5mm;
+}
+.open_window {
+	cursor:pointer;
+	font-weight:bold;
+	color:#FF0000;
+	font-size:14px;
+	text-decoration:underline;
+}

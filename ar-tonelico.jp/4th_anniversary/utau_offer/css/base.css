@@ -1,0 +1,331 @@
+﻿/*▼layout
+------------------*/
+
+body
+    {
+    margin:0px;
+    padding:0px;
+	background-color:#FFFFFF;
+	background-image:url(../img/BG_01.gif);
+	background-repeat:no-repeat;
+	background-position:center top;	 
+    text-align:center;
+	text-decoration:none;	
+    }
+
+#main
+    {
+    margin-left:auto;
+    margin-right:auto;
+	padding: 0px;
+    text-align: center;
+    border-collapse: collapse;
+    border: solid 0px #383838;
+    width:600px;
+    }
+	
+h1, h2, p{
+    margin: 4px;
+	}		
+	
+.example
+	{ 
+	filter:alpha(opacity=85); 
+	-moz-opacity: 0.85;
+	opacity: 0.85;
+	}	
+	
+img {
+  border: 0px;
+    }
+
+/*▼header
+------------------*/
+#header{
+	width: 800px;
+	height: 20px;
+	margin: 0px;
+	text-indent: -9999px;
+	background:url(../img/header_01.jpg) no-repeat;
+	}
+
+/*▼maincontents
+------------------*/
+
+#navi {
+	position: absolute;
+	top: 346px;
+	width: 800px;
+	height: 20px;
+	background-color:#990000;
+	text-align:center;
+}
+
+#navi p{
+	position: absolute;
+	top: 3px;
+	width:800px;
+	margin:0;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	color: #FFFFFF;
+	text-align:center;
+}
+
+
+#catch  {
+	position: absolute;
+	top: 370px;
+	left:300px;
+}
+
+#catch p{
+	position: absolute;
+	top: 3px;
+	width:650px;
+	margin:0;
+	padding:2px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	color: #550000;
+	text-align:left;
+}
+
+#catch2  {
+	position: absolute;
+	top: 548px;
+	left:560px;
+	width:372px;
+	height:52px;
+	background:url(../img/c_02.html) no-repeat;
+}
+
+
+#catch3 {
+	position:absolute;
+	top:608px;
+	left:560px;
+	width: 372px;
+}
+
+#catch3 p {
+	width:372px;
+	margin:0;
+	padding:2px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	color: #550000;
+	text-align:left;
+}
+
+/*▼table_css
+---------------------------*/
+table#table-01 {
+    width: 600px;
+}
+
+table#table-01 td {
+    padding:0px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	text-align:left;
+	vertical-align:top;
+}
+
+table#table-02 {
+    margin-left:auto;
+    margin-right:auto;
+	width: 540px;
+}
+
+table#table-02 td {
+    padding:0px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	color: #550000;
+	text-align:center;
+	vertical-align:top;
+}
+
+table#table-03 {
+    margin-left:auto;
+    margin-right:auto;
+    width: 540px;
+}
+
+table#table-03 td {
+    padding:6px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;	
+	text-align:left;
+	vertical-align:top;
+	color:#666;
+}
+
+table#table-04 {
+    margin-left:auto;
+    margin-right:auto;
+    width: 540px;
+}
+
+table#table-04 td {
+    padding:0px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	text-align:left;
+	vertical-align:top;	
+}
+
+table#table-05 {
+    margin-left:auto;
+    margin-right:auto;
+    width: 425px;
+}
+
+table#table-05 td {
+    padding:4px;
+	font-size: 3.2mm;
+	line-height: 4.0mm;
+	text-align:right;
+	vertical-align:top;	
+}
+
+/*▼特典
+---------------------------*/
+#preparation_head{
+    margin-left:auto;
+    margin-right:auto;
+	position:absolute;
+	top: 500px;
+	left: 280px;
+	height: 44px;
+	width: 700px;
+	background:url(../img/title_01.html) no-repeat;
+	text-align:center;
+}
+
+
+#preparation{
+	background: url(../images/menu_bg.html) repeat-y;
+}
+
+#preparation img{
+	position:absolute;
+	top:545px;
+	left:300px;
+	width: 226px;
+}
+
+
+/*▼font
+------------------*/
+
+.font0
+	{
+	FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px
+	}
+	
+.font1
+	{
+	FONT-SIZE: 3mm; LINE-HEIGHT: 12px
+	}
+	
+.font2
+	{
+	FONT-SIZE: 14px; LINE-HEIGHT: 16px
+	}
+	
+.font3
+	{
+	FONT-SIZE: 16px; LINE-HEIGHT: 18px
+	}
+	
+.font4
+	{
+	FONT-SIZE: 18px; LINE-HEIGHT: 20px
+	}
+	
+.font5
+	{
+	FONT-SIZE: 20px; LINE-HEIGHT: 25px
+	}
+	
+.fonts
+	{
+	FONT-SIZE: 3.6mm; LINE-HEIGHT: 4mm
+	}
+	
+.fonts0
+	{
+	FONT-SIZE: 2.3mm; LINE-HEIGHT: 3.0mm
+	}
+	
+.fonts1
+	{
+	FONT-SIZE: 2.8mm; LINE-HEIGHT: 3.5mm
+	}
+	
+.fonts2
+	{
+	font-size: 3.2mm; line-height: 4.0mm; color: #000000
+	}
+	
+.fonts3
+	{
+	font-size: 3.4mm; line-height: 4.5mm; color: .663333
+	}
+	
+.fonts4
+	{
+	font-size: 3.8mm; line-height: 5.0mm
+	}
+	
+.fontm1
+	{
+	font-size: 4.5mm; line-height: 5.5mm
+	}
+	
+.title
+	{
+	font-size: 5mm; line-height: 5.2mm; font-weight: bold
+	}
+	
+.title1
+	{
+	FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold
+	}
+	
+.title2
+	{
+	FONT-SIZE:14px; LINE-HEIGHT: 16px ; FONT-WEIGHT:bold
+	}
+	
+.indent{
+	text-indent: 14px;
+}
+
+	
+
+/*▲font
+------------------*/
+
+/*▼link
+------------------*/
+A:link
+	{
+	color:#000000 ; text-decoration: none
+	}
+	
+A:visited
+	{
+	color:#ff0000 ; text-decoration: none
+	}
+	
+A:hover
+	{
+	color:#666666; text-decoration: underline
+	}
+
+
+/*▲link
+------------------*/

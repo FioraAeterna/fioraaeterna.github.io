@@ -1,0 +1,379 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image:url(img/bg.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:fixed;
+}
+
+/* ▼グローバルナビ
+--------------------------------------- */
+
+#gloabalnave_bg{
+	width:auto;
+	height:40px;
+	background-color:#FFF;
+	border-bottom:1px solid #F00;
+
+}
+
+#globalnave{
+	width:800px;
+	height:40px;
+	background-color:#FFF;
+	margin:0 auto;
+}
+
+#globalnave .shoplog{
+	width:102px;
+	height:40px;
+	float:left;
+	background-image:url(img/arportal_logo.gif);
+	background-repeat:no-repeat;
+	background-position:top;
+	margin:0px 0 1px 0px;
+}
+
+#globalnave .shoplog a{
+	width:155px;
+	height:28px;
+	display:block;
+	position:absolute;
+}
+
+#globalnave .shoplog span{
+	width:155px;
+	height:28px;
+	display:block;
+	visibility:hidden;
+}
+
+#globalnave .sharearea{
+	width:auto;
+	height:28px;
+	padding:7px 0 0 0px;
+	float:right;
+}
+
+#globalnave .sharearea .twitter{
+	padding:2px 0 0 0;
+	float:left;
+}
+
+#globalnave .sharearea .facebook{
+	padding:2px 0 0 5px;
+	float:left;
+}
+
+
+/* ▼コンテンツ
+--------------------------------------- */
+
+#content{
+	width:800px;
+	height:auto;
+	margin:0 auto;
+	background-color:#FFF;
+	border-bottom:1px solid #5ab1ee;
+	border-left:1px solid #5ab1ee;
+	border-right:1px solid #5ab1ee;
+}
+
+#header{
+	width:800px;
+	height:250px;
+	text-indent:-9999px;
+	background-image:url(img/header.jpg);
+	background-position:top;
+	background-repeat:no-repeat;
+}
+
+#menu_bg{
+	width:800px;
+	height:29px;
+	background-image:url(img/menu_bg.jpg);
+	margin:5px 0 5px 0;
+}
+
+#menu_text{
+	font-size:12px;
+	font-weight:bold;
+	line-height:29px;
+	text-align:center;
+	color:#378fcd;
+}
+
+#menu_text a:link{text-decoration:underline; color:#378fcd;}
+#menu_text a:visited{text-decoration:underline; color:#378fcd;}
+#menu_text a:hover{text-decoration:underline; color:#F00;}
+
+#coment_waku{
+	width:700px;
+	height:auto;
+	border:1px solid #F00;
+	margin:15px auto;
+	padding:5px;
+}
+
+#coment_waku .coment{
+	width:676px;
+	height:auto;
+	border:1px solid #F00;
+	padding:10px;
+	font-size:12px;
+	line-height:16px;
+	color:#333;
+}
+
+.group_container{
+	width:700px;
+	height:auto;
+	margin:0 auto;
+	padding-bottom:15px;
+}
+
+.group_container .header{
+	width:700px;
+	height:60px;
+}
+
+.group_container .top{
+	width:700px;
+	height:30px;
+	background-image:url(img/group_top.jpg);
+}
+
+.group_container .middle{
+	width:700px;
+	height:auto;
+	background-image:url(img/group_middle.jpg);
+	background-position:top;
+	background-repeat:repeat-y;
+}
+
+.group_container .bottom{
+	width:700px;
+	height:20px;
+	background-image:url(img/group_bottom.jpg);
+}
+
+.img_group_type1{
+	width:690px;
+	height:auto;
+	margin:0 auto;
+}
+
+.img_group_type1 .img{
+	width:306px;
+	height:230px;
+	margin:0 auto;
+}
+
+.img_group_type1 .title{
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	color:#d23c3c;
+}
+
+.img_group_type1 .text{
+	font-size:10px;
+	line-height:12px;
+	text-align:center;
+	color:#4f4f4f;
+}
+
+.type2_sidespace{
+	width:20px;
+	height:230px;
+	float:left;
+}
+
+.type3_sidespace{
+	width:20px;
+	height:230px;
+	float:left;
+}
+
+.type4_sidespace{
+	width:25px;
+	height:230px;
+	float:left;
+}
+
+.type5_sidespace{
+	width:25px;
+	height:230px;
+	float:left;
+}
+
+.img_group_type2{
+	width:330px;
+	height:auto;
+	margin:0 auto;
+	float:left;
+}
+
+.img_group_type2 .img{
+	width:306px;
+	height:230px;
+	margin:0 auto;
+}
+.img_group_type2 .title{
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	color:#d23c3c;
+}
+
+.img_group_type2 .text{
+	font-size:10px;
+	line-height:12px;
+	text-align:center;
+	color:#4f4f4f;
+}
+
+.img_group_type3{
+	width:220px;
+	height:auto;
+	margin:0 auto;
+	float:left;
+}
+
+.img_group_type3 .img{
+	width:200px;
+	height:230px;
+	margin:0 auto;
+}
+.img_group_type3 .title{
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	color:#d23c3c;
+}
+
+.img_group_type3 .text{
+	font-size:10px;
+	line-height:12px;
+	text-align:center;
+	color:#4f4f4f;
+}
+
+.img_group_type4{
+	width:165px;
+	height:auto;
+	margin:0 auto;
+	float:left;
+}
+
+.img_group_type4 .img{
+	width:160px;
+	height:230px;
+	margin:0 auto;
+}
+
+.img_group_type4 .title{
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	color:#d23c3c;
+}
+
+.img_group_type4 .text{
+	font-size:10px;
+	line-height:12px;
+	text-align:center;
+	color:#4f4f4f;
+}
+
+.img_group_type5{
+	width:130px;
+	height:auto;
+	margin:0 auto;
+	float:left;
+}
+
+.img_group_type5 .img{
+	width:120px;
+	height:230px;
+	margin:0 auto;
+}
+
+.img_group_type5 .title{
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	color:#d23c3c;
+}
+
+.img_group_type5 .text{
+	font-size:10px;
+	line-height:12px;
+	text-align:center;
+	color:#4f4f4f;
+}
+
+
+
+.oubo_btn{
+	width:140px;
+	height:40px;
+	margin:0 auto;
+	padding:15px 0 5px 0;
+	clear:both;
+}
+
+.insert_coment{
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	line-height:18px;
+	color:#F00;
+	clear:both;
+	padding:20px 0 15px 0;
+}
+
+.supporters_link{
+	width:500px;
+	height:auto;
+	font-size:10px;
+	line-height:14px;
+	text-align:center;
+	color:#F00;
+	margin:0 auto;
+	padding:0 0 15px 0;
+}
+
+.supporters_link a:link{text-decoration:underline; color:#00F;}
+.supporters_link a:visited{text-decoration:underline; color:#00F;}
+.supporters_link a:hover{text-decoration:underline; color:#00F;}
+
+
+#footer_line{
+	width:800px;
+	height:29px;
+	background-image:url(img/menu_bg.jpg);
+	margin:10px 0 0 0;
+}
+
+#footer{
+	width:800px;
+	height:30px;
+	font-size:10px;
+	line-height:20px;
+	text-align:center;
+	color:#378fcd;
+}
+

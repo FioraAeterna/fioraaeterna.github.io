@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+.font_small{
+	font-size:10px;
+	line-height:14px;
+	color:#FF3333;
+}
+
+.font_normal{
+	font-size:12px;
+	line-height:16px;
+	color:#000000;
+}
+
+.font_faqnormal{
+	font-size:12px;
+	line-height:20px;
+	color:#000000;
+}
+
+.font_red{
+	font-size:12px;
+	line-height:16px;
+	color:#FF0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+
+.font_title{
+	font-size:18px;
+	line-height:20px;
+	color:#FFFFFF;
+}
+
+.font_title2{
+	font-size:16px;
+	line-height:20px;
+	color:#cc0000;
+	font-weight:bold;
+}
+
+
+.font_copyright{
+	width:100px;
+	height:20px;
+	font-size:10px;
+	line-height:12px;
+	padding:0 0 0 630px;
+}
+
+
+
+
+#header{
+	width:900px;
+	height:350px;
+	margin:0 auto;
+	padding-bottom:10px;
+}
+
+#main_contents{
+	width:900px;
+	height:auto;
+	margin:0 auto;
+}
+
+#contents_area{
+	width:800px;
+	height:auto;
+	margin:0 auto;
+}
+
+#btn1{
+	width:250px;
+	height:60px;
+	float:left;
+	padding:0 0 0 150px;
+}
+#btn1_faq{
+	width:250px;
+	height:60px;
+	float:left;
+	padding:0 0px 0 120px;
+}
+#btn2{
+	width:250px;
+	height:45px;
+	float:left;
+	padding:8px 0 7px 20px;
+}
+#btn2_faq{
+	width:250px;
+	height:45px;
+	float:left;
+	padding:0px 115px 0 50px;
+	font-size:10px;
+	line-height:12px;
+	text-align:center;
+	color:#cc0000;
+	font-weight:bold;
+}
+#copy_right{
+	width:800px;
+	height:30px;
+	margin:0 auto;
+}

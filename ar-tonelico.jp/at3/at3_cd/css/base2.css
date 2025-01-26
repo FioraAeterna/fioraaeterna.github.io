@@ -1,0 +1,150 @@
+﻿/*▼layout
+------------------*/
+
+body
+    {
+    margin:0px;
+    padding:0px;
+	background-color:#FFFFFF;
+	background-image:url(../img/bg_01.html);
+	background-position:center top;	 
+    text-align:center;
+    }
+
+#main
+    {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:659px;
+    }
+
+#main2
+    {
+    margin-left:auto;
+    margin-right:auto;
+	background-position:center top;	 	
+    text-align:center;
+    width:800px;
+    }
+	
+.example
+	{ 
+	filter:alpha(opacity=65); 
+	-moz-opacity: 0.65;
+	opacity: 0.65; 
+	}
+
+/*▲layout
+------------------*/
+
+/*▼font
+------------------*/
+
+.font0
+	{
+	FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px
+	}
+	
+.font1
+	{
+	FONT-SIZE: 3mm; LINE-HEIGHT: 12px
+	}
+	
+.font2
+	{
+	FONT-SIZE: 14px; LINE-HEIGHT: 16px
+	}
+	
+.font3
+	{
+	FONT-SIZE: 16px; LINE-HEIGHT: 18px
+	}
+	
+.font4
+	{
+	FONT-SIZE: 18px; LINE-HEIGHT: 20px
+	}
+	
+.font5
+	{
+	FONT-SIZE: 20px; LINE-HEIGHT: 25px
+	}
+	
+.fonts
+	{
+	FONT-SIZE: 3.6mm; LINE-HEIGHT: 4mm
+	}
+	
+.fonts0
+	{
+	FONT-SIZE: 2.3mm; LINE-HEIGHT: 3.0mm
+	}
+	
+.fonts1
+	{
+	FONT-SIZE: 2.8mm; LINE-HEIGHT: 3.5mm
+	}
+	
+.fonts2
+	{
+	font-size: 3.2mm; line-height: 4.0mm; color: .000000
+	}
+	
+.fonts3
+	{
+	font-size: 3.4mm; line-height: 4.5mm; color: .663333
+	}
+	
+.fonts4
+	{
+	font-size: 3.8mm; line-height: 5.0mm; FONT-WEIGHT:bold
+	}
+	
+.fontm1
+	{
+	font-size: 4.5mm; line-height: 5.5mm
+	}
+	
+.title
+	{
+	font-size: 5mm; line-height: 5.2mm; font-weight: bold
+	}
+	
+.title1
+	{
+	FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold
+	}
+	
+.title2
+	{
+	FONT-SIZE:20px; LINE-HEIGHT: 20px ; FONT-WEIGHT:bold
+	}
+	
+.indent{
+	text-indent: 14px;
+}	
+
+/*▲font
+------------------*/
+
+/*▼link
+------------------*/
+A:link
+	{
+	color:#D92F0E ; text-decoration: none
+	}
+	
+A:visited
+	{
+	color:#971F08 ; text-decoration: none
+	}
+	
+A:hover
+	{
+	color:#4A22DD; text-decoration: underline
+	}
+
+
+/*▲link
+------------------*/

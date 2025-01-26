@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shop.salburg.com	TRUE	/	FALSE	1999999999	PHPSESSID	26t9jch9g0uto69lc74m2etfq2
+www.salburg.com	TRUE	/	FALSE	1999999999	PHPSESSID	n12102bhj4ji4vmvvu353cbt21
+ar-tonelico.jp	TRUE	/	FALSE	1999999999	PHPSESSID	aus2biolp8p6jmb15j56dd1ln5
+www.salburg.com	TRUE	/	FALSE	1999999999	BBS_view	0
+www.salburg.com	TRUE	/	FALSE	1999999999	BRAND_number	1199
+

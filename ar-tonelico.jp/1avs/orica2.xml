@@ -1,0 +1,705 @@
+﻿<cs>
+<comment>
+<talk id="3" chara="coneco" face="" cos="01">前回までのコネコちゃん！！</talk>
+<bg src="kyoukai"/>
+<bgm src="oricaCS1"/>
+<talk id="3" chara="coneco" face="00" cos="01">オリカ、あなた今、時間あるわよね？</talk>
+<talk id="0" chara="orica" face="12" cos="standerd">うん、暇だよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それなら、私とちょっとだけ浮気しない？</talk>
+<talk id="0" chara="orica" face="14" cos="standerd">・・・あたし、そういう趣味はないよ。</talk>
+<exec param="ffout"/>
+<bg src="stone"/>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="0" chara="donsuke" face="01" cos="01">なるほど・・・そうか、オリカさんのご友人 ならばどうにかできるかも知れんな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あら、何か手伝ってほしいことが あるの？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">うむ、オリカさんのご友人であるおぬしに、一つお願いしたいことがある。</talk>
+<talk id="0" chara="donsuke" face="03" cos="01">オリカさんを、助けてやってくれないか？</talk>
+<exec param="ffout"/>
+<bg src="city"/>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="0" chara="orica" face="08" cos="miko">・・・自分の本心なんて、知らない方が 良いこともあるよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">じゃあ、その逆もあるってことよね？ だったら知る意味は十分あるわ。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="mule" face="03" cos="01">私は、ライナーからの伝言を届けにきたのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・伝言？ ライナー達が？</talk>
+<talk id="1" chara="mule" face="03" cos="01">ええ、そうよ。 大至急、オリカって子に届けてくれって。</talk>
+<talk id="2" chara="orica" face="01" cos="miko">オリカはあたしだよ。 ライナー、なんて言ってたの？</talk>
+<talk id="1" chara="mule" face="03" cos="01">これからはミシャと一緒にいる。 だからオリカとはサヨナラだ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">以上、ライナーからの伝言よ。</talk>
+<talk id="2" chara="orica" face="14" cos="miko">・・・うそ。</talk>
+<talk id="1" chara="mule" face="01" cos="01">ふふ・・・あなたの答え決まった？</talk>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<exec param="fout"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">そして、物語はクライマックスへ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">後編、スタート！！</talk>
+<bgm src="kintyou"/>
+<wait time=" 30"/>
+<exec param="fin"/>
+<talk id="2" chara="orica" face="14" cos="miko">・・・ライナーが、そう言ってたの？</talk>
+<talk id="1" chara="mule" face="03" cos="01">ええ、言ってたわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ま、まさか、そんな・・・ ありえないでしょそれは？</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、そうなの？</talk>
+<talk id="1" chara="mule" face="03" cos="01">私は知らないけど、そう言われるような ことでもしたんじゃないの？</talk>
+<talk id="2" chara="orica" face="04" cos="miko">・・・・・・。</talk>
+<talk id="1" chara="mule" face="01" cos="01">あら、図星だったみたいね？ 悪いこと言っちゃったかしら。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・お、オリカ、大丈夫？</talk>
+<talk id="2" chara="orica" face="04" cos="miko">・・・本当に、そう言ったのかな？ あたし、いらないのかな？</talk>
+<talk id="1" chara="mule" face="03" cos="01">さあ？私はライナーに言われたことを 伝えたまでよ。</talk>
+<talk id="2" chara="orica" face="14" cos="miko">・・・お願い、ライナーの居場所、教えて。</talk>
+<talk id="1" chara="mule" face="03" cos="01">それは言えないわ。せっかくミシャと仲良くしてるのに、邪魔したら悪いじゃない。</talk>
+<talk id="2" chara="orica" face="14" cos="miko">でも、こんな一方的に・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">ライナーのこと、信じて無いんでしょう？ ライナーにいらない子だと思われてる。</talk>
+<talk id="1" chara="mule" face="03" cos="01">さっきまでそう言ってたのは、どこの 誰だったかしらね？</talk>
+<talk id="2" chara="orica" face="04" cos="miko">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大丈夫だよ、オリカ。 何かの間違いだって。</talk>
+<talk id="1" chara="mule" face="03" cos="01">それって、私がウソついてるってこと？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私はライナーと会ったことが無いから、 確証を持てないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあ、疑ってはいるけどね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、正直なのね。 でも私、ウソって嫌いなのよ。</talk>
+<talk id="2" chara="orica" face="14" cos="miko">・・・ライナー、本当にそう言ったの？</talk>
+<talk id="1" chara="mule" face="03" cos="01">くどいわね。一体あと何回聞いてくるの かしら？</talk>
+<talk id="2" chara="orica" face="04" cos="miko">ライナー、ミシャちゃんと二人でどこか 行っちゃうの？</talk>
+<talk id="1" chara="mule" face="03" cos="01">ええ、そうよ。 あなたのいない所にね。</talk>
+<talk id="2" chara="orica" face="04" cos="miko">・・・・・・。</talk>
+<talk id="2" chara="orica" face="03" cos="miko">そんなの・・・そんなのイヤだよ！！</talk>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ、オリカ待ちなさい！ オリカってば！！</talk>
+<buc id=" 1" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="01" cos="01">うふふ・・・パニックになっちゃって。 想像以上に脆かったみたいね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="mule" face="03" cos="01">あら、何か言いたそうね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あなた、本当にライナーから伝言を 預かったの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">確証は持てないわよ？ けど・・・なんか信じられないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もしそれが本当なら、もっと早くオリカに見切りをつけてるはずじゃない？</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="" cos="01">どうなの？ 本当にライナーはそんなこと言ったの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・今更、何を言ってるの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">全部私のデタラメに決まってるじゃない。</talk>
+<talk id="0" chara="mule" face="03" cos="01">あの子はなんだかんだ言って、結局 ライナーのことを信じきってるわ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">そんな子のコスモスフィアにいるライナーが、そんなこと言うわけ無いでしょ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">やっぱりね・・・あなた、どういうつもり？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなことしたら、現実世界のオリカに どんな影響が出るか、わかってるの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">心に閉じこもるか、それとも心が壊れるか。・・・まあ、そんなとこかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなところって・・・このっ！</talk>
+<bgm src="yuukan"/>
+<talk id="0" chara="mule" face="02" cos="01">！？</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="mule" face="03" cos="01">・・・驚いた。まさか、私に掴みかかろうとするなんてね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">掴みかかろうとした訳じゃないわ。 引っぱたこうとしたのよ！</talk>
+<talk id="1" chara="mule" face="02" cos="01">！？</talk>
+<buc id=" 1" action="out"/>
+<talk id="2" chara="mule" face="02" cos="01">くっ・・・あなた、中々素早いわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなたこそ、ちょこまかちょこまかと！！</talk>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="01" cos="01">・・・ふふ、でも良いの？ 私と追いかけっこなんかしてて？</talk>
+<talk id="0" chara="mule" face="01" cos="01">あの子、もうどこに行ったかわからなく なってるわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、あっ！！ しまった！！</talk>
+<talk id="0" chara="mule" face="03" cos="01">言っておくけど、あなたが勝手に私を 相手してただけなんだからね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あなた、本当になんなのよ！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうしてオリカのコスモスフィアに、あなたみたいな人がいるの！？</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・あの子には今まで、色々と邪魔を されてきたからね。</talk>
+<talk id="0" chara="mule" face="03" cos="01">だからまあ、そうね・・・暇つぶしを兼ねた復讐、ってところかしら？</talk>
+<talk id="0" chara="mule" face="01" cos="01">運良くあなたがダイブしてたおかげで、想像以上に楽しませてもらってるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="mule" face="01" cos="01">そうだ、良いことを思いついたわ。 あなた、オリカを助けたいと思ってる？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">当然のこと言わないで。</talk>
+<talk id="3" chara="mule" face="01" cos="01">だったら丁度良いわ。 あなた、私と勝負しなさい。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">トォッ！！</talk>
+<talk id="0" chara="mule" face="02" cos="01">！？</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="mule" face="02" cos="01">いきなりとび蹴りって、何考えてるの！？ 人の話しは最後まで聞きなさい！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だったら早く言いなさいよ！ オリカを探さなきゃいけないんだから！</talk>
+<buc id=" 1" action="out"/>
+<buc id="1" action="out"/>
+<talk id="0" chara="mule" face="02" cos="01">まったく・・・勝負の内容は簡単よ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">今のあの子は、私のウソのせいでかなり パニック状態になっているわ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">それでもあの子を説得して、この世界から脱出させればあなたの勝ち。</talk>
+<talk id="0" chara="mule" face="03" cos="01">あの子がこのままこの世界に留まることを決めたなら、私の勝ち。</talk>
+<talk id="0" chara="mule" face="03" cos="01">それと、このコスモスフィアが崩壊しても、私の勝ちよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">納得がいかないわ！！ 完璧に私が不利じゃない！</talk>
+<talk id="0" chara="mule" face="03" cos="01">あら、そう？ だったら実力勝負でも良いのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">望むところよ！ 泣いて謝っても許さないんだから！</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・ちなみに、私がレーヴァテイルだって知ってて挑んでくるのよね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・は？</talk>
+<talk id="0" chara="mule" face="01" cos="01">つまり、こういうことよ。</talk>
+<se param="explode1"/>
+<act action="flash"/>
+<act action="quake"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・家が、吹っ飛んだ。</talk>
+<act action="clear"/>
+<talk id="0" chara="mule" face="01" cos="01">次は山でも吹き飛ばしましょうか？ それとも、もう始める？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・どっちをとっても不利みたいね。</talk>
+<talk id="0" chara="mule" face="03" cos="01">だから選ばせてあげてるのよ。 それくらいの権利は与えないとね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・私が勝負に負けたら、私は どうなるの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">この世界と一緒に滅ぶか、それとも 運良く脱出できるか。</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・もしくは、私が殺してしまうかもね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="mule" face="03" cos="01">さあ、どうする？</talk>
+<select>
+<option tag="t771">命だけは助けてください！！</option>
+<option tag="t785">売られた喧嘩は買うわ！！</option>
+</select>
+<tag name="t771"/>
+<talk id="0" chara="mule" face="03" cos="01">それってつまり、私に負けを認めてここから出て行くって意味？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、当たり前でしょ！ 魔法なんか相手にどうしろってのよ！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私は死ぬためにダイブしたわけじゃないわ！</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="0" chara="mule" face="02" cos="01">そんないい加減な気持ちで、レーヴァテイルにダイブしてるなんて・・・。</talk>
+<talk id="0" chara="mule" face="02" cos="01">汚らわしい人間ね。 死んでしまいなさい！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">や、やだ！ きゃぁぁぁぁぁぁぁぁっ！！</talk>
+<act action="flash"/>
+<act action="quake"/>
+<se param="explode1"/>
+<exec param="ffout"/>
+<act action="clear"/>
+<exec param="over"/>
+<tag name="t785"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="mule" face="01" cos="01">あら、怖気づいちゃったかしら？ やっぱりただの人間ね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・誰が怖気づいてるですって？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">勝った時のことを想像してたのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">泣いて謝るあなたに、お尻叩き千回の 刑をしてるところをね。</talk>
+<talk id="0" chara="mule" face="02" cos="01">・・・あなた、本気なの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何よそれ？ あなたが先に言ってきたことじゃない。</talk>
+<talk id="0" chara="mule" face="03" cos="01">私の魔法を見て、怖気づかないの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">とおっ！！</talk>
+<talk id="0" chara="mule" face="02" cos="01">！？</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="2" chara="mule" face="02" cos="01">くっ、卑怯者！ 不意打ちなんてズルいじゃない！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">不利な条件で勝負を挑んだあげく、魔法を使って脅してきた人の言うこと？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">言っておくけど、私ね、今とっても ムカついてるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなたのその相手を見下して話す態度、 気に入らないわ！！</talk>
+<buc id=" 2" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="03" cos="01">あら、そう。 それじゃあどうするの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">売られた喧嘩は買うわ。 絶対に後悔させてやるんだから！！</talk>
+<talk id="0" chara="mule" face="02" cos="01">・・・本気？私が魔法を使ってあなたを 殺すとか、考えないの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなたこそ、私に喧嘩売った以上、 後ろには気をつけた方が良いわよ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="0" chara="mule" face="01" cos="01">・・・面白い人間ね。</talk>
+<talk id="3" chara="mule" face="01" cos="01">あなたみたいなバカな人間がいるなんて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ダイブした以上、私は全力でオリカの 精神世界を守る義務があるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから、絶対にここを壊させたりしない。 オリカを悲しませたりもしない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ついでに、絶対にあなたを泣かせてみせる！！</talk>
+<talk id="0" chara="mule" face="01" cos="01">威勢が良いこと。 それじゃ、一つご褒美をあげる。</talk>
+<talk id="0" chara="mule" face="01" cos="01">私が負けたら、二度とこの子のコスモスフィアには関わらないと約束するわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それってご褒美なの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">あなたの目が届かないところで手を出す なんて、朝飯前だけど？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・やっぱりあなた、卑怯だわ。</talk>
+<talk id="0" chara="mule" face="01" cos="01">あら、卑怯に屈する？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなことあるわけ無いでしょ。 絶対に負けないわ！！</talk>
+<talk id="0" chara="mule" face="01" cos="01">そう・・・まあ、せいぜい私を楽しませなさいよ。</talk>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<bgm src="oricaCS1"/>
+<talk id="3" chara="coneco" face="00" cos="01">くっ・・・とび蹴りの一発くらい当たると 思ったのに・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それにしても、なんかヤバいことに なっちゃったなぁ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">勝手に勝負なんか受けちゃって、 ドンちゃんに怒られるかも・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・とにかく、オリカを探さないと。 誰か手伝ってくれる人でも探そう。</talk>
+<exec param="ffout"/>
+<bg src="town"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">すいませ～ん！ 誰かいますか～？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょっと手伝ってもらいたいことがあるんですけど、すいませ～ん！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・誰も顔を出してもくれないなんて、 寂しいわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まったく、こっちはどこに何があるかもわからないってのに、まったく・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・こんな時、ドンちゃんがいてくれたら。</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">コネコ殿ぉぉぉぉぉ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ドンちゃん！！</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">ええい、その呼び方はやめぇい！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もう、今の今までどこに行ってたのよ？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">そんなことより、オリカさんは今どこに？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それがわからないから困ってるのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカったら、ライナーからのウソの 伝言を聞いて、飛び出しちゃったの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから多分、今頃ライナーを探しにあっち こっち走り回ってるんじゃないかな？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">むむぅ・・・大変なことになった・・・ そんなことをしても、無駄だというのに。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">無駄って、どういうこと？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">拙者はこのコスモスフィアのあちこちを 見て回ってきたのだ。</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">だが、この世界のどこにもライナーと ミシャなど存在しなかった。</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">それだけじゃない。この世界に、我々 以外は誰も存在していなかったのだ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">誰もって・・・ええっ！？ おかしいでしょそれって！？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">いや、考えてみれば何が起きても おかしくない状況なのだ。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">ここはオリカさんの不安定な精神によって一時的に生み出された世界だ。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">そのような場所が、他の世界と同じだと 思ったのが間違いだったらしい。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あ、あのさ、なんか今、すっごい聞き捨てならないこと言わなかった？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">一時的にってことは、いずれは・・・。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">うむ、消えることに間違いは無い。</talk>
+<talk id="0" chara="donsuke" face="03" cos="01">それにオリカさんの不安も爆発寸前だ。 いつここが崩壊してもおかしくない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・とんでもない状況にあるってことね。</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">それもこれも、ライナーがオリカさんを 不安がらせたりしたせいだ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まったく、オリカを助けてくれた人って 聞いたから良い人だと思ってたのに！</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">まあ・・・ここだけの話、あいつも結構 がんばってはいるのだがな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">女心がわからない男は問答無用で 悪よ！！</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">むっ、なるほど・・・女性からの意見、 ありがたく頂戴する。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">それはそうと、コネコ殿も早く脱出した方が良い。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカを助けるって約束したでしょ。 だから、絶対にイヤ。</talk>
+<talk id="0" chara="donsuke" face="03" cos="01">しかしここが崩壊したら、コネコ殿まで。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなのは崩壊した後に考えるわ！ ほらドンちゃん、オリカ探しに行くよ！</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">コネコ殿・・・わかった、ならば拙者は 最後までコネコ殿をお守りいたす！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">頼りにしてるわよ。</talk>
+<talk id="0" chara="donsuke" face="04" cos="01">コネコ殿のご命令ならば、拙者、盾にも武器にもなろう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">じゃあ、オリカがいそうな場所に案内して。大至急！</talk>
+<talk id="0" chara="donsuke" face="04" cos="01">うむ、こっちだ！</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="yama"/>
+<bgm src="isamasii"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">はぁ・・・はぁ・・・到着～！</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">まさかこの山を走って上りきるとは、それほどまでにオリカさんのことを・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあね・・・それ以外にもあるんだけど。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">むっ！？コネコ殿、オリカさんだ！</talk>
+<talk id="0" chara="orica" face="04" cos="angel">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ホントだ・・・って、なんで鎧着てんの？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">むむむ・・・そうか、ようやくわかった。 そういうことだったのか。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">あの服は、現状のオリカさんが自分自身を隠すための鎧を意味しているものだ。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">いつもの服よりも、先ほど着ていた服は厚かったであろう？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">しかし今は先ほどよりも厚く、頑丈なものになってしまった。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・なるほどね、わかったわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカを脱がせば良いのね！</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">微妙に違ぁう！！</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">オリカさんが現実世界で着ていた服の 状態にしなければならないのだ。</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">普段からオリカさんは、あの着物のような分厚い服で自分の心を隠していた。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">それを脱がし、本来の自分の服にする ことで、オリカさんは救われるはずだ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なるほどね・・・裸にしたら本心丸出しの人間になっちゃうってことか。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">うむ、常にはっちゃけ状態のとんでも 人間になってしまう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それは危険よね・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ん、あれは！！</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="2" chara="mule" face="03" cos="01">こんにちは、オリカ。</talk>
+<talk id="1" chara="orica" face="14" cos="angel">あ・・・あなたは。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">マズイ！ ドンちゃん、出番よ！！</talk>
+<talk id="1" chara="donsuke" face="02" cos="01">了解した！ そこの女、オリカさんから・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">行っけぇ！！</talk>
+<talk id="1" chara="donsuke" face="02" cos="01">は？ ぬおおおおおお！？</talk>
+<talk id="2" chara="mule" face="02" cos="01">！？</talk>
+<buc id=" 2" action="out"/>
+<talk id="1" chara="mule" face="02" cos="01">きゃっ！！</talk>
+<talk id="2" chara="donsuke" face="02" cos="01">ギャーーーーーースッ！！</talk>
+<se param="naguru"/>
+<act action="quake"/>
+<wait time=" 30"/>
+<act action="clear"/>
+<talk id="2" chara="donsuke" face="03" cos="01">キュゥ・・・。</talk>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">くっ、外したか・・・。</talk>
+<talk id="2" chara="orica" face="03" cos="angel">ど、どんすけ！？ しっかりしてどんすけ！！</talk>
+<talk id="1" chara="mule" face="02" cos="01">あなた、心の護を投げるなんてどういう神経してるの！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そうさせたのはあなたでしょ！？ またオリカに、変なこと吹き込むつもり？</talk>
+<talk id="1" chara="mule" face="03" cos="01">事実を言うまでのことよ。ライナーはこの世界にはいない、ってね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ええ、そうね。ライナーもミシャも、 この世界にはいないわ。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・知ってる。 どこ見ても、誰もいなかったもん。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">みんな・・・あたしのことイヤになった から、いなくなっちゃったんだよね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなことないわ。ここには元々、誰も 存在なんかしてなかったのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私達が特別なだけよ。誰もオリカを嫌がっていなくなったわけじゃないわ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、そうなの？ 私はそうは思わないけど？</talk>
+<talk id="1" chara="mule" face="03" cos="01">突然変異だろうとなんだろうと、ここは 紛れも無くコスモスフィアよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">なのに、そんな最初から誰もいない なんてことあるかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・その可能性も、あるわね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、認めるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">その可能性もある、ってだけの話よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、もしそうだとしても、オリカがイヤでいなくなったわけじゃないわ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">だったら、どうして誰もいないの？</talk>
+<talk id="3" chara="mule" face="03" cos="01">まさか突然変異だからとか言わないわよね？</talk>
+<select>
+<option tag="t932">その通り！</option>
+<option tag="t948">みんなが世界を出て行ったから</option>
+</select>
+<tag name="t932"/>
+<bgm src="kanasii"/>
+<talk id="2" chara="orica" face="04" cos="angel">・・・そんな変なコスモスフィアが出来る ほど、あたしって変なんだね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ち、違う！そういう意味じゃなくて、 えっと・・・。</talk>
+<act action="quake"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">うわっ、地震！？</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら残念、どうやらコスモスフィアが 崩壊するみたいね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うそ！？</talk>
+<talk id="1" chara="mule" face="03" cos="01">ふふ・・・勝負は私の勝ちみたいね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんな・・・オリカ、しっかりして！ オリカ！！</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<exec param="ffout"/>
+<act action="clear"/>
+<exec param="fout"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">いやぁぁぁぁぁぁぁぁぁぁぁぁぁ！！</talk>
+<exec param="over"/>
+<tag name="t948"/>
+<bgm src="kanasii"/>
+<talk id="1" chara="mule" face="03" cos="01">ほらみなさい、私の言った通りでしょ。</talk>
+<talk id="2" chara="orica" face="14" cos="angel">・・・やっぱり、あたしが嫌われてるから？</talk>
+<talk id="2" chara="orica" face="14" cos="angel">みんな、あたしに消えてもらいたいの かな？</talk>
+<talk id="1" chara="mule" face="03" cos="01">当然でしょ。嫌われ者は消えた方が、 みんなのためなのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私はそうは思わないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もしみんながここから出て行ったなら、 それはオリカが嫌になったんじゃない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">多分、オリカを信じているからよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカだったら、自分一人でも動くことが出来る。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">自分の力で、この世界から抜け出すことが出来るって、信じてるからだと思う。</talk>
+<talk id="2" chara="orica" face="12" cos="angel">あたしが、自分の力で？</talk>
+<talk id="1" chara="mule" face="03" cos="01">バカバカしい。ライナー達のことを何も 知らないくせに、よく言えるわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも話は聞いたわ。オリカのことを、 身を挺して守ったってね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それで十分よ、完璧じゃない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大体、そんな嫌な相手のことを、身を挺して守るわけないじゃない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカ、そこまでされてまだライナー達を信じられないとか言ってるの？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・信じてないわけじゃ、ないもん。</talk>
+<talk id="1" chara="mule" face="03" cos="01">ダメよオリカ。ライナーと会ったことも無い人の言葉に耳を貸しちゃ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あら、あなたもそんなこと悠長に言って られないわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">この世界は私とオリカ、そしてドンちゃん以外は存在しないはずの世界。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だとしたらあなた、一体何者？ オリカ、この子のこと知ってる？</talk>
+<talk id="2" chara="orica" face="12" cos="angel">え・・・さっき初めて会ったから、よくは 知らないよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だってさ、ミウちゃん。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカのコスモスフィアに、どうしてオリカの知らない人が存在するのかしら？</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ダメよ、オリカ。あなただって本当は ライナーのこと、信じてるんでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカが本当はどう考えているのか、 それが知りたいの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカが正直に、今の自分の気持ちを 言えばどうにでもなるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だってここは、あなたのコスモスフィア なんだから！</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・ライナー達、本当にあたしを信じて くれてると思う？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">多分ね。ライナーもミシャも、他の人達もみんな、そう思ってるんじゃないかな？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">本当にそう思う？本当は、自分が助かりたいからそう言ってるだけじゃないの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">ありえるわね。だって、まだオリカと 会ったばかりなんでしょ？</talk>
+<talk id="1" chara="mule" face="03" cos="01">そんな相手のこと、本気で助けようだ なんて思う人、いるわけないわ。</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・そうだね。そんなこと・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・なに？</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・ねえ、コネコ。 一つだけ聞いて良いかな？</talk>
+<talk id="2" chara="orica" face="12" cos="angel">コネコは、本気であたしがライナーの こと、信じてると思ってる？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあね。なんだかんだ言ってはいるけど、結局は信じてるんでしょ？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">でも、あたしが信じてなかったらどうする？</talk>
+<talk id="2" chara="orica" face="08" cos="angel">そしたらこのコスモスフィア、崩壊しちゃうかもしれないんだよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">本気で信じてないなら、もうとっくに崩壊 してるわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まだ、自分がどんな気持ちなのかわからないんでしょ？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、まだ少しでも信じてるって気持ちが残っているなら、どうにでもなるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それにオリカ、まだやりたいことがあるんでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ライナーだけじゃない、ミシャとも、もっと仲の良い友達になりたいんでしょ？</talk>
+<talk id="2" chara="orica" face="14" cos="angel">なんでわかるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私みたいに言いたいこと言って、自分に自信持てる人になりたい。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そう言ったのはオリカでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">その通りのことをしてるだけよ。自信が あるから言いたいこと言ってるだけ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから・・・ハズレてたら死にたくなるほど恥ずかしいわ。</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さて、と。私に出来ることはここまでよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あとはもうオリカに任せるわ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、ようやくお話は終わり？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ええ、やれるべきことは全部やったわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・オリカも、やれるべきことは全部 やったの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">コスモスフィアが消えちゃったら、もう、 何も出来なくなっちゃうんだよ？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・あたし・・・どうなんだろ・・・。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（あ、あれ？なんか黙っちゃったっぽい？）</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・ふふ、どうしちゃったのかしら？ 黙り込んじゃったわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ～・・・ま、まあ、なんとなかるでしょ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">そう？私はそうは思わないわ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">多分、このままこの世界は崩壊して 終わりよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そう慌てないで、少しは見守ってあげようって気持ちは・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">無いわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">やっぱり・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">まあ、この勝負は私の勝ちみたいね。 そんなわけだから・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え？あ、あれ？ なんか、魔法撃つ気満々？</talk>
+<talk id="1" chara="mule" face="02" cos="01">当然でしょ。敗者には消えてもらわないと、目障りだし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まだ、オリカの答えは出てないわ！</talk>
+<talk id="1" chara="mule" face="02" cos="01">あの子がこの世界に留まり続けても、 私の勝ちって話だったわ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">オリカ、あなたにこの世界から出て行こうと思う気持ち、ある？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・・・・。</talk>
+<talk id="1" chara="mule" face="01" cos="01">ふふ・・・私の勝ちね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから少しくらい待ってくれても・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">イヤよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うっわぁ、今更だけど納得行かないわ これ！</talk>
+<talk id="1" chara="mule" face="03" cos="01">本当、今更ね。さよなら人間。</talk>
+<talk id="1" chara="mule" face="03" cos="01">案外楽しめたから、一瞬で楽にして あげる。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょ、ちょっとタンマタンマァ！！</talk>
+<bgm src="kita-"/>
+<act action="flash"/>
+<talk id="2" chara="orica" face="11" cos="angel">！？ だめぇっ！！</talk>
+<act action="flash"/>
+<se param="explode2"/>
+<act action="quake"/>
+<wait time=" 30"/>
+<act action="clear"/>
+<talk id="3" chara="coneco" face="00" cos="01">わひゃぁぁぁぁぁ・・・！！ ・・・あ、あれ？</talk>
+<talk id="1" chara="mule" face="02" cos="01">・・・私の魔法を、相殺した？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">お、オリカの魔法？</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・あたし、コネコの言う通りだよ。</talk>
+<talk id="2" chara="orica" face="08" cos="angel">あたし、なんだかんだ言っても、ライナーのことを信じてるんだよ。</talk>
+<talk id="2" chara="orica" face="08" cos="angel">ライナーだったら、絶対にあたしを置いてくようなことはしないって。</talk>
+<talk id="2" chara="orica" face="08" cos="angel">ミシャちゃんだってそうだよ。 二人とも、酷いこと言うはずないよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・じゃあ、私がウソの伝言を言ったってこと？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ウソじゃん！</talk>
+<talk id="1" chara="mule" face="03" cos="01">事実よ。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">本当かウソか、そんなのわからないよ。 でも、あたしはそんなのイヤだよ。</talk>
+<talk id="2" chara="orica" face="08" cos="angel">だってあたし、ライナーやミシャちゃんと、もっと一緒にいたいもん。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それが、オリカの本当の気持ちだね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ライナーやミシャに、会いたい？</talk>
+<talk id="2" chara="orica" face="08" cos="angel">・・・うん、会いたいよ。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">でも・・・今のままのあたしじゃ、 前と同じだと思う。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">またちょっとしたことで不安になって、 今みたいなことになっちゃうと思う。</talk>
+<talk id="1" chara="mule" face="03" cos="01">だったらもうライナー達のことは 忘れなさい。</talk>
+<talk id="1" chara="mule" face="03" cos="01">この世界にずっといればいいじゃない。</talk>
+<talk id="2" chara="orica" face="08" cos="angel">・・・それはダメだよ。 あたし、この世界から離れたいもん。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なんだ、もう答え出てるじゃん。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">けど、やっぱり不安だよ・・・どうしても、自信が持てないよ・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まったく。</talk>
+<select>
+<option tag="t1056">それくらいで良いんじゃないの？</option>
+<option tag="t1075">もう私は知らないよ</option>
+</select>
+<tag name="t1056"/>
+<talk id="3" chara="coneco" face="00" cos="01">あんまり自信たっぷりってのも、それは それで問題よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカはそのくらいで良いのかもしれないよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それに私みたいになったら、モテなく なっちゃうしね。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・でも、あたし今の自分のままはイヤ。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">けど、コネコは今の方が良いって言うんだし、それで良いのかな？</talk>
+<bgm src="kanasii"/>
+<talk id="2" chara="orica" face="04" cos="angel">・・・なんだか、よくわからなくなって きちゃった。</talk>
+<act action="quake"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ、あれ、地震？</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・変われないんだったら、もう、どうでもいいや。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え！？ま、待ってオリカ！ 前言撤回するわ！！</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、残念。 もう時間切れみたいよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">この勝負は私の勝ちね、サヨナラ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うそっ！？ ちょっとタンマァ！！</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<exec param="ffout"/>
+<act action="clear"/>
+<exec param="fout"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">きゃぁぁぁぁぁぁぁぁぁぁぁ！！</talk>
+<exec param="over"/>
+<tag name="t1075"/>
+<talk id="2" chara="orica" face="14" cos="angel">・・・コネコ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さっきも言った通り、今の私がオリカに 出来ることは、全部やったわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だからもう、これ以上私は何も出来ない。 あとはもう、オリカ次第だよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカはどうなりたいの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どんな風な自分になりたいって思ってたの？</talk>
+<talk id="2" chara="orica" face="12" cos="angel">あたしがなりたい自分・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">変わって良いの？ 今の自分は、そんなに嫌い？</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんな目で見ても、私はもう知らないって。</talk>
+<talk id="2" chara="orica" face="04" cos="angel">・・・・・・。</talk>
+<talk id="2" chara="orica" face="12" cos="angel">・・・・・・。</talk>
+<talk id="2" chara="orica" face="08" cos="angel">・・・うん、決めた。</talk>
+<talk id="2" chara="orica" face="01" cos="angel">決めたよ、あたし。</talk>
+<talk id="2" chara="orica" face="01" cos="angel">ミウちゃん、あたしは今のあたしのこと、 大好きだよ。</talk>
+<talk id="3" chara="mule" face="03" cos="01">そう・・・それで良いのよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">下手に変わって後で失敗するよりは全然良い。良い答えを出したわね、オリカ。</talk>
+<talk id="2" chara="orica" face="01" cos="angel">・・・ううん、それも違うよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・え？</talk>
+<act action="flash"/>
+<buc id=" 2" action="out"/>
+<talk id="1" chara="mule" face="02" cos="01">きゃっ！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うわっ！？</talk>
+<talk id="2" chara="orica" face="01" cos="standerd">・・・あたしは、もっと自分に自信を持てる自分になるよ。</talk>
+<talk id="2" chara="orica" face="01" cos="standerd">一人で不安になって、グズグズしているのはもうイヤ。</talk>
+<talk id="2" chara="orica" face="07" cos="standerd">なりたいんだ・・・コネコみたいにな人に。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・私なんか真似したら、ライナーに 嫌われちゃうよ。</talk>
+<talk id="2" chara="orica" face="07" cos="standerd">・・・大丈夫だよ。ライナーだったら、 どんなあたしでも受け入れてくれるよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・好きとか言っておきながら、結局 変わることを選んだのね。</talk>
+<talk id="2" chara="orica" face="01" cos="standerd">うん、そうだよ。</talk>
+<talk id="2" chara="orica" face="05" cos="standerd">そんな自分だったからこそ、自分のなりたい自分をみつけられたんだもん。</talk>
+<talk id="2" chara="orica" face="05" cos="standerd">それに・・・コネコともこうして仲良くなれたしね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・私の負けね。 まさか、人間ごときに負けるなんて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ふふん、自分に有利な条件用意して 油断してるからよ。</talk>
+<talk id="1" chara="mule" face="02" cos="01">・・・私が本気になれば、ラクに勝てたってことを忘れないでよね。</talk>
+<talk id="1" chara="mule" face="02" cos="01">あくまでも暇つぶしでやっただけなんだから・・・いい気にならないでよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あなた、もしかして負けず嫌い？</talk>
+<talk id="1" chara="mule" face="02" cos="01">・・・・・・。</talk>
+<talk id="1" chara="mule" face="02" cos="01">・・・帰る。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">その前に、あなたは一体何者なの？</talk>
+<talk id="1" chara="mule" face="03" cos="01">別に、ただこの子にちょっと恨みがある暇な女よ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・あなた、コネコとか言ったわね？</talk>
+<talk id="1" chara="mule" face="02" cos="01">もし今度会うことがあったら、覚えておきなさいよ。</talk>
+<buc id=" 1" action="out"/>
+<bgm src="goodend"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・行っちゃった。</talk>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="orica" face="01" cos="standerd">ホント、一体なんだったんだろうね、 あの子。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さあね。まあ、ちゃんと約束は守ってくれそうだから問題ないけど。</talk>
+<talk id="3" chara="donsuke" face="00" cos="01">うーん・・・。</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="2" chara="orica" face="14" cos="standerd">あ、どんすけ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">すっかり忘れてた！ ドンちゃん、大丈夫？</talk>
+<talk id="1" chara="donsuke" face="03" cos="01">う、うむ・・・少々焦ったがな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ごめんね、いきなり頭引っつかんで 投げ飛ばしちゃって。</talk>
+<talk id="1" chara="donsuke" face="04" cos="01">武器にも盾にもなると言ったではないか。気にしないでくれ。</talk>
+<talk id="1" chara="donsuke" face="04" cos="01">それはそうと、上手くやってくれたようだな、コネコ殿。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">別に、私は何もしてないって。</talk>
+<talk id="2" chara="orica" face="07" cos="standerd">ううん、そんなことないよ。 コネコのおかげだよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・そうらしいわ。</talk>
+<talk id="1" chara="donsuke" face="01" cos="01">そうであったか・・・おっと、礼を言う前に、もう一つすることがある。</talk>
+<talk id="1" chara="donsuke" face="01" cos="01">どうやらストーンヘンジが輝いているようだ。</talk>
+<talk id="1" chara="donsuke" face="01" cos="01">今ならばパラダイムシフトが出来るはずだ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ああ、この世界から出れるってことね。</talk>
+<talk id="1" chara="donsuke" face="04" cos="01">うむ、その通りだ。 さあ、急ごう！</talk>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="stone"/>
+<wait time=" 30"/>
+<act action="shift"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">うっわぁ、ホントに光ってるし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカは、ここを通ってこの世界から 出るのよね？</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="orica" face="01" cos="standerd">うん、そうだよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・目に悪そう。</talk>
+<talk id="0" chara="orica" face="14" cos="standerd">・・・地味に怖いこと言わないでよ。</talk>
+<talk id="0" chara="orica" face="01" cos="standerd">でも、もしそうだとしても、あたしは 行くよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だよね。この向こうで、みんな待ってると 思うよ。</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">うん・・・ライナーとミシャちゃんも、 待っててくれてるはずだもん。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカがそう思ってるなら、絶対に その通りよ。</talk>
+<talk id="0" chara="orica" face="14" cos="standerd">でも、二人に会ったら何て言おうかな？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何も言わなくて良いんじゃない？ 二人のところに行くだけで、十分よ。</talk>
+<talk id="0" chara="orica" face="01" cos="standerd">コネコがそう言うなら、間違いないね。</talk>
+<talk id="0" chara="orica" face="08" cos="standerd">・・・ごめんね、色々と迷惑かけちゃって。コネコ、大変だったでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあね、けど良いんじゃないかな？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">浮気なんだから、これくらいスリリングじゃなくちゃ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・さすがに疲れたけどね）</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">もう、そういう趣味はないよ・・・。</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">でも、コネコさえ良かったら、またあたしにダイブしてね。</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">コネコだったら、ライナーより早くあたしの全てを見れちゃうかもね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それは、うん・・・良いわね。</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">あはは・・・それじゃ、行くね。</talk>
+<buc id=" 0" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ、そうだオリカ！ 最後に私からアドバイスよ！</talk>
+<talk id="0" chara="orica" face="01" cos="standerd">ん、なに？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカはね、やっぱり明るい方が 可愛いよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だからこれからは、うんと明るく元気な オリカになってね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">誰にも止められない暴走列車くらいになっちゃっても、全然ＯＫよ！</talk>
+<talk id="0" chara="orica" face="14" cos="standerd">い、良いのかな、そんなになっちゃって？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大丈夫、絶対に問題無し！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">自分に自信を持てない、暗い子って 言われてきたんでしょ？</talk>
+<talk id="0" chara="orica" face="10" cos="standerd">・・・ま、まあ、確かに言われてたけどね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから、その分だけ明るくなっちゃいなって。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私みたいになりたいって言ったでしょ？ だったらそれでも足りないくらいよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">言いたいこと言って、笑顔振りまいてれば誰も文句言わないって。</talk>
+<talk id="0" chara="orica" face="01" cos="standerd">・・・そっか、そうだよね。</talk>
+<act action="flash"/>
+<bgm src="oricaCS2"/>
+<buc id=" 0" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">へ？</talk>
+<talk id="0" chara="orica" face="05" cos="fantasy">うんうん、考えてみればそうだよ。 今までの分、取り返さなきゃダメだよね。</talk>
+<talk id="0" chara="orica" face="05" cos="fantasy">今までのチョベリバなあたしはさよなら。</talk>
+<talk id="0" chara="orica" face="05" cos="fantasy">そしてチョベリグなあたしこんにちは！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょ、ちょべり・・・あ、あの、オリカ？</talk>
+<talk id="0" chara="orica" face="05" cos="fantasy">よぉし、それじゃ今までの分、ライナーを 独り占めしちゃおっと。</talk>
+<talk id="3" chara="orica" face="00" cos="standerd">じゃね、コネコ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え！？あ、行かないで！！</talk>
+<act action="clear"/>
+<act action="flash"/>
+<act action="flash"/>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・え、えっと・・・。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">・・・オリカさん、最後に服が変わったように見えたが？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん・・・変わったね。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">少し、露出が多かったように思えたが？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん・・・ヘソ出してたね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">現実世界で着ていた服装の状態が、オリカの望む姿を現してたんだっけ？</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">うむ・・・それよりも服が薄くなるということは・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・や、やっちゃったかな？</talk>
+<talk id="0" chara="donsuke" face="04" cos="01">いや、拙者的には文句は無いぞ！</talk>
+<talk id="0" chara="donsuke" face="04" cos="01">今までが今までだったのだ、あれくらいで 丁度良いと拙者は思う。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そ、そうよね！</talk>
+<talk id="0" chara="donsuke" face="03" cos="01">だが・・・何か問題が出るのではないかという心配が無いわけでもない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・い、良いの！ 大丈夫だって、絶対！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">これで何も問題無し！！ めでたしめでたし！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大体ね、可愛い女の子っていうのは 明るくて元気なのが一番なのよ！！</talk>
+<talk id="0" chara="donsuke" face="02" cos="01">そ、そうなのか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もちろん、絶対に間違いなし！！</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">うぅむ、まあ、コネコ殿が言うので あれば、その通りなのだろうな。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">それにしても、本当に世話になった。 なんと礼を言って良いのやら。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">良いって良いって、気にしないでよ。</talk>
+<talk id="0" chara="donsuke" face="01" cos="01">もし暇があれば、またいつでもここに 来てくれないか？</talk>
+<talk id="0" chara="donsuke" face="04" cos="01">コネコ殿ならばこのどんすけ、 いつでも歓迎いたす。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ありがと・・・それじゃ、私も帰ろうかな。</talk>
+<talk id="0" chara="donsuke" face="03" cos="01">うむ・・・達者でな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、バイバ・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・またね、ドンちゃん。</talk>
+<talk id="0" chara="donsuke" face="04" cos="01">・・・うむ、またな。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="dive"/>
+<wait time=" 60"/>
+<bgm src="dive"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・疲れた。 なんか、もう帰って寝たいかも。</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">あ、コネコ起きたの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="orica" face="01" cos="standerd">何？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・オリカ、気分はどう？</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">えへへ、それがね、なんだか凄く気分が 良いんだ。</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">ダイブってこんな凄いものだったんだね。</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">ライナーがダイブした時よりも 全然良いの！</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">チョベリグだね、えへへ。 コネコ、あたしの中でどんなことしたの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・言っちゃって良いの？</talk>
+<talk id="0" chara="orica" face="01" cos="standerd">あ、やっぱり良いや。</talk>
+<talk id="3" chara="orica" face="01" cos="standerd">ライナー達探しに行かなきゃダメだしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、また！？</talk>
+<talk id="0" chara="orica" face="12" cos="standerd">また？ 何言ってるのコネコ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、ううん、なんでもない。 探すって、どういうこと？</talk>
+<talk id="0" chara="orica" face="06" cos="standerd">ライナー達、あたしに気づかないでさっさと出て行っちゃったみたいなの。</talk>
+<talk id="0" chara="orica" face="06" cos="standerd">こんな近くにいるのに気づかないなんて、ホント、ライナーって鈍感だよね。</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">あ、でも今は放っておいて、夜に部屋に押しかけて文句言うのも良いかも。</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">そうすれば、夜はあたしが独り占め 出来るしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あなた、本当にオリカよね？</talk>
+<talk id="0" chara="orica" face="14" cos="standerd">何言ってるの？ 寝ぼけてちゃダメだよ、コネコ。</talk>
+<talk id="0" chara="orica" face="07" cos="standerd">コネコのダイブは凄く気分が良いから、 またお願いするからね。</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">それじゃ、あたしはそろそろ行くよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、あまりライナーに言いたい放題 言っちゃダメよ。</talk>
+<talk id="0" chara="orica" face="05" cos="standerd">コネコは早く彼氏さんと仲直りしないと ダメだよ。</talk>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（ドンちゃん、ごめん！！）</talk>
+<bgm src="musicbox"/>
+<talk id="3" chara="system" face="00" cos="01">以上が、私のコスモスフィア初体験の 出来事だ。</talk>
+<talk id="3" chara="system" face="00" cos="01">なんか、話を聞いたり本で読んだ内容とは、全然違うものなんだな、と思った。</talk>
+<talk id="3" chara="system" face="00" cos="01">百聞は一見にとも言うし、まあ、これが 普通なのだろう。</talk>
+<talk id="3" chara="system" face="00" cos="01">とにかく疲れたし、もう今日はさっさと 帰って寝るとしよう。</talk>
+<talk id="3" chara="system" face="00" cos="01">オリカの方は少し心配だけど・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">幸せみたいだし、まあ良いか。</talk>
+<exec param="ffout"/>
+<exec param="fout"/>
+<bg src="null"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ・・・帰りに塩買ってかないと。</talk>
+<talk id="3" chara="system" face="00" cos="01">おしまい。</talk>
+<exec param="ffout"/>
+<exec param="endE"/>
+</comment>
+</cs>

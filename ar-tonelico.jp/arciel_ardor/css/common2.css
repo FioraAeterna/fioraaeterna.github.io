@@ -1,0 +1,214 @@
+@charset "utf-8";
+
+
+* {
+	margin:0px;
+	paddng:0px;
+}
+
+
+/* 基本フォント */
+
+body,div,span,td,th,p,address,h1,h2,h3,h4,h5,h6 {
+	color: #666;
+	font-family: 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'ＭＳ Ｐゴシック', sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: 140%;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+html{
+	width:100%;
+	/*overflow:scroll;*/
+}
+
+body {
+    margin:0px;
+    padding:0px;
+	background-color:#FFFFFF;
+	background-repeat:no-repeat;
+	background-position:center top;	 
+    text-align:left;
+	text-decoration:none;	
+	}
+
+body > div {
+	margin:0px auto;
+}
+
+div,td,th {
+	text-align:left;
+}
+
+img,table {
+	border: none;
+}
+
+img {
+	vertical-align: top;
+}
+
+p,form,ul,li,p,pre,h1,h2,h3,h4,h5,h6 {
+	margin: 0px;
+	padding: 0px;
+	text-align:left;
+}
+
+ul {
+	list-style: none;
+}
+
+table thead th {
+	text-align:center;
+	padding:5px;
+}
+
+table td {
+	text-align:left;
+	vertical-align: top;
+}
+
+
+
+
+br.clear {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	font-size: 0px;
+	line-height: 0px;
+}
+
+.hide {
+	visibility:hidden;
+}
+
+
+/*▼table_css
+---------------------------*/
+table#table-01 {
+    width: 332px;
+}
+
+table#table-01 td {
+    padding:5px;
+	font-size: 3.2mm;
+	line-height: 3.5mm;
+	text-align:center;
+	vertical-align:top;
+}
+
+
+table#table-02 {
+    width: 336px;
+}
+
+table#table-02 td {
+    padding:0px;
+	font-size: 3.2mm;
+	line-height: 3.0mm;
+	text-align:left;
+	vertical-align:top;
+}
+
+/* -----------------基本テキストリンク----------------- */
+
+
+a:link {
+	color: #ff6600;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #996600;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #006699;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #fccf00;
+	text-decoration: underline;
+}
+
+
+/* -----------------装飾----------------- */
+
+.txt-size1 {
+	font-size:10px;
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+
+.center {
+	text-align:center;
+}
+
+.txt-sub1 {
+	font-size:10px
+}
+
+.txt-color1 {
+	color:#666666;
+}
+
+.txt-good {
+	color:#d056a5;
+}
+
+.txt-bad {
+	color:#547bab;
+}
+
+.txt-sub {
+	font-size:10px;
+}
+
+.txt-caution {
+	color:#d75f5f;
+}
+
+
+.txt-imp {
+	font-size:12px;
+	padding:0px;
+	font-weight:bolder;
+}
+
+.txt-imp2 {
+	font-size:16px;
+	padding:10px;
+	font-weight:bolder;
+}
+
+.txt-error {
+	color:#f00;
+}
+
+.txt-bold {
+	font-weight:bolder;
+}
+
+.txt-title {
+	padding:3px 0px 5px 0px;
+}
+
+
+.line-top {
+	border-top:1px solid #d1dbde;
+}
+
+.line-btm {
+	border-bottom:1px solid #d1dbde;
+}

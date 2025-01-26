@@ -1,0 +1,175 @@
+/*▼layout
+------------------*/
+
+body
+    {
+    margin:0px;
+    padding:0px;
+	background-color:#DDDFBB;
+	background-image:url("../img/bg_body.jpg");
+	background-repeat:repeat-y;
+	background-position:center top;	 
+    text-align:center;
+    }
+
+#main
+    {
+	margin-left:auto;
+	margin-right:auto;
+	width:950px;
+	text-align: center;
+    }
+
+#main2
+    {
+    margin-left:auto;
+    margin-right:auto;
+	background-color:#BCBF78;
+	background-image:url("../img/bg_body02.jpg");
+	background-repeat:no-repeat;
+    text-align:center;
+    width:950px;
+    }
+
+#new_footer_bg{
+	width:auto;
+	height:29px;
+	clear:both;
+	background-color:#111111;
+}
+#new_footer_CR{
+	width:950px;
+	height:29px;
+	margin:0 auto;
+	text-align:right;
+	font-size:10px;
+	line-height:29px;
+	color:#FFF;
+}
+#new_footer_outlink_bg{
+	width:auto;
+	height:45px;
+	background-color:#111111;
+	background-image:url("../img/footerbg_roop.jpg");
+	background-position:center;
+	background-repeat:repeat-x;
+}
+#new_footer_outlink{
+	width:950px;
+	height:45px;
+	margin:0 auto;
+}
+/*▲layout
+------------------*/
+
+/*▼font
+------------------*/
+
+.font0
+	{
+	FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px
+	}
+	
+.font1
+	{
+	FONT-SIZE: 3mm; LINE-HEIGHT: 12px
+	}
+	
+.font2
+	{
+	FONT-SIZE: 14px; LINE-HEIGHT: 16px
+	}
+	
+.font3
+	{
+	FONT-SIZE: 16px; LINE-HEIGHT: 18px
+	}
+	
+.font4
+	{
+	FONT-SIZE: 18px; LINE-HEIGHT: 20px
+	}
+	
+.font5
+	{
+	FONT-SIZE: 20px; LINE-HEIGHT: 25px
+	}
+	
+.fonts
+	{
+	FONT-SIZE: 3.6mm; LINE-HEIGHT: 4mm
+	}
+	
+.fonts0
+	{
+	FONT-SIZE: 2.3mm; LINE-HEIGHT: 3.0mm
+	}
+	
+.fonts1
+	{
+	FONT-SIZE: 2.8mm; LINE-HEIGHT: 3.5mm
+	}
+	
+.fonts2
+	{
+	font-size: 3.2mm;
+	line-height: 4mm
+	}
+	
+.fonts3
+	{
+	font-size: 3.4mm; line-height: 4.5mm; color: .663333
+	}
+	
+.fonts4
+	{
+	font-size: 3.8mm; line-height: 5.0mm
+	}
+	
+.fontm1
+	{
+	font-size: 4.5mm; line-height: 5.5mm
+	}
+	
+.title
+	{
+	font-size: 5mm; line-height: 5.2mm; font-weight: bold
+	}
+	
+.title1
+	{
+	FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold
+	}
+	
+.title2
+	{
+	FONT-SIZE:14px; LINE-HEIGHT: 16px ; FONT-WEIGHT:bold
+	}
+
+/*▲font
+------------------*/
+
+/*▼link
+------------------*/
+A:link
+	{
+	color:#D92F0E ; text-decoration: none
+	}
+	
+A:visited
+	{
+	color:#D92F0E ; text-decoration: none
+	}
+	
+A:hover
+	{
+	color:#CCCCCC; text-decoration: underline
+	}
+
+
+/*▲link
+------------------*/
+
+input.text{width:70px;}
+
+input.passward{width:70px;}

@@ -1,0 +1,185 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0; padding:0;}
+
+body{background-color:#fffddb;}
+
+
+#container{
+	width:740px;
+	height:auto;
+	margin:0 auto;
+	padding-top:10px;
+}
+
+#header{
+	width:740px;
+	height:390px;
+	background-image:url(img/header.jpg);
+	text-indent:-9999px;
+}
+
+#input_cnt{
+	width:740px;
+	height:230px;
+}
+
+#input_up{
+	width:740px;
+	height:70px;
+}
+
+#input_bg{
+	width:740px;
+	height:110px;
+	background-image:url(img/input_bg.jpg);
+	background-repeat:no-repeat;
+}
+
+#input_zone{
+	width:220px;
+	height:105px;
+	margin:0 auto;
+	padding-top:5px;
+}
+
+#supp_text{
+	width:110px;
+	height:20px;
+	float:left;
+}
+
+#supp_input{
+	width:110px;
+	height:25px;
+	float:left;
+}
+
+#pass_text{
+	width:110px;
+	height:20px;
+	float:left;
+}
+
+#pass_input{
+	width:110px;
+	height:20px;
+	float:left;
+}
+
+#send_btn{
+	width:220px;
+	height:20px;
+	clear:both;
+	padding:5px 0 5px 0;
+	text-align:center;
+}
+
+.input_class{
+	width:110px;
+	height:15px;
+	font-size:14px;
+}
+
+.send_class{
+	width:80px;
+	height:20px;
+	font-size:12px;
+}
+
+.input_font1{
+	font-size:14px;
+	font-weight:bold;
+	color:#fffddd;
+	line-height:16px;
+	padding-left:0px;
+}
+
+.input_font2{
+	font-size:10px;
+	color:#fffddd;
+	line-height:12px;
+	text-align:center;
+}
+
+#input_down{
+	width:740px;
+	height:50px;
+}
+
+
+
+
+#CS_bg{
+	width:740px;
+	height:570px;
+	background-image:url(img/cosmosphere_bg.jpg);
+}
+
+#CS_sphere{
+	width:640px;
+	height:448px;
+	margin:0 auto;
+	padding-top:62px;
+}
+
+
+
+.wp_box{
+	width:740px;
+	height:570px;
+}
+
+.wp_title_area{
+	width:740px;
+	height:42px;
+}
+
+.wp_content_area{
+	width:740px;
+	height:528px;
+	background-image:url(img/wpContent_bg.jpg);
+	background-repeat:no-repeat;
+}
+
+.wp_img{
+	width:640px;
+	height:400px;
+	margin:0 auto;
+	padding-top:19px;
+}
+
+.wp_btn_box{
+	width:640px;
+	height:40px;
+	padding-top:10px;
+	margin:0 auto;
+}
+
+.wp_btn_1920{
+	width:140px;
+	height:40px;
+	float:left;
+	padding-left:50px;
+}
+
+.wp_btn_1680{
+	width:140px;
+	height:40px;
+	float:left;
+	padding-left:60px;
+}
+
+.wp_btn_1280{
+	width:140px;
+	height:40px;
+	float:left;
+	padding-left:60px;
+}
+
+
+#footer{
+	width:740px;
+	height:120px;
+}

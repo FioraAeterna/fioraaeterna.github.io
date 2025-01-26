@@ -1,0 +1,202 @@
+﻿/*▼layout
+------------------*/
+
+body
+    {
+    margin:0px;
+    padding:0px;
+	background-color:#FFFFFF;
+	background-image:url(../img/BG_01.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;	 
+    text-align:center;
+	text-decoration:none;
+	
+    }
+
+#main
+    {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:659px;
+    }
+
+#main2
+    {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:800px;
+    }
+	
+.example
+	{ 
+	filter:alpha(opacity=85); 
+	-moz-opacity: 0.85;
+	opacity: 0.85; 
+	}	
+	
+table#table-01 {
+    width: 450px;
+    border: 2px #000000 solid;
+	border-width: 2px 2px 2px 2px;
+    border-collapse: collapse;
+    border-spacing: 1px;
+	filter:alpha(opacity=85); 
+	-moz-opacity: 0.85;
+	opacity: 0.85; 	
+}
+
+table#table-01 th {
+    padding: 5px;
+    border: 2px #000000 solid;
+    border-width: 0 0 1px 1px;
+	background-color:#FF6600;
+    font-weight: bold;
+    line-height: 120%;
+    text-align: center;
+}
+
+table#table-01 td {
+    padding: 5px;
+    border: 2px #000000 solid;
+    border-width: 0 0 1px 1px;
+	background-color:#FFFFFF;
+    text-align: left;
+}
+
+table#table-01 td.center {
+    text-align: center;
+}
+
+table#table-01 td.table_bg {
+	background-color:#333333;
+}
+
+
+#howto ul{
+	margin: 0;
+	line-height: 1.4em;
+	padding-left: 15px;
+	padding-right: 10px;
+	list-style-type: disc;
+	color: #000000;
+}
+
+
+/*▲layout
+------------------*/
+
+/*▼font
+------------------*/
+
+.font0
+	{
+	FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px
+	}
+	
+.font1
+	{
+	FONT-SIZE: 3mm; LINE-HEIGHT: 12px
+	}
+	
+.font2
+	{
+	FONT-SIZE: 14px; LINE-HEIGHT: 16px
+	}
+	
+.font3
+	{
+	FONT-SIZE: 16px; LINE-HEIGHT: 18px
+	}
+	
+.font4
+	{
+	FONT-SIZE: 18px; LINE-HEIGHT: 20px
+	}
+	
+.font5
+	{
+	FONT-SIZE: 20px; LINE-HEIGHT: 25px
+	}
+	
+.fonts
+	{
+	FONT-SIZE: 3.6mm; LINE-HEIGHT: 4mm
+	}
+	
+.fonts0
+	{
+	FONT-SIZE: 2.3mm; LINE-HEIGHT: 3.0mm
+	}
+	
+.fonts1
+	{
+	FONT-SIZE: 2.8mm; LINE-HEIGHT: 3.5mm
+	}
+	
+.fonts2
+	{
+	font-size: 3.2mm; line-height: 4.0mm; color: #000000
+	}
+	
+.fonts3
+	{
+	font-size: 3.4mm; line-height: 4.5mm; color: .663333
+	}
+	
+.fonts4
+	{
+	font-size: 3.8mm; line-height: 5.0mm
+	}
+	
+.fontm1
+	{
+	font-size: 4.5mm; line-height: 5.5mm
+	}
+	
+.title
+	{
+	font-size: 5mm; line-height: 5.2mm; font-weight: bold
+	}
+	
+.title1
+	{
+	FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold
+	}
+	
+.title2
+	{
+	FONT-SIZE:14px; LINE-HEIGHT: 16px ; FONT-WEIGHT:bold
+	}
+	
+.indent{
+	text-indent: 14px;
+}
+
+	
+
+/*▲font
+------------------*/
+
+/*▼link
+------------------*/
+A:link
+	{
+	color:#ff0000 ; text-decoration: none
+	}
+	
+A:visited
+	{
+	color:#ff0000 ; text-decoration: none
+	}
+	
+A:hover
+	{
+	color:#000064; text-decoration: underline
+	}
+
+
+/*▲link
+------------------*/

@@ -1,0 +1,29 @@
+
+<script type="text/javascript" src="ecl.js"></script>
+
+<script type="text/javascript">
+function callback(bitlyResponse){
+
+	for(var i in bitlyResponse.results) {
+		var su = bitlyResponse.results[i]['shortUrl'];
+	}
+
+	urls = ' #tsp ' + su;
+
+//140•¶š§ŒÀ---------------------------------
+
+	moji = '';
+	mojix = '' + urls;
+	if (mojix.length > 140) {
+		mojix = ''+ moji.slice(0,(140-mojix.length)) + urls;
+	}
+
+//ƒWƒƒƒ“ƒvI---------------------------------
+
+	location.href = 'http://twitter.com/?status='+EscapeUTF8(mojix);
+
+}
+</script>
+
+<script type="text/javascript" src="http://api.bit.ly/shorten?version=2.0.1&amp;format=json&amp;callback=callback&amp;login=airlia&amp;apiKey=R_e433ba715fd9a43b145ac567b972763b&amp;longUrl=http%3A%2F%2Far-tonelico.jp%2Fts.htm%3Fn%3D%26l%3D%26p%3D"></script>
+

@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#total_container{
+	width:602px;
+	height:auto;
+	margin:0 auto;
+}
+
+#header{
+	width:600px;
+	height:170px;
+}
+
+.menu{
+	width:600px;
+	height:20px;
+	background-color:#7b0b0b;
+	font-size:12px;
+	line-height:20px;
+	color:#FFFFFF;
+	text-align:center;
+}
+
+.menu a:link,a:visited,a:active{
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+.menu a:hover{
+	color:#FFFF00;
+	text-decoration:underline;
+}
+
+#end_info{
+	width:580px;
+	height:30px;
+	padding:20px 10px 10px 10px;
+	text-align:center;
+}
+
+#end_info .text{
+	font-size:14px;
+	font-weight:bold;
+	color:#F00;
+}
+
+#coment{
+	width:580px;
+	height:190px;
+	padding:10px;
+}
+
+#left_area{
+	width:300px;
+	height:auto;
+	float:left;
+}
+#cos_img{
+	width:180px;
+	height:390px;
+	padding:20px 30px 0 50px;
+}
+#cos_name{
+	width:300px;
+	height:30px;
+	text-align:center;
+	font-size:12px;
+	line-height:14px;
+	color:#2f2f2f;
+	padding:3px 0 0 0;
+}
+
+#right_area{
+	width:300px;
+	height:auto;
+	float:left;
+}
+
+#what_this{
+	width:280px;
+	height:220px;
+	padding:10px 20px 10px 0;
+}
+
+#what_this .fonts1{
+	font-size:14px;
+	font-weight:bold;
+	color:#FF0000;
+	line-height:18px;
+}
+
+#what_this .fonts2{
+	font-size:12px;
+	color:#2b2b2b;
+	line-height:16px;
+}
+
+
+#way_text{
+	color:#FF0000;
+	width:280px;
+	height:auto;
+	font-size:12px;
+	font-weight:bold;
+	line-height:16px;
+	padding:15px 20px 10px 0;
+}
+
+#input{
+	width:280px;
+	height:150px;
+	padding:20px 20px 10px 0;
+}
+
+.submit_btn{
+	width:140px;
+	height:20px;
+	font-size:12px;
+	text-align:center;
+}
+
+.form_font{
+	font-size:11px;
+	font-weight:bold;
+	line-height:14px;
+	color:#333333;
+}
+
+.clear{
+	width:600px;
+	height:10px;
+	clear:both;
+}
+
+#footer{
+	width:600px;
+	height:18px;
+	font-size:10px;
+	line-height:12px;
+	padding:3px 0 0 0;
+	color:#333333;
+	text-align:center;	
+}

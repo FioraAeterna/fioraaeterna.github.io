@@ -1,0 +1,134 @@
+@charset "shift_jis";
+/* CSS Document */
+
+.top_r_m {
+	margin: 0px;
+	height: 45px;
+	width: 164px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+.top_r_con_bg {
+	background-image: url(../img/bg_contents.jpg);
+	background-repeat: no-repeat;
+	width: 174px;
+	float: right;
+	padding-left: 5px;
+}
+#top_r {
+	width: 164px;
+	padding-left: 5px;
+}
+
+
+.top_r_subm {
+	top:0px;
+	right:0px;
+	text-align:right;
+	margin: 0px;
+	padding: 0px;
+	height: 25px;
+	width: 164px;
+	border:none;
+}
+.supo_left_m {
+	float: left;
+	width: 187px;
+	height: 50px;
+	padding-top: 5px;
+}
+
+.supo01_left_subm {
+	width: 187px;
+	font-size: 3.2mm;
+	color: #FFFFFF;
+	line-height: 4mm;
+	font-weight: normal;
+	background-repeat: repeat-y;
+	margin: 0px;
+	padding: 0px;
+	float: none;
+	text-align: left;
+	height: 4mm;
+	vertical-align: top;
+	background-image: url(../img/cont_sub_bg.jpg);
+	
+}
+.supo01_left_subm a:link {
+	color:#FFFFFF ; text-decoration: none
+}
+.supo01_left_subm a:visited {
+	color:#FFFFFF ; text-decoration: none
+}
+.supo01_left_subm a:hover {
+	color:#CCCCCC ; text-decoration: none
+}
+
+.top_r_con {
+	height: 21px;
+	width: 164px;
+}
+.supo_r {
+	margin: 0px;
+	height: 145px;
+	width: 169px;
+	padding: 0px;
+	text-align: right;
+	vertical-align: top;
+	right:0px;
+/* 笆ｼdiv讒区・縺ｫ繧医▲縺ｦ菴ｿ逕ｨ縺励◆・・ｽ難ｽ凪名 */
+}
+
+#header {
+	height: 129px;
+	width: 950px;
+}
+#main {
+	width: 950px;
+}
+#left {
+	float: left;
+	width: 187px;
+}
+#top_left {
+	float: left;
+	width: 187px;
+	background-image: url(../img/bg_news_01.jpg);
+	height: 650px;
+}
+.top_r_sup_bg {
+	background-image: url(../img/bt_supo_01.gif);
+	height: 181px;
+	width: 164px;
+}
+.top_r_space {
+	float: left;
+	width: 10px;
+}
+.top_r_login_bg {
+	background-image: url(../img/bt_supo_02.gif);
+	height: 90px;
+	width: 164px;
+}
+
+
+
+#right {
+	float: right;
+	width: 174px;
+	text-align: right;
+}
+#main_ct {
+	width: 589px;
+	float: left;
+	display:inline;
+}
+#footer {
+	clear: both;
+	height: 29px;
+	width: 950px;
+}
+/* 笆ｲdiv讒区・縺ｫ繧医▲縺ｦ菴ｿ逕ｨ縺励◆・・ｽ難ｽ凪夢 */

@@ -1,0 +1,1001 @@
+﻿<cs>
+<comment>
+<bg src="null"/>
+<talk id="3" chara="coneco" face="00" cos="01">みなさん、こんにちは。 コネコです。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカとミシャのコスモスフィアで 好き勝手やったあのコネコです。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">突然ですが、今現在私は、未だかつて無い ピンチに遭遇しております。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なんでそんなことになったかって？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・見てやってください。</talk>
+<bgm src="nemo"/>
+<bg src="city"/>
+<talk id="0" chara="mule" face="03" cos="01">どうしたの、コネコ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="system" face="00" cos="01">ここは私の住むネモの町の大通り。 私の散歩コースでもあります。</talk>
+<talk id="3" chara="system" face="00" cos="01">いつも人で賑わっているこの町が 大好きです。</talk>
+<talk id="3" chara="system" face="00" cos="01">でもね、この現状で人がいっぱいってのは、その・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・聞いて良いかしら、ミウちゃん？</talk>
+<talk id="0" chara="mule" face="03" cos="01">なに？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなた、私を殺すって前に言ったわよね？</talk>
+<talk id="0" chara="mule" face="01" cos="01">ええ、言ったわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それって、社会的に私を殺すって意味？</talk>
+<talk id="0" chara="mule" face="03" cos="01">そんな面倒なこと、するわけないでしょ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・いや、あのさ、周囲の視線に 気が付かない？</talk>
+<talk id="0" chara="mule" face="03" cos="01">あら、みんなこっちを見てるわね。 どうかしたのかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">素っ裸でこんなとこ歩いてれば誰だって 見るわよ！！</talk>
+<talk id="0" chara="mule" face="03" cos="01">髪で隠れてるから問題ないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そういう問題じゃ・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うわっ、マズイ！ 教会の騎士達だ！！</talk>
+<talk id="0" chara="mule" face="03" cos="01">大勢で走って来るわね。 元気の良いこと。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">通報されたのよ！！ ほら、逃げるわよ！！</talk>
+<talk id="0" chara="mule" face="03" cos="01">私の魔法でこの町ごと吹き飛ばし・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いいから逃げるの！！ ほら、走って！！</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・行きたいところあるんだけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">とにかく走ってってば！！</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bgm src="dive"/>
+<bg src="dive"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="0" chara="mule" face="03" cos="01">・・・追って来ないみたいね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そりゃそうでしょうね。 どれだけ走ったと思ってるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうして三十分も路地裏を走り回らなきゃ ならないのよ！？</talk>
+<talk id="0" chara="mule" face="03" cos="01">普通に歩けばもっと早かったのに。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・誰のせいだかわかってる？</talk>
+<talk id="3" chara="syureria" face="00" cos="standerd">あら、遅かったですね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・今度は何？</talk>
+<buc id="0" action="out"/>
+<talk id="2" chara="syureria" face="01" cos="standerd">まったく、迎えに行くだけでどれだけ時間をかけてるのよ？</talk>
+<talk id="1" chara="mule" face="03" cos="01">私のせいじゃないわ。 私は普通に呼びに行ったんだもの。</talk>
+<talk id="2" chara="syureria" face="06" cos="standerd">あっ！ バスタオルはどうしたの！？</talk>
+<talk id="1" chara="mule" face="03" cos="01">邪魔だったから途中で外したわ。 ヒラヒラしてウザかったし。</talk>
+<talk id="2" chara="syureria" face="04" cos="standerd">・・・っていうことは、えっと。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・通報されたから逃げてきたのよ。 本気で社会的に私を抹殺する気？</talk>
+<talk id="2" chara="syureria" face="05" cos="standerd">す、すいません！ まさか、またご迷惑をかけてしまうとは。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">えっと、それであなたは？ なんか、私のこと知ってるみたいだけど。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="syureria" face="01" cos="standerd">申し遅れました。 私は、シュレリアと申します。</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">コネコさんがライナーを殴った時、現場に いたのですが、覚えてませんか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それじゃあ、オリカやミシャの仲間なのね？</talk>
+<talk id="0" chara="syureria" face="07" cos="standerd">はい。あの二人も随分とあなたにご迷惑を おかけしてしまったようで。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや、まあ、そうなった原因は・・・。</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="mule" face="03" cos="01">・・・なに？</talk>
+<talk id="2" chara="syureria" face="06" cos="standerd">なに、じゃなくて！ ちゃんと謝りなさい！！</talk>
+<talk id="1" chara="mule" face="02" cos="01">どうして！？ 私、何も悪くないわ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あぁ、やっぱり自覚無しなのね。</talk>
+<talk id="2" chara="syureria" face="05" cos="standerd">本当に申し訳ありません！ 迷惑ばかりかけてしまって。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ、過ぎたことだから良いって。 ・・・それよりさ、そこで寝てる子は？</talk>
+<talk id="2" chara="syureria" face="01" cos="standerd">はい？</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="meimei" face="05" cos="02">ＺＺＺ・・・。</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">あ、ほらメイメイ。 コネコさん来たから起きて。</talk>
+<talk id="0" chara="meimei" face="04" cos="02">・・・・・・。</talk>
+<talk id="0" chara="meimei" face="02" cos="01">ふぁ～・・・。 おはようございますです。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・えっと、メイメイちゃん、で良いの？</talk>
+<talk id="0" chara="meimei" face="06" cos="02">はい、メイメイです。 よろしくです、コネコさん。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・眠いなら家に来る？ ベッド貸すよ？</talk>
+<talk id="0" chara="meimei" face="04" cos="02">・・・フワフワですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そりゃもちろん。 乙女にはフワフワベッドが必須だもの。</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・乙女？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何で疑問系なのよ？</talk>
+<talk id="0" chara="meimei" face="04" cos="02">あ、でも今日はちょっと無理みたいです。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">メイメイ、皆さんのサポートをしなければ ならないので・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・サポート？</talk>
+<talk id="0" chara="syureria" face="07" cos="standerd">さて、皆さん揃ったので、早速始めると しましょう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まさか、ダイブ？</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">はい。 そのためにお呼びいたしました。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや、実はミシャのコスモスフィアから 帰った時に数日寝込んでね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">しばらくの間、コスモスフィア禁止令が 彼氏から出されているのよ。</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">なるほど・・・でも、それならば 問題ありませんよ。</talk>
+<talk id="0" chara="syureria" face="07" cos="standerd">これからダイブする世界は、コスモスフィアではなくて、バイナリ野ですから。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">う～ん・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあ、コスモスフィアじゃないなら 問題ないかな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それで、そのバイナリ野っていうのは、 どういうところなの？</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">仮想世界、つまり、物語の世界に入り込む ようなものだと思ってください。</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">私達はその世界の人間になりきって、 物語を進めていくんです。</talk>
+<talk id="0" chara="syureria" face="01" cos="standerd">お詫びとして出来ることは、これが精一杯 なのですが・・・ダメですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんな、侘びなんて必要ないって。 けど、凄く楽しそうね。</talk>
+<talk id="0" chara="syureria" face="07" cos="standerd">はい、楽しさだけは保障しますよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、物語の世界っていうけど、 どんなお話なの？</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="syureria" face="01" cos="standerd">それを今から決めようと思います。 メイメイ、例のものを。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">はいです。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それって、くじ引きの紙？ なんか凄い束になってるけど。</talk>
+<talk id="1" chara="syureria" face="01" cos="standerd">私達三人で作った、ジャンルクジです。 全部で６０本あります。</talk>
+<talk id="1" chara="syureria" face="01" cos="standerd">色々なお話を作るのに必要な単語が、 ここに書かれています。</talk>
+<talk id="1" chara="syureria" face="01" cos="standerd">これを今から４人で１本ずつ引いて、 １つの話を作るんです。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">例えば、どんなのがあるの？</talk>
+<talk id="2" chara="meimei" face="01" cos="01">では、例として２本引いてみますね。</talk>
+<talk id="2" chara="meimei" face="04" cos="02">１本目は、えっと・・・。 ヤマなしオチなしイミなし・・・。</talk>
+<talk id="1" chara="syureria" face="05" cos="standerd">ひ、引きなおしてください！！</talk>
+<talk id="2" chara="meimei" face="06" cos="02">引きなおします。 えっと・・・『サスペンス』です。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">２本目は・・・『コメディ』ですね。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">この場合は、サスペンスコメディな話を 作ることになります。</talk>
+<talk id="2" chara="meimei" face="04" cos="02">まあ、あくまで例ですが。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">むしろそれを見てみたいわ。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">残りは５７本です。 まずは誰から行きますか？</talk>
+<talk id="1" chara="mule" face="03" cos="01">私から引くわ。 どうせ、話を作るのは私なんだしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんな特技あったのね。</talk>
+<talk id="1" chara="mule" face="01" cos="01">出来ないことを探す方が大変よ。 えっと・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">『学園』ね。</talk>
+<talk id="1" chara="syureria" face="01" cos="standerd">良いのが引けましたね。 では、次は私です。</talk>
+<talk id="1" chara="syureria" face="02" cos="standerd">えっと・・・『ロボット』？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">学園、ロボット・・・凄い組み合わせね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">でも、どうにかなる組み合わせよ。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">では、私が引きます。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">あ、良いのが引けました。 『恋愛』です。</talk>
+<talk id="1" chara="mule" face="03" cos="01">学園に恋愛。 王道ね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">あら、どうかした？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・私、恋愛への一歩を踏み出すのって、ちょっと苦手なのよね。</talk>
+<talk id="1" chara="mule" face="01" cos="01">ふふ、良いこと聞いたわ。それじゃ今までの復讐をかねて苦しませてあげる</talk>
+<talk id="1" chara="syureria" face="01" cos="standerd">でも、ロボットはどうなるのかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さて、私の番ね。 何が出るのやら・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">『伝説』を引いたらもう内容は決まったも 同然なんだけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あははは、まさかそんな都合よく・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・うわぁ。</talk>
+<talk id="1" chara="syureria" face="03" cos="standerd">どうかしましたか、コネコさん？ まさか『伝説』だったんですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・『ＰＧ１２』。</talk>
+<talk id="1" chara="syureria" face="04" cos="standerd">・・・凄いのが出ましたね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なんていうか、ゴメン。</talk>
+<talk id="1" chara="mule" face="01" cos="01">気にしないで良いわ。 色々と書ける幅が増えたんだもの。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">全年齢では規制が多くて書けない内容も、 これなら問題なく書けますね。</talk>
+<talk id="1" chara="mule" face="01" cos="01">規制は書き手の足枷よ。 それが少し和らいだのだから、感謝するわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">じゃあ、面倒だから最初から１８・・・。</talk>
+<talk id="2" chara="meimei" face="04" cos="02">それはこの世界そのものの存続に関わる ような内容になりうるので禁止事項です。</talk>
+<talk id="1" chara="syureria" face="07" cos="standerd">健全な世界、それが平和への第一歩です。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">少しくらい不健全な方が健康な気が するのは私だけ？</talk>
+<talk id="2" chara="meimei" face="04" cos="02">ＰＧ１２以上のことが日常茶飯事で起こる 世界が良いですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・さすがにイヤかも。</talk>
+<talk id="1" chara="mule" face="03" cos="01">さあ、大体どんな話にするかは決まったわ。 あなた達も準備をしなさい。</talk>
+<talk id="1" chara="mule" face="03" cos="01">ちなみに主役はコネコ、あなたよ。</talk>
+<talk id="1" chara="syureria" face="02" cos="standerd">ＰＧ１２の学園恋愛物・・・。 でも、ロボットって・・・。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">スーパーロボッ・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">巨大ロボで大戦はしないわよ。 さあ、準備は良い？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ううぅ、何か、今の彼氏に告白するまでの 大波乱を思い出して胃が・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">メイメイ、ちゃんとサポートしなさいよ。</talk>
+<talk id="2" chara="meimei" face="06" cos="02">任せてください。 それでは皆さん、楽しんできてください。</talk>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="null"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<bgm src="null"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="meimei" face="05" cos="02">サポートのメイメイより、ここで重要な お知らせがあります。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">今回前編は、のんびりと人間関係を 見るものです。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">気楽に楽しみながら知っていくのが、 前編の目的です。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">なので、普通にプレイすればそう簡単には ゲームオーバーにはなりませんです。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">ただし、色々な選択肢を試しておくと後編で役に立つかもしれないです。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">そして後編は、それぞれのキャラの関係が 大きく変化していきます。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">選択肢一つ一つが重要な物になります。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">なので、難易度的には今までと同じくらいに戻りますのでご注意ください。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">あと、後編で特殊ＥＮＤルートに進むと、 鬼の連続選択肢などがあったりします。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">一つでも選択肢を間違ったらその時点で 問答無用バッドエンド直行です。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">しかも、１ミリも救いの無い、正真正銘の バッドエンドになります。</talk>
+<talk id="0" chara="meimei" face="04" cos="02">選択肢前でセーブ？ そんな機能無いです。</talk>
+<talk id="0" chara="meimei" face="04" cos="02">短いんだから、これくらいは試練だと思って頑張ってください。</talk>
+<talk id="0" chara="meimei" face="06" cos="02">以上で説明を終わります。 みなさん、ファイトです♪</talk>
+<buc id=" 0" action="out"/>
+<talk id="3" chara="system" face="" cos="01">ＧＡＭＥ　ＳＴＡＲＴ！！</talk>
+<exec param="ffout"/>
+<bg src="null"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="hama" face="00" cos="01" option="hidden">コネコ。 起きなさいコネコ。</talk>
+<talk id="3" chara="hama" face="00" cos="01" option="hidden">コネコってば、遅刻しちゃうのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・んんっ・・・へ？</talk>
+<bg src="tatami"/>
+<bgm src="syureriaCS"/>
+<talk id="0" chara="hama" face="03" cos="01" option="hidden">あ、やっと起きたのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・おはよう、ママ。 ・・・早速だけど。</talk>
+<talk id="0" chara="hama" face="01" cos="01">あと五分は無しなのよ。 ほら、遅刻しちゃうのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え・・・うわっ！ 何で起こしてくれなかったの！？</talk>
+<talk id="3" chara="donsuke" face="00" cos="01" option="hidden">コラコラ、コネコ。</talk>
+<buc id="0" action="out"/>
+<talk id="1" chara="donsuke" face="01" cos="01" option="hidden">ママはちゃんと起こそうとしてたぞ。 起きなかったのはコネコじゃないか。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、パパ。</talk>
+<talk id="2" chara="hama" face="03" cos="01">まったく、コネコはパパに似てお寝坊さん だから、起こすのが大変なのよ。</talk>
+<talk id="1" chara="donsuke" face="04" cos="01">はっはっは、パパもママに起こしてもらわなければ毎日遅刻だからな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">パパ、笑って言うセリフじゃないよ。</talk>
+<talk id="2" chara="hama" face="03" cos="01">それよりほら、早く着替えなさい。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">おっと、そうだったそうだった！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">よし、準備ＯＫ！！ それじゃパパ、ママ、行ってきます！</talk>
+<talk id="1" chara="donsuke" face="04" cos="01">うむ、気をつけてな。</talk>
+<talk id="2" chara="hama" face="04" cos="01">お勉強頑張るのよ～。</talk>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="castle"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="system" face="00" cos="01">遅ればせながら皆さん、初めまして。 私の名前は野良子猫（のらこねこ）。</talk>
+<talk id="3" chara="system" face="00" cos="01">寂しい名前だってよく言われるけど覚えられやすいから気にしないわ！</talk>
+<talk id="3" chara="system" face="00" cos="01">そんなポジティブで、ちょっとだけ可愛い 女の子が好きな極普通の女子高生よ。</talk>
+<talk id="3" chara="system" face="00" cos="01">ついでに言うなら、この建物はお城ではなく私達家族の住むアパートの前。</talk>
+<talk id="3" chara="system" face="00" cos="01">アパートの名は、魔王城！！ まあ、部屋の中はボロいんだけどね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">はぁ・・・それにしても、朝食抜きは キツいなぁ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">せめてパンの一枚でも咥えてくれば 良かったかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあいいや。 早弁してお昼は学食で・・・。</talk>
+<talk id="3" chara="mule" face="00" cos="01">お、お姉ちゃん、前！！</talk>
+<talk id="3" chara="syureria" face="00" cos="standerd" option="hidden">ど、どいてどいて！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01" option="hidden">え、うわっ！？</talk>
+<act action="quake"/>
+<wait time=" 30"/>
+<act action="clear"/>
+<talk id="1" chara="syureria" face="05" cos="seihuku" option="hidden">イタタタ・・・。 だ、大丈夫コネコ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">お、おはよう零羅・・・。 朝から元気ね。</talk>
+<talk id="1" chara="syureria" face="04" cos="seihuku" option="hidden">寝坊して遅刻しそうだったから・・・。</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku" option="hidden">美羽、大丈夫？</talk>
+<talk id="2" chara="mule" face="03" cos="01" option="hidden">・・・私の朝ごはん、落ちちゃった。</talk>
+<talk id="1" chara="syureria" face="05" cos="seihuku" option="hidden">ああ、私のも・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">遅刻しそうだから朝食食べながらの登校？ 随分とベタなことしてるわね。</talk>
+<talk id="3" chara="system" face="00" cos="01">そのベタなこの二人は、私の大親友の 塔ヶ崎（とうがさき）姉妹だ。</talk>
+<talk id="3" chara="system" face="00" cos="01">髪の白い子が、姉の零羅（れいら）。 黒髪の方は妹の美羽（みう）。</talk>
+<talk id="3" chara="system" face="00" cos="01">ちなみに、美羽は私達より一学年下だ。</talk>
+<talk id="1" chara="syureria" face="09" cos="seihuku">うう・・・私のコッペパン。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">手で払えば食べれるわよ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">・・・私のトマトも大丈夫かしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">地面の染みとなってるからさすがに無理よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、あなた達が寝坊なんて珍しいわね。</talk>
+<talk id="1" chara="syureria" face="04" cos="seihuku">ちょ、ちょっとね。 その・・・目覚ましが壊れてて。</talk>
+<talk id="2" chara="mule" face="03" cos="01">私はサボろうって言ったのに。</talk>
+<talk id="1" chara="syureria" face="06" cos="seihuku">そんなのダメよ！ まったく、この子は・・・。</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku">ほら、急ぐわよ！</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ、零羅そっちは・・・。</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="03" cos="01">来た道を戻って走ってるわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まったく、方向音痴もここまで来ると 何も言えなくなるわね。</talk>
+<talk id="0" chara="mule" face="03" cos="01">数分もすれば気づいて戻ってくるわよ。 良くあることだしね。</talk>
+<select>
+<option tag="t256">零羅を追いかける</option>
+<option tag="t257">美羽と学校へ</option>
+</select>
+<tag name="t256"/>
+<talk id="3" chara="coneco" face="00" cos="01">いつものこととはいえ、遅刻しそうだし。 連れ戻してくるわ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・物好きね。 朝から走りたいだなんて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">美羽は先に行ってて。 それじゃ、あとでね！</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="city"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・落ち着いた、零羅？</talk>
+<talk id="0" chara="syureria" face="05" cos="seihuku">うう・・・ごめんなさい。 私、またやっちゃった。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">気にしないでいいって。 まあ、のんびり行こうよ。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">時間、大丈夫？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ、早足ペースで行けばギリギリね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それに、女の子が朝から走るのはどうもね。ほら、髪とか服とか乱れるし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">汗とかかいたら、あとで最悪よ。</talk>
+<talk id="0" chara="syureria" face="01" cos="seihuku">そうね。 お弁当もグチャグチャになっちゃうし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、そうだったそうだった。 私、学校着いたらすぐにお弁当食べないと。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">朝食抜いてきたから、もう腹ペコなのよ。</talk>
+<talk id="0" chara="syureria" face="01" cos="seihuku">そうだったんだ。 でも、お昼はどうするの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">学食かな？ それか家庭科室で勝手に何か作るわ。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">そ、そう・・・。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">・・・あ、あのね、コネコ。 実は、私・・・。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">・・・今日、コネコの分のお弁当、 作ってきてるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え？ 私の分のお弁当？</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">う、うん・・・作りすぎちゃったの。 だから、えっと・・・。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">・・・コネコに、食べてもらおうかなって。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">・・・食べてくれる？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もちろん！！ 拒否する理由が無いわ！！</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">ほ、ホントに！？ 良かった。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それで、どんなお弁当なの？ あ、それとも見てのお楽しみ？</talk>
+<talk id="0" chara="syureria" face="01" cos="seihuku">特性のウサウサ弁当よ。 私、ウサギが大好きだから。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ウサギ肉？</talk>
+<talk id="0" chara="syureria" face="05" cos="seihuku">ち、違うわよ！！ そういう意味での好きじゃないの！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">わかってるって。 ゴメンゴメン。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">もう・・・。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">でも、味はお楽しみよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">凄く楽しみ楽しみよ。 お昼休みが待ちきれないわ。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">でも、期待され過ぎるのも困っちゃうかも。実は、少し焦げちゃってて・・・。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">ゴメンね。 焦げたお弁当なんかで。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">問題ないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">零羅がせっかく作ってくれたお弁当なら、 炭だったとしても食べるわ。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">嬉しい・・・ありがと、コネコ。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">やっぱり、持つべきものは友達よね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、ははは・・・友達、ね・・・。</talk>
+<talk id="0" chara="syureria" face="01" cos="seihuku">ん、どうかしたの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ううん、なんでもない。 私は零羅の大親友よ～。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">うん、そうね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さ、急ごう。 美羽が待ってるよ。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">うん！</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="school"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<buc id="0" action="out"/>
+<talk id="2" chara="mule" face="03" cos="01">二人とも、良く間に合ったわね。</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku">美羽、待っててくれたの？</talk>
+<talk id="2" chara="mule" face="03" cos="01">まさか。 私も丁度着いたところよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">随分とゆっくり歩いてたのね。</talk>
+<talk id="2" chara="mule" face="02" cos="01">な、何よ。 別に文句でもあるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いえ、別に。</talk>
+<jump tag="t321"/>
+<tag name="t257"/>
+<talk id="3" chara="coneco" face="00" cos="01">先に行ってようか？</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="01" cos="01">それが正解ね。 朝から服が乱れること、したくないし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・物凄くツッコミたいわ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">何を？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何ってそりゃ・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ううん、なんでもない。 美羽の制服姿、素敵よ。</talk>
+<talk id="0" chara="mule" face="01" cos="01">あら、セーラー服好きなの？</talk>
+<talk id="0" chara="mule" face="01" cos="01">可愛さ的にはお姉ちゃんの服の方がコネコの好みかと思ったんだけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">王道だからこその素晴らしさよ。 わかるかしら？</talk>
+<talk id="0" chara="mule" face="03" cos="01">・・・そう。 褒め言葉として受け取って良いのよね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">当然でしょ。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="city"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="0" chara="mule" face="03" cos="01">そういえば、今日のお姉ちゃんはいつもより多めにお弁当作ってたわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、マジ！？</talk>
+<talk id="0" chara="mule" face="03" cos="01">お弁当箱、二つも用意してたしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ま、まさか・・・男！？</talk>
+<talk id="3" chara="mule" face="03" cos="01">さあ、どうかしらね？ だとしたらどうする？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあ、邪魔はしないわ。 他人の恋路を邪魔するヤツは・・・。</talk>
+<talk id="3" chara="mule" face="03" cos="01">馬に蹴られて死んでしまえ、かしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">死にたくないし、零羅の幸せ壊したいとも 思わないからね、私は。</talk>
+<talk id="3" chara="mule" face="03" cos="01">そう・・・でも、安心していいわ。</talk>
+<talk id="3" chara="mule" face="01" cos="01">つまみ食いしてみたら、味付けはコネコの 好みの味になってたからね。</talk>
+<talk id="3" chara="mule" face="01" cos="01">絶対とは言わないけど、多分あのお弁当は コネコに渡すためのものよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・マジ？</talk>
+<talk id="3" chara="mule" face="01" cos="01">顔がニヤけてるわよ。 そんなに嬉しい？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">当然でしょ！！ うわぁ、お昼が超楽しみ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それはそうと、美羽は私に何を 作って来てくれたのかしら？</talk>
+<talk id="3" chara="mule" face="03" cos="01">自分の分しか作ってないわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・お手製弁当食べたいな～。 美羽のお手製弁当が食べたいな～。</talk>
+<talk id="3" chara="mule" face="03" cos="01">・・・本気で言ってるの？ 私の作ったもの、食べたいの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・あ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（そういえば、美羽は自分以外の人間には 殺人兵器のような物しか作れ無いんだっけ）</talk>
+<talk id="3" chara="mule" face="03" cos="01">思い出したようね。 それでも食べたいの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え～っと・・・やっぱ良いです。</talk>
+<talk id="3" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="mule" face="03" cos="01">・・・そう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あれ？ 今気づいたんだけどさ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">今日遅刻しそうになってるのは、 零羅が私のお弁当作ったせい？</talk>
+<talk id="3" chara="mule" face="03" cos="01">当然でしょ。 目覚ましの話はウソよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・零羅、追いかけてあげれば 良かったかしら？</talk>
+<talk id="3" chara="mule" face="03" cos="01">良いんじゃない？ 方向音痴はいつものことだし。</talk>
+<talk id="3" chara="mule" face="01" cos="01">それに・・・。 たまには私をエスコートしなさい。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そうね。 学校じゃ学年違うから一緒にいられないし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それで、どうする？ 腕でも組んだ方が良いのかしら？</talk>
+<talk id="3" chara="mule" face="03" cos="01">普通で良いわ。 さあ、行きましょ。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="school"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="syureria" face="05" cos="seihuku">ふ、二人とも、待って待ってぇ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、零羅。</talk>
+<talk id="1" chara="syureria" face="05" cos="seihuku">はぁ、はぁ・・・。 やっと、追いついた・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">朝からお疲れ様。 なんか、今日は走ってばっかりね。</talk>
+<talk id="2" chara="mule" face="01" cos="01">朝っぱらから元気よね。</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">出来れば走りたくなんかなかったわよ。</talk>
+<tag name="t321"/>
+<bgm src="null"/>
+<talk id="3" chara="crea" face="00" cos="01" option="hidden">三人とも、おはよう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">この声は・・・。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bgm src="crea"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="crea" face="01" cos="01" option="hidden">ふふ、朝から元気ね。</talk>
+<buc id="0" action="out"/>
+<talk id="1" chara="syureria" face="05" cos="seihuku">く、クレア先輩！！ おはようございます！</talk>
+<talk id="2" chara="crea" face="02" cos="01">おはよう、零羅。 美羽とコネコも、おはよう。</talk>
+<talk id="1" chara="mule" face="03" cos="01">おはよう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ども。</talk>
+<talk id="3" chara="system" face="00" cos="01">この人は、私達の先輩であるクレア先輩。</talk>
+<talk id="3" chara="system" face="00" cos="01">物凄く人気のある人で、正直、声をかけて もらえるのは凄く光栄なことらしい。</talk>
+<talk id="3" chara="system" face="00" cos="01">まあ、少なくとも私と美羽には わからない話なのだが。</talk>
+<talk id="3" chara="system" face="00" cos="01">まるで友達感覚で毎日話しかけられるから だろうか？</talk>
+<talk id="3" chara="system" face="00" cos="01">それだけならば、特に何も問題は無いけど。・・・なんていうかな？</talk>
+<talk id="3" chara="system" face="00" cos="01">話しかけるのは、必ず零羅がいる時だけ ってのが、なんかね・・・。</talk>
+<talk id="2" chara="crea" face="01" cos="01">零羅、また通学路を間違ったでしょ？</talk>
+<talk id="1" chara="syureria" face="04" cos="seihuku">ば、バレバレですか・・・。</talk>
+<talk id="2" chara="crea" face="04" cos="01">・・・零羅。</talk>
+<talk id="2" chara="crea" face="02" cos="01">方向感覚、曲がっていてよ。</talk>
+<talk id="1" chara="syureria" face="05" cos="seihuku">す、すいません。 これからは気をつけます・・・。</talk>
+<talk id="1" chara="mule" face="01" cos="01">お姉ちゃんの迷子は度を越してるからね。 見てる分には楽しいから良いんじゃない？</talk>
+<talk id="2" chara="crea" face="04" cos="01">・・・美羽。</talk>
+<talk id="2" chara="crea" face="02" cos="01">根性、ひん曲がっていてよ。</talk>
+<talk id="1" chara="mule" face="02" cos="01">大きなお世話よ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="2" chara="crea" face="01" cos="01">あら、どうかしたの、コネコ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いえ別に。 何でも無いですよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・な～んか不愉快なだけでね）</talk>
+<talk id="2" chara="crea" face="01" cos="01">・・・そう。</talk>
+<talk id="2" chara="crea" face="02" cos="01">さてと、それじゃそろそろ行くわね。 あなた達も、急いだ方が良いわよ。</talk>
+<talk id="1" chara="syureria" face="07" cos="seihuku">そ、そうですね。 それじゃあ先輩、失礼します。</talk>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="03" cos="01">それじゃ、私もそろそろ行くわ。 おやすみなさい。</talk>
+<buc id=" 0" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">いきなり寝る気満々ね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・零羅。</talk>
+<talk id="0" chara="syureria" face="05" cos="seihuku">え！？ な、なに！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・遅れちゃうよ。</talk>
+<talk id="0" chara="syureria" face="01" cos="seihuku">う、うん、そうね・・・。 行こう。</talk>
+<bgm src="null"/>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="kyousitu"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<bgm src="syureriaCS"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="orica" face="01" cos="school">おはよう、二人とも！</talk>
+<buc id="1" action="out"/>
+<talk id="0" chara="misya" face="01" cos="school">遅刻ギリギリよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">おはよう、オリカ、ミシャ。</talk>
+<talk id="3" chara="system" face="00" cos="01">この二人は、友達のオリカとミシャ。</talk>
+<talk id="3" chara="system" face="00" cos="01">説明は・・・まあ、特に必要ないかな？</talk>
+<buc id="0" action="out"/>
+<talk id="1" chara="syureria" face="05" cos="seihuku">はぁ・・・まだ朝なのにヘトヘト・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">１時間目は寝てたら？ それじゃ午後までもたないわよ。</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">・・・１時間目、数学よ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・うわっ、素で忘れてた。</talk>
+<talk id="2" chara="misya" face="01" cos="school">数学の時間に寝るのは自殺行為よ。 ２時間目までは我慢したら？</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">寝ること前提になってるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、そういえば宿題忘れた。</talk>
+<talk id="2" chara="misya" face="08" cos="school">うそっ！？</talk>
+<talk id="2" chara="orica" face="05" cos="school">私はやったよ。 答えは全部０だけどね。</talk>
+<talk id="1" chara="syureria" face="05" cos="seihuku">それは適当に答えを埋めただけでしょ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカ、それナイスアイデア！！ 私は全部１で埋めるわ。</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">・・・止めるべきかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">やらないよりはマシでしょ？</talk>
+<talk id="2" chara="misya" face="04" cos="school">やらない方がマシな時だってあるのよ？</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="reard" face="01" cos="01">諸君、揃っているか！？</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="misya" face="08" cos="school">まずい、もう来たわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大丈夫、こっちも終わったわ！</talk>
+<talk id="2" chara="reard" face="01" cos="01">さて・・・一秒でも早く授業を始めたい ところだが、今日は転校生がいてな。</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku">転校生？ 先生、そんな話は聞いてませんよ。</talk>
+<talk id="2" chara="reard" face="01" cos="01">前日に言おうが当日に言おうが問題はない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いい加減な・・・。</talk>
+<talk id="1" chara="orica" face="01" cos="school">ねえねえ、賭けようよ。 あたし、女の子にお昼ご飯ね。</talk>
+<talk id="1" chara="misya" face="01" cos="school">じゃあ、私は男の子にするわ。</talk>
+<talk id="1" chara="orica" face="05" cos="school">ミシャちゃん、転校生がカッコイイ男の子 だったら鞍替えする？</talk>
+<talk id="1" chara="misya" face="14" cos="school">まさか、そう簡単に譲るわけ無いでしょ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（この二人、仲の良い友達ではあるものの、実は一人の男を賭けて恋愛バトル中らしい）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（どんな男なのかは知らないが、まあ、 必死になるほど惚れているらしい）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・それでも友情崩れないんだから、 ホント仲良いわよね）</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku">私は・・・女の子にしようかな？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私は女顔の男にするわ。</talk>
+<talk id="1" chara="orica" face="12" cos="school">コネコ、そういう子が好みなの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大穴狙ってるだけよ。</talk>
+<talk id="1" chara="misya" face="02" cos="school">でもコネコ、好きな男の子いないんでしょ？</talk>
+<talk id="1" chara="misya" face="01" cos="school">かっこいい男の子だったら、告白して ゲットしちゃえば？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや～、まあ、好きな人はいるんだけどね。</talk>
+<talk id="1" chara="orica" face="01" cos="school">？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや、なんでもないって。</talk>
+<talk id="2" chara="reard" face="01" cos="01">さて、入って来なさい。</talk>
+<talk id="2" chara="curche" face="03" cos="01" option="hidden">失礼します。</talk>
+<talk id="1" chara="orica" face="14" cos="school">・・・・・・。</talk>
+<talk id="1" chara="misya" face="02" cos="school">・・・・・・。</talk>
+<talk id="1" chara="syureria" face="03" cos="seihuku">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・どっち！？</talk>
+<talk id="2" chara="reard" face="01" cos="01">え～、この人は・・・。</talk>
+<talk id="1" chara="orica" face="01" cos="school">先生～！ その人は男の子ですか、女の子ですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">直球過ぎだよ！！</talk>
+<talk id="2" chara="curche" face="05" cos="01" option="hidden">・・・失礼な！ ボクは女の子に決まってるでしょ？</talk>
+<talk id="1" chara="orica" face="05" cos="school">！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（お昼ご飯ゲット、とか思ってるん だろうなぁ・・・）</talk>
+<talk id="2" chara="reard" face="01" cos="01">この人は転校生じゃないぞ。</talk>
+<talk id="1" chara="orica" face="14" cos="school">えぇっ！？</talk>
+<talk id="2" chara="reard" face="01" cos="01">この人は転校生についての説明を してくれる、クルシェさんだ。</talk>
+<talk id="1" chara="misya" face="02" cos="school">転校生の説明？ まさか、凄い問題児とか？</talk>
+<talk id="1" chara="orica" face="01" cos="school">ヤンキーさん？ チョベリバ使って話せるかな？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それ、ヤンキーじゃないよ。</talk>
+<talk id="2" chara="curche" face="01" cos="01">説明と言っても、凄く簡単です。</talk>
+<talk id="2" chara="curche" face="05" cos="01">・・・イジメないであげてください。</talk>
+<talk id="2" chara="curche" face="01" cos="01">酷い扱いとか受けると、大変な行動に出る 可能性がありますので。</talk>
+<talk id="2" chara="curche" face="03" cos="01">友達として扱ってあげてください。 お願いします。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・何、それ？</talk>
+<talk id="1" chara="syureria" face="03" cos="seihuku">もしかして、前の学校では凄い イジメられっこだったとか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">わからないけど、普通の人ではなさそうね。</talk>
+<talk id="2" chara="curche" face="03" cos="01">それでは早速・・・。 さあ、入ってきて。</talk>
+<bgm src="null"/>
+<talk id="3" chara="jack" face="00" cos="01" option="hidden">はい！</talk>
+<bgm src="tempa"/>
+<talk id="2" chara="jack" face="01" cos="01" option="hidden">失礼します。</talk>
+<talk id="2" chara="curche" face="01" cos="01">え～、見ればわかると思いますけど・・・。ほら、自己紹介。</talk>
+<talk id="2" chara="jack" face="01" cos="01" option="hidden">私は、偉大なる天派のクルシェ主任が 作り上げた介護ロボットであります！</talk>
+<talk id="2" chara="jack" face="01" cos="01" option="hidden">開発ネーム、ミドリ一号。 通称ジャックです！</talk>
+<talk id="1" chara="syureria" face="05" cos="seihuku">ろ、ロボット！？</talk>
+<talk id="1" chara="orica" face="01" cos="school">男の子かな？ 女の子かな？</talk>
+<talk id="1" chara="misya" face="02" cos="school">男でも女でもないんじゃない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ってか、人間じゃないし・・・。</talk>
+<talk id="2" chara="curche" face="03" cos="01">売り出そうにも、実用テストがまだでして。</talk>
+<talk id="2" chara="curche" face="03" cos="01">だから、この学校でテストをすることに なったわけです。</talk>
+<talk id="2" chara="reard" face="01" cos="01">ふふふ、ロボットか。 さぞや計算が得意なのだろう。</talk>
+<talk id="2" chara="reard" face="02" cos="01">・・・楽しみだ！！</talk>
+<talk id="1" chara="orica" face="01" cos="school">介護用ロボットなら老人ホームとか 病院とかでテストすれば良いのに。</talk>
+<talk id="2" chara="curche" face="05" cos="01">それだと何かあったときに大変なんですよ。</talk>
+<talk id="2" chara="curche" face="03" cos="01">若くて健康なあなた達なら、そう簡単には ケガとかしないと思うし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">その左手のゴッツイ銃は何なのよ？ 介護用でしょ？</talk>
+<talk id="2" chara="curche" face="04" cos="01">・・・はぁ。 これだから素人は。</talk>
+<talk id="2" chara="curche" face="03" cos="01">武装一つ無いロボットなんか、 売れるわけないでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">介護に必要なのかってところが問題なのよ。</talk>
+<talk id="2" chara="curche" face="05" cos="01">・・・じゃあ、護身用ってことで。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・いい加減な。</talk>
+<talk id="2" chara="reard" face="01" cos="01">さて、それでは早速座ってもらおう。 空いている席は・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（都合よく、私の隣が空きっぱなしだわ）</talk>
+<select>
+<option tag="t526">私の隣へどうぞ</option>
+<option tag="t527">ロボットは怖い！</option>
+</select>
+<tag name="t526"/>
+<talk id="3" chara="coneco" face="00" cos="01">先生、私の隣が空いてるよ。</talk>
+<talk id="2" chara="reard" face="01" cos="01">そうか、ではそこに座ってもらうとしよう。</talk>
+<talk id="2" chara="jack" face="01" cos="01">・・・了解しました。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">ほら、ここよ。</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="jack" face="05" cos="02">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">な、なによ？</talk>
+<talk id="0" chara="jack" face="05" cos="02">・・・初めて、人間の優しさに触れました。</talk>
+<talk id="0" chara="jack" face="05" cos="02">感激という感情を、理解しました。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そ、そう？ そりゃ良かったわ。</talk>
+<talk id="0" chara="jack" face="03" cos="01">おおっ！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">今度は何！？</talk>
+<talk id="0" chara="jack" face="03" cos="01">こ、これは、涙・・・。 ロボットの私に涙を流させるとは・・・。</talk>
+<talk id="0" chara="jack" face="02" cos="01">あなたは、神か！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょっと責任者！！ このロボット涙もろ過ぎるよ！！</talk>
+<talk id="0" chara="curche" face="04" cos="01">じゃ、じゃあボクはこれで！ あとはよろしく！！</talk>
+<talk id="0" chara="syureria" face="06" cos="seihuku">ああっ、逃げた！！</talk>
+<talk id="0" chara="jack" face="01" cos="01">この良き日を忘れぬよう、あなたを我が マスターとして登録させていただきます。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや良いから、そんなことしなくても。</talk>
+<talk id="0" chara="jack" face="01" cos="01">・・・登録完了しました。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・人の言葉完全無視ね。</talk>
+<talk id="0" chara="jack" face="01" cos="01">マスター。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・私の名前は野良子猫。 コネコって呼んで。</talk>
+<talk id="0" chara="jack" face="04" cos="01">ノラ猫さんですか。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">次言ったら、分解（バラ）すよ？</talk>
+<talk id="0" chara="jack" face="01" cos="01">了解しました、コネコさん。</talk>
+<bgm src="null"/>
+<buc id=" 0" action="out"/>
+<bgm src="kintyou "/>
+<buc id="0" action="out"/>
+<talk id="2" chara="reard" face="03" cos="01">・・・さて。</talk>
+<talk id="2" chara="reard" face="03" cos="01">早速宿題の答え合わせから始めるが・・・。</talk>
+<talk id="2" chara="reard" face="02" cos="01">テメエら、まさか忘れてねぇだろうな！？</talk>
+<talk id="1" chara="orica" face="05" cos="school">完璧で～す！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私も～！！</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">・・・・・・。</talk>
+<talk id="1" chara="jack" face="01" cos="01">コネコさん、宿題とはどれですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">問題集の６０ページから６３ページよ。</talk>
+<talk id="1" chara="jack" face="05" cos="02">・・・なるほど。 理解しました。</talk>
+<talk id="2" chara="reard" face="01" cos="01">ほぉ、理解したか。</talk>
+<talk id="2" chara="reard" face="01" cos="01">ならば早速貴様に答えてもらうとしよう。 さあ、ロボットの計算能力を見せてみろ！</talk>
+<bgm src="zukkoke"/>
+<talk id="1" chara="jack" face="01" cos="01">私には理解できないと、理解しました。</talk>
+<talk id="1" chara="jack" face="04" cos="01">介護用ロボットにこのような数学の知識は 不要でありますので。</talk>
+<talk id="1" chara="orica" face="10" cos="school">・・・・・・。</talk>
+<talk id="1" chara="misya" face="02" cos="school">・・・・・・。</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ガッカリね。</talk>
+<talk id="1" chara="jack" face="04" cos="01">私に数学は無意味です。 待機モードに入らせていただきます。</talk>
+<talk id="2" chara="reard" face="02" cos="01">貴様、数学を愚弄したな！！ 今すぐガラクタにされたいのか！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・普通に授業しましょうよ。</talk>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="mori"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<jump tag="t597"/>
+<tag name="t527"/>
+<talk id="2" chara="reard" face="01" cos="01">野良の隣の席が空いてるな。 では、そこに座って・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなのダメよ！！ 何言ってるの！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">先生、あなた教師ならこの状況おかしいと 思わないとダメでしょ！？</talk>
+<talk id="2" chara="reard" face="03" cos="01">・・・どこがおかしい？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ロボットよ！？ 機械人形よ！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ロボットってのは十中八九暴走して人間に 敵対する存在になるって決まってるのよ！</talk>
+<talk id="2" chara="curche" face="01" cos="01">まあ、ジャックにはロボット三原則つけて ないから、ありえるかもしれませんね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">余計にヤバイじゃん！！ ダメ、絶対に隣はダメ！！</talk>
+<bgm src="null"/>
+<talk id="3" chara="coneco" face="00" cos="01">ロボットは危険な存在なんだから！！</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="jack" face="05" cos="02">・・・・・・。</talk>
+<talk id="0" chara="curche" face="04" cos="01">じゃ、ジャック、どうしたの？</talk>
+<bgm src="kanasii"/>
+<talk id="0" chara="jack" face="05" cos="02">・・・私は、悲しい。</talk>
+<talk id="0" chara="jack" face="05" cos="02">私はこの体がある限り人間に尽くそうと 思っていました。</talk>
+<talk id="0" chara="jack" face="03" cos="01">しかし、その尽くすべき人間に恐れられる なんて、悲しすぎます。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">悲しい・・・感情があるっていうの！？</talk>
+<talk id="0" chara="jack" face="03" cos="01">たった今、あなたの言葉で生まれました。</talk>
+<talk id="0" chara="jack" face="05" cos="02">悲しい・・・私は、凄く悲しい・・・。</talk>
+<talk id="0" chara="curche" face="04" cos="01">ジャック、落ち着いて！</talk>
+<talk id="0" chara="jack" face="05" cos="02">こんな・・・こんな悲しい世界なら・・・。</talk>
+<talk id="0" chara="jack" face="05" cos="02">・・・消えてしまった方が良い。</talk>
+<talk id="0" chara="curche" face="02" cos="01">！？ ジャック、何やってるの！？</talk>
+<bgm src="kiki"/>
+<talk id="0" chara="jack" face="05" cos="02">某国のミサイルを積んだ攻撃衛星と リンクしました。</talk>
+<talk id="0" chara="jack" face="05" cos="02">この世界を悲しみから開放するには、 これしか方法は無いのです。</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="syureria" face="05" cos="seihuku">こ、コネコ、謝って！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうして！？ おもいっきり危ない存在じゃん！！</talk>
+<talk id="2" chara="jack" face="05" cos="02">ミサイルよ。 この世界を悲しみから救いたまえ。</talk>
+<talk id="1" chara="orica" face="11" cos="school">うわっ！？ 空からなんか来るよ！？</talk>
+<talk id="1" chara="syureria" face="06" cos="seihuku">本当にミサイル！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">人間の敵めぇぇぇぇぇぇ！！</talk>
+<se param="explode2"/>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="null"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="meimei" face="04" cos="02">バッドエンド・『世界は機械に支配された』</talk>
+<talk id="0" chara="meimei" face="06" cos="02">・・・次は頑張ってくださいね。</talk>
+<exec param="over"/>
+<tag name="t597"/>
+<bgm src="syureriaCS"/>
+<talk id="3" chara="coneco" face="00" cos="01">はぁ・・・。 ようやくお昼ご飯だよ。</talk>
+<buc id="0" action="out"/>
+<talk id="1" chara="syureria" face="01" cos="seihuku">ホントね。 何だか今日は疲れたわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">朝から色々あって騒がしかったからね。</talk>
+<talk id="2" chara="jack" face="01" cos="01">お疲れのようですね。 肩でもお揉みいたしましょうか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ってか、どうしてあんたがいるの？</talk>
+<talk id="2" chara="jack" face="01" cos="01">そうは言われましても、コネコさんは私の マスターですから。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">乙女同士の神聖なランチタイムを楽しみたいから、わざわざ裏山にまで来てるってのに。</talk>
+<talk id="2" chara="jack" face="01" cos="01">お邪魔はいたしません。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・じゃあ、静かに座ってなさい。</talk>
+<talk id="2" chara="jack" face="01" cos="01">了解です。</talk>
+<talk id="2" chara="jack" face="04" cos="01">おや？ コネコさん、誰か来ましたよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、美羽。 こっちこっち！</talk>
+<talk id="1" chara="mule" face="03" cos="01">ようやく見つけたわ。 ここ、丁度木に隠れてて・・・。</talk>
+<talk id="1" chara="mule" face="02" cos="01">・・・何、そいつ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ロボットのジャックだよ。</talk>
+<talk id="2" chara="jack" face="01" cos="01">登録されている名簿から検索いたしました。塔ヶ崎美羽さんですね？</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・どうしてロボットがこんなところに？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ロボットの転校生よ。 勝手にマスター登録されちゃったの。</talk>
+<talk id="1" chara="mule" face="03" cos="01">とんだ災難ね。</talk>
+<talk id="2" chara="jack" face="05" cos="02">・・・あの、素朴な疑問があるのですが。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何よ？</talk>
+<bgm src="null"/>
+<talk id="2" chara="jack" face="03" cos="01">美羽さんは、どうして全裸なのですか？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="1" chara="syureria" face="04" cos="seihuku">・・・・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<bgm src="zukkoke"/>
+<talk id="2" chara="jack" face="04" cos="01">理解不能であります。 返答を願います。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・え～っとね。 なんていうか・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ジャック、あんたどこか壊れてない？ 美羽はちゃんと服を着てるわよ。</talk>
+<talk id="2" chara="jack" face="04" cos="01">・・・私には、全裸に見えますが？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちゃんと着てるわよ。 可愛いセーラー服を。</talk>
+<talk id="2" chara="jack" face="04" cos="01">・・・本当でありますか？</talk>
+<talk id="1" chara="syureria" face="05" cos="seihuku">え、えっと・・・うん、着てるわ！ ちゃんと服着てるわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">大体、全裸で外を歩けるわけないでしょ？ 一度、目のメンテナンスしたら？</talk>
+<talk id="2" chara="jack" face="01" cos="01">・・・なるほど、私にだけ裸で 見えるのでありますか。</talk>
+<talk id="1" chara="mule" face="03" cos="01">スケベなロボットね。</talk>
+<talk id="1" chara="mule" face="01" cos="01">まあ、見られて恥ずかしい体してないから、問題は無いけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、恥ずかしい体じゃないよね。</talk>
+<talk id="1" chara="syureria" face="02" cos="seihuku">恥知らずの一歩手前って思うのは、私だけ？</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bgm src="mattari"/>
+<talk id="3" chara="coneco" face="00" cos="01">それよりさ、お弁当食べようよ。 お弁当！</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">そ、そうね・・・。 はい、コネコ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">やった！ 零羅の作ったお弁当だ！！</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">あの、あまり期待しないでね。 ホント、簡単に作ったものだから・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">暗いうちから仕込みをしてなかった？</talk>
+<talk id="2" chara="syureria" face="05" cos="seihuku">ば、バカ！ 余計なこと言わなくていいの！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それじゃ、早速開けさせてもらうね。 えっと・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・うわぁ、ウサライスだ！ 赤いのと黒いのが並んでる。</talk>
+<talk id="2" chara="syureria" face="07" cos="seihuku">赤いのはケチャップで味付けしたの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">黒いのはノリ？</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">・・・焦がしちゃったの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ああ、なるほど。 でもウサギだから問題無し！</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・体壊さない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなヤワじゃないからね。 それじゃ、いただきます。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="2" chara="syureria" face="03" cos="seihuku">・・・ど、どうかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・うん、美味しい。 ほら、焦げてるの表面だけだよ。</talk>
+<talk id="2" chara="syureria" face="05" cos="seihuku">本当？ 本当に美味しい！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ホントだよ。 ウソはつかないって。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">赤い方も美味しいよ。 ただ、残念なところを言えば・・・。</talk>
+<talk id="2" chara="syureria" face="03" cos="seihuku">な、何？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">可愛いから、食べるのが少し勿体無いのよ。</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">確かにそうかも。 私も、時々そう思う時あるの。</talk>
+<talk id="2" chara="syureria" face="07" cos="seihuku">でも、そう思ってくれるほど気に入って くれたみたいで、凄く嬉しいわ。</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">良ければ、えっと・・・。 また、作ってあげるね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">零羅の迷惑にならないなら、 毎日でも歓迎するわ。</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">迷惑だなんて・・・。 そんなことないわ。</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">作ってるこっちも、凄く楽しいしね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それで？ 美羽、さっきから何？</talk>
+<talk id="1" chara="mule" face="03" cos="01">いえ、何て言うか・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・あなた達の会話、女同士でする 内容なのかしらって。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・普通よね？</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">友達同士の普通の会話でしょ？</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="1" chara="mule" face="01" cos="01">ごちそうさま。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、もう？</talk>
+<talk id="1" chara="mule" face="03" cos="01">そういう意味でのごちそうさまじゃないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そういえば、美羽の今日のお弁当は？</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・ほら、これよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うわぁ・・・。 なんか、ゲルッぽいのがギッシリね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">それは特製ゼリーよ。 ちょっとネバネバするけどね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・こっちの、何かカサカサしてウネウネしてる物体は何？</talk>
+<talk id="1" chara="mule" face="03" cos="01">イカの唐揚げよ。 見てわからない？</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">・・・あ、デザートのプリンだけは普通ね。</talk>
+<talk id="1" chara="mule" face="01" cos="01">これは醤油をかけてご飯と一緒に食べるの。即席のウニご飯になるでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">お弁当でやることじゃないと思うよ？</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">この子は自分以外の人間は食べれないもの しか作れないからね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ、確かにそうだろうけど・・・。</talk>
+<select>
+<option tag="t732">美羽、料理習えば？</option>
+<option tag="t733">美羽、オカズわけて</option>
+</select>
+<tag name="t732"/>
+<talk id="3" chara="coneco" face="00" cos="01">美羽、せっかくだから零羅に料理を習えば？</talk>
+<talk id="1" chara="mule" face="03" cos="01">必要ないわ。 ちゃんと食べれる味だし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それは美羽にとってはね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私達にとっては、ちょっと・・・。</talk>
+<talk id="1" chara="mule" face="01" cos="01">コネコはお姉ちゃんのお弁当があるんだから良いじゃない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、零羅の作ったお弁当、凄く美味しい。</talk>
+<talk id="2" chara="syureria" face="05" cos="seihuku">も、もう・・・。 褒めても何も出ないよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でもさ、もし美羽が普通の料理を 作れるようになったら、食べてみたいな。</talk>
+<talk id="2" chara="syureria" face="07" cos="seihuku">そうね、私も美羽の作った料理、 普通に食べてみたいわ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・私の作った料理、そんなに変？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">変じゃなくて、独特過ぎるのよ。 見た目も味もね。</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">つ、作り方もね。 ・・・あれは、料理の仕方じゃないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">一度そこから見せてもらいたいわね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">良いのよ、私はこのままで。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そうは言っても、将来的に作れた方が 良いと思うけど？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">結婚して子供出来た時に、これはね・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">親が親なら子も子で味覚も同じじゃない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">違ったら大問題になるわよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ってかさ、美羽はいないの？ 料理を作ってあげたい人とか？</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・別に。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いない、じゃなくて、別に？</talk>
+<talk id="1" chara="mule" face="01" cos="01">・・・そういうことよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあ、良いけどね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">さてと、そろそろ戻らない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え～、ギリギリまでのんびりしてこうよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">のんびりし過ぎて昼寝して、午後の授業を 何度もサボッたのは誰？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それは本気で疲れてるときだけだよ。 無理して倒れたら大騒ぎになるでしょ？</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">だったら素直に早退とか保健室言った方が 良いんじゃないかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">保健室行くと、オババ先生に苦い薬ムリヤリ飲まされるからイヤなのよ。</talk>
+<talk id="2" chara="syureria" face="02" cos="seihuku">名前で呼ばないと怒られるわよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">じゃあ、ここだけの話にしておいて。</talk>
+<talk id="1" chara="mule" face="03" cos="01">とにかく、私は先に失礼するわ。 昼寝の準備もあるし。</talk>
+<talk id="1" chara="mule" face="03" cos="01">じゃあね。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・美羽、午後も寝るつもりだね。 不良街道一直線？</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="syureria" face="01" cos="seihuku">コネコだって似たようなもんでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私は良いのよ。 あなた達みたく可愛くないからね。</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">も、もう・・・。 すぐそうやって誤魔化して。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ま、美羽も行っちゃったし、私達も そろそろ戻ろうか？</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">うん、そうね。</talk>
+<talk id="0" chara="jack" face="01" cos="01">了解しました。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・素であんたの存在忘れてたわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、言い忘れてたけど、零羅。</talk>
+<talk id="0" chara="syureria" face="01" cos="seihuku">ん、何？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">お弁当、ごちそうさまでした。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="rouka"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<jump tag="t785"/>
+<tag name="t733"/>
+<talk id="3" chara="coneco" face="00" cos="01">美羽・・・オカズわけてくれる？</talk>
+<buc id="0" action="out"/>
+<talk id="1" chara="mule" face="03" cos="01">・・・命知らずね。 凄く不味いわよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">作った本人のセリフとは思えないわね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">私にとっては美味しいのよ。 他人には理解できないだろうけどね。</talk>
+<talk id="2" chara="syureria" face="04" cos="seihuku">うん、確かにそうね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私も同意。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・だったら欲しがらないで。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そうとわかっていても、 ほしい理由があるのよ。</talk>
+<talk id="1" chara="mule" face="02" cos="01">お、お姉ちゃんのお弁当があるのに、 どうして私のオカズが欲しいの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それはね・・・ほら、零羅の作ったお弁当を見ればわかると思うよ。</talk>
+<talk id="1" chara="mule" face="03" cos="01">別に、普通のお弁当じゃ・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・あら？ オカズは？</talk>
+<talk id="2" chara="syureria" face="05" cos="seihuku">・・・あっ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、そうだよ。 ウサライスしか入ってないのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから・・・ちょっとオカズが恋しくて。</talk>
+<talk id="2" chara="syureria" face="05" cos="seihuku">ご、ごめんねコネコ。 私、ウッカリしてて・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">謝らないでよ。 ウサライス、凄く美味しかったんだから。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、美味しいものだからこそ、 オカズと一緒に食べたくてね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・お姉ちゃん、作ってるときに 気が付かなかったの？</talk>
+<talk id="2" chara="syureria" face="09" cos="seihuku">うう、ごめんなさい・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなわけだからさ、わけてくれる？</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・どうなっても知らないわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ありがと。 それじゃ・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・このプルプルした固まりもらうね。</talk>
+<talk id="1" chara="mule" face="03" cos="01">それは納豆よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・や、やっぱり、こっちのにするわ。 うわ、ツルツルしてる・・・。</talk>
+<talk id="1" chara="mule" face="03" cos="01">ポテトサラダね。 自信作よ。</talk>
+<talk id="2" chara="syureria" face="03" cos="seihuku">ツルツルしたポテトサラダ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">しかも黒いってのが凄いよね。 どんな作り方したんだか・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ・・・とにかく食べるわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（ってか、近くで見ると迫力あるなぁ）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（ん？　今、何か動いたような・・・）</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（うう、なんか物凄い見られてるし・・・）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（ええい、覚悟を決めろ、私！！）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（神経集中・・・よしっ！！）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いただきます！！</talk>
+<talk id="2" chara="syureria" face="06" cos="seihuku">ほ、ホントに食べた！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・ゴメン、美羽。凄く不味いよ）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（どれくらい不味いかって？）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（意識が吹っ飛びそうになるくらいかな？）</talk>
+<talk id="1" chara="mule" face="02" cos="01">・・・ど、どうなのよ！？ 感想の一つくらい、言ったらどうなの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（待って待って、今口開けたら大惨事になること確実だからちょっと待って！）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（意識を集中して・・・大丈夫、ほら、 とりあえず気絶は免れそうだわ）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（それに確かに不味いけど、微妙にポテトの味がするようなしないような・・・）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ん、ぐっ！！ プハァーッ！！</talk>
+<talk id="2" chara="syureria" face="05" cos="seihuku">た、食べた・・・。 コネコ、大丈夫なの！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、あははは・・・。 大丈夫に見えた？</talk>
+<talk id="1" chara="mule" face="02" cos="01">だ、だからどうなのよ、味は！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">う、うん・・・えっと・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もう一口くらいは、根性で食べれそうかな。</talk>
+<talk id="1" chara="mule" face="03" cos="01">・・・あ、あらそう。 二口目を欲しがる人なんて、初めてだわ。</talk>
+<talk id="2" chara="syureria" face="01" cos="seihuku">コネコ、本当に大丈夫？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ、なんとか・・・。</talk>
+<talk id="1" chara="mule" face="01" cos="01">そう・・・。 悪い感想だけじゃないのね・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ん、どうかしたの美羽？ 何か嬉しそうだよ。</talk>
+<talk id="1" chara="mule" face="02" cos="01">な、何言ってるの？ 別に、何も嬉しいことなんかないわ！</talk>
+<talk id="1" chara="mule" face="02" cos="01">まったく、お弁当分けたから私の分が 少なくなって大迷惑よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">い、一品だけなのに・・・。</talk>
+<talk id="1" chara="mule" face="02" cos="01">わ、悪いけど私、教室戻るわ！ 次の時間体育だから、着替えなきゃ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、でもまだそんな急がなくても・・・。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">って、全力ダッシュ！？</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="syureria" face="01" cos="seihuku">・・・行っちゃった。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・私、何か悪いことしたかしら？</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">その逆よ。 テレてるのよ、あの子。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ふ～ん・・・珍しいこともあるね。</talk>
+<talk id="0" chara="jack" face="04" cos="01">乙女心は複雑ですね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、ゴメン。 スッカリあんたの存在忘れてた。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">私達も、そろそろ戻りましょ。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="rouka"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<tag name="t785"/>
+<bgm src="syureriaCS"/>
+<talk id="3" chara="coneco" face="00" cos="01">ふあ～ぁ・・・。</talk>
+<talk id="0" chara="syureria" face="07" cos="seihuku">もう寝る気満々ね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">最初と最後の号令はやるから、 問題ないわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それに、午後の授業なんてのは寝ない人間が出ないことの方が異常だしね。</talk>
+<talk id="0" chara="syureria" face="02" cos="seihuku">確かに、言ってることは間違って ないんだけど・・・。</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="2" chara="crea" face="01" cos="01">零羅。</talk>
+<bgm src="crea"/>
+<talk id="1" chara="syureria" face="07" cos="seihuku">あ、クレア先輩。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・先輩、どうしたんですか？ もうすぐ昼休み終わりますよ。</talk>
+<talk id="2" chara="crea" face="02" cos="01">わかってるわ。 ちょっと、零羅に話があってね。</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku">私に、ですか？</talk>
+<talk id="2" chara="crea" face="01" cos="01">ちょっと、良い？</talk>
+<talk id="1" chara="syureria" face="04" cos="seihuku">あ、はい・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<bgm src="null"/>
+<talk id="2" chara="crea" face="01" cos="01">悪いんだけれど、コネコは 待っててくれるかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・内緒話ですか？</talk>
+<talk id="2" chara="crea" face="02" cos="01">まあ、そんなところよ。 悪いわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">良いですよ。 じゃあ零羅、教室入ってるからね。</talk>
+<talk id="1" chara="syureria" face="01" cos="seihuku">うん・・・。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="kyousitu"/>
+<wait time=" 30"/>
+<bgm src="syureriaCS"/>
+<talk id="1" chara="orica" face="05" cos="school">コネコ、おかえり。 また外食してきたの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">外食って、裏山でお弁当食べただけよ。</talk>
+<talk id="1" chara="orica" face="12" cos="school">え、もしかしていつも裏山で お昼ご飯食べてたの？</talk>
+<talk id="1" chara="orica" face="05" cos="school">あたし、コネコはいつも学校抜け出して 外食してるんだと思ってたよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんな目で見られてたなんて、 夢にも思わなかったわ。</talk>
+<talk id="2" chara="jack" face="01" cos="01">私はロボットなので、夢は見ません。</talk>
+<talk id="1" chara="misya" face="01" cos="school">あら、姿が見えないと思ったら、 コネコと一緒にいたのね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、ほとんど喋らないから存在感薄くて、素でいること忘れるのよね、これ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・これ、じゃなくて、彼、の方が 良いのかしら？</talk>
+<talk id="2" chara="jack" face="01" cos="01">お気遣いは無用です。 お好きな方でどうぞ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあ、一応クラスメイトなわけだし、これって言うのは失礼よね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ごめんなさい、謝るわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなわけで訂正。 彼、無口だから存在感薄いのよ。</talk>
+<talk id="1" chara="misya" face="04" cos="school">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうかした？</talk>
+<talk id="1" chara="misya" face="04" cos="school">いえ、なんていうか・・・良い話になるかもって期待した私がバカだったわ。</talk>
+<talk id="1" chara="orica" face="05" cos="school">あははは、無口な男はモテないよ。</talk>
+<talk id="2" chara="jack" face="01" cos="01">聞き上手に設定されていますので あと、私は男ではなくロボットです。</talk>
+<talk id="1" chara="orica" face="01" cos="school">設定変えて良い？</talk>
+<talk id="1" chara="misya" face="13" cos="school">や、やめておいた方が良んじゃない？ 授業中とかまでベラベラ喋りそうだし。</talk>
+<talk id="1" chara="orica" face="05" cos="school">それ面白そう！ 変えちゃえ変えちゃえ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、確かに！ やっちゃえやっちゃえ！</talk>
+<talk id="2" chara="jack" face="02" cos="01">む、ムリヤリ何を！？ 帽子の中はやめてください。</talk>
+<talk id="1" chara="misya" face="13" cos="school">・・・零羅、早く帰ってきて。 私だけじゃこの二人を止められないわ。</talk>
+<talk id="1" chara="orica" face="01" cos="school">あれ？ そういえば零羅は？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何か話があるとかで呼び出されてたわ。 何の話かは知らないけど。</talk>
+<talk id="1" chara="orica" face="12" cos="school">それって、クレア先輩？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そうだけど、どうしてわかったの？</talk>
+<talk id="1" chara="misya" face="02" cos="school">昼休みが始まってすぐ、ここに来たのよ。 零羅がどこ言ったか聞かれてね。</talk>
+<talk id="1" chara="misya" face="02" cos="school">大事な話でもあるのかしら？</talk>
+<talk id="1" chara="orica" face="01" cos="school">来年の生徒会会長の推薦の話じゃないかな？クレア先輩、今年で卒業だし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ～、ありうるね。 ってか、それ以外に無いわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">零羅なら良いんじゃないかな？ この学校のヘッドになっても。</talk>
+<talk id="1" chara="misya" face="04" cos="school">暴走族じゃないんだから・・・。</talk>
+<talk id="1" chara="orica" face="01" cos="school">あ、帰ってきた！</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bgm src="null"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="syureria" face="03" cos="seihuku">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">お帰り、零羅。</talk>
+<talk id="0" chara="syureria" face="03" cos="seihuku">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あ、あれ？ どうかしたの？</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">・・・ど、どうしよう。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・何が？</talk>
+<talk id="0" chara="syureria" face="04" cos="seihuku">・・・告白。</talk>
+<talk id="0" chara="syureria" face="05" cos="seihuku">告白・・・されちゃった・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・は？</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="null"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="system" face="00" cos="01">後編につづく！！</talk>
+<exec param="end1"/>
+<talk id="0" chara="meimei" face="06" cos="02">前編、お疲れ様でした。</talk>
+<talk id="0" chara="meimei" face="04" cos="02">最初にも言いましたが、選択肢を色々試してみましたか？</talk>
+<talk id="0" chara="meimei" face="06" cos="02">まだの方はぜひ試して、その選択後の会話を楽しんでくださいねー。</talk>
+<talk id="0" chara="meimei" face="02" cos="01">ちなみに、前編には特殊ルートとかはありませんので、そこはご了承くださいー。</talk>
+<exec param="end2"/>
+</comment>
+</cs>

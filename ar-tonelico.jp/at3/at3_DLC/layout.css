@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+.fonts0{
+	font-size:10px;
+	line-height:12px;
+}
+.fonts1{
+	font-size:12px;
+	line-height:16px;
+}
+.fonts2{
+	font-size:12px;
+	line-height:16px;
+	color:#6b0f89;
+	font-weight:bold;
+}
+.fonts3{
+	font-size:12px;
+	line-height:16px;
+	color:#0033b4;
+	font-weight:bold;
+}
+.fonts4{
+	font-size:12px;
+	line-height:16px;
+	color:#2b5c00;
+	font-weight:bold;
+}
+.title1{
+	font-size:14px;
+	line-height:16px;
+	font-weight:bold;
+}
+
+
+
+
+#container_all{
+	width:900px;
+	height:auto;
+	margin:0 auto;
+}
+
+#header{
+	width:900px;
+	height:300px;
+}
+
+#contents{
+	width:800px;
+	padding:10px 0 0 0;
+	margin:0 auto;
+}
+
+#footer{
+	width:800px;
+	height:15px;
+	margin:0 auto;
+}
+#copyright{
+	font-size:10px;
+	line-height:15px;
+	text-align:right;
+}

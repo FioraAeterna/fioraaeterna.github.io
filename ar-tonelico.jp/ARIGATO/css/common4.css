@@ -1,0 +1,196 @@
+@charset "utf-8";
+
+
+* {
+	margin:0px;
+	paddng:0px;
+}
+
+
+/* 基本フォント */
+
+body,div,span,td,th,p,address,h1,h2,h3,h4,h5,h6 {
+	color: #666;
+	font-family: 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'ＭＳ Ｐゴシック', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 140%;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+html{
+	width:100%;
+	/*overflow:scroll;*/
+}
+
+body {
+	background-color:#FFFFF1;
+	background-image:url(../img/bg_04.jpg);
+	background-repeat:repeat-x;
+	background-position:center top;	 
+    text-align:center;
+	text-decoration:none;	
+	}
+
+body > div {
+	margin:0px auto;
+}
+
+div,td,th {
+	text-align:left;
+}
+
+img,table {
+	border: none;
+}
+
+img {
+	vertical-align: top;
+}
+
+p,form,ul,li,p,pre,h1,h2,h3,h4,h5,h6 {
+	margin: 0px;
+	padding: 0px;
+	text-align:left;
+}
+
+p {
+	margin-bottom:10px;
+	line-height:1.5em;
+	color:#323232;
+}
+
+ul {
+	list-style: none;
+}
+
+table thead th {
+	text-align:center;
+	padding:5px;
+}
+
+table td {
+	text-align:left;
+	vertical-align: top;
+}
+
+
+
+
+br.clear {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	font-size: 0px;
+	line-height: 0px;
+}
+
+.hide {
+	visibility:hidden;
+}
+
+/* -----------------基本テキストリンク----------------- */
+
+
+a:link {
+	color: #fc3333;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #996600;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fc6600;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #fc6600;
+	text-decoration: underline;
+}
+
+
+/* -----------------装飾----------------- */
+
+.txt-size1 {
+	font-size:10px;
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+
+.center {
+	text-align:center;
+}
+
+.txt-sub1 {
+	font-size:10px
+}
+
+.txt-color1 {
+	color:#666666;
+}
+
+.txt-good {
+	color:#d056a5;
+}
+
+.txt-bad {
+	color:#547bab;
+}
+
+.txt-sub {
+	font-size:10px;
+}
+
+.txt-caution {
+	color:#d75f5f;
+}
+
+.txt-title {
+	color:#F00;
+	font-size:15px;
+	font-weight:bold;
+}
+
+.txt-imp {
+	font-size:12px;
+	padding:0px;
+	font-weight:bolder;
+}
+
+.txt-imp2 {
+	font-size:16px;
+	padding:10px;
+	font-weight:bolder;
+}
+
+.txt-error {
+	color:#f00;
+}
+
+.txt-bold {
+	font-weight:bolder;
+}
+
+.txt-title {
+	padding:3px 0px 5px 0px;
+}
+
+
+.line-top {
+	border-top:1px solid #d1dbde;
+}
+
+.line-btm {
+	border-bottom:1px solid #d1dbde;
+}

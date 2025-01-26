@@ -1,0 +1,57 @@
+@charset "Shift_JIS";
+
+p{
+	font-size: 12px;
+	line-height: 140%;
+	font:"‚l‚r ƒSƒVƒbƒN", "Osaka|“™•";
+	margin: 0;
+	color:#000000;
+}
+.middle {
+	vertical-align:middle;
+}
+
+
+.bold{
+	font-weight: bold;
+}
+
+.big{
+	font-size: 16px;
+}
+
+.cnter{
+	text-align: center;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
+
+.center{
+	text-align: center;
+}
+
+.indent{
+	text-indent: 14px;
+}
+
+.pos{
+	margin: 30px 0 0 0;
+}
+
+.pos2{
+	margin: 0 0 0 20px;
+}
+
+.red{
+	color: #CC0000;
+}
+
+p.in{
+	text-indent: 10px;
+}

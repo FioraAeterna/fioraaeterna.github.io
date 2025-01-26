@@ -1,0 +1,189 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image:url(img/bg.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+}
+
+/* ▼グローバルナビ
+--------------------------------------- */
+
+#gloabalnave_bg{
+	width:auto;
+	height:40px;
+	background-color:#FFF;
+	border-bottom:1px solid #F00;
+}
+
+#globalnave{
+	width:800px;
+	height:40px;
+	background-color:#FFF;
+	margin:0 auto;
+}
+
+#globalnave .shoplog{
+	width:102px;
+	height:40px;
+	float:left;
+	background-image:url(img/arportal_logo.gif);
+	background-repeat:no-repeat;
+	background-position:top;
+	margin:0px 0 1px 0px;
+}
+
+#globalnave .shoplog a{
+	width:155px;
+	height:28px;
+	display:block;
+	position:absolute;
+}
+
+#globalnave .shoplog span{
+	width:155px;
+	height:28px;
+	display:block;
+	visibility:hidden;
+}
+
+#globalnave .sharearea{
+	width:auto;
+	height:28px;
+	padding:7px 0 0 0px;
+	float:right;
+}
+
+#globalnave .sharearea .twitter{
+	padding:2px 0 0 0;
+	float:left;
+}
+
+#globalnave .sharearea .facebook{
+	padding:2px 0 0 5px;
+	float:left;
+}
+
+
+/* ▼コンテンツ
+--------------------------------------- */
+
+#container{
+	width:800px;
+	height:auto;
+	background-color:#FFF;
+	margin:0 auto;
+	border-bottom:1px solid #d9211e;
+	border-left:1px solid #d9211e;
+	border-right:1px solid #d9211e;
+}
+
+#header{
+	width:800px;
+	height:350px;
+	text-indent:-9999px;
+	background-image:url(img/header.jpg);
+}
+
+#menu_bg{
+	width:800px;
+	height:30px;
+	background-image:url(img/menu_bg.jpg);
+	background-repeat:repeat-x;
+}
+
+#menu_bg .menu_text{
+	text-align:center;
+	line-height:30px;
+	color:#d9211e;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.menu_text a:link{text-decoration:underline; color:#d9211e;}
+.menu_text a:visited{text-decoration:underline; color:#d9211e;}
+.menu_text a:hover{text-decoration:underline; color:#d9211e;}
+
+.top_space{
+	width:800px;
+	height:20px;
+}
+
+.banner_big{
+	width:700px;
+	height:120px;
+	margin:0 auto;
+	padding:10px 0 0 0;
+}
+
+.banner_small_area{
+	width:700px;
+	height:100px;
+	margin:0 auto;
+	padding:10px 0 0 0;
+}
+
+.banner_small_area .banner_small{
+	width:340px;
+	height:80px;
+	float:left;
+}
+
+.banner_small_area .space{
+	width:20px;
+	height:80px;
+	float:left;
+}
+
+.banner_small_area .space_small{
+	width:20px;
+	height:20px;
+	float:left;
+}
+
+.banner_small_area .clear{
+	width:700px;
+	height:0px;
+	clear:both;
+}
+
+.banner_text_area{
+	width:700px;
+	height:20px;
+	margin:0 auto;
+	font-size:12px;
+	line-height:20px;
+	color:#333;
+}
+
+.banner_text_area_small{
+	width:340px;
+	height:20px;
+	float:left;
+	font-size:12px;
+	line-height:20px;
+	color:#333;
+}
+
+
+#footer_line{
+	width:800px;
+	height:30px;
+	margin-top:50px;
+	background-image:url(img/menu_bg.jpg);
+	background-repeat:repeat-x;
+}
+
+#footer{
+	height:30px;
+	font-size:10px;
+	text-align:center;
+	line-height:20px;
+	color:#333;
+}

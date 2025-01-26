@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#total_container{
+	width:600px;
+	height:auto;
+	margin:0 auto;
+}
+
+#header{
+	width:600px;
+	height:200px;
+}
+
+#menu{
+	width:600px;
+	height:20px;
+	text-align:center;
+	font-size:12px;
+	line-height:20px;
+	color:#FFFFFF;
+	background-color:#bb1b1b;
+}
+
+#menu a:link{
+	text-decoration:underline;
+	color:#FFFFFF;
+}
+#menu a:visited{
+	text-decoration:underline;
+	color:#FFFFFF;
+}
+#menu a:hover{
+	text-decoration:underline;
+	color:#FFFF00;
+}
+
+
+#setumei_box{
+	width:520px;
+	height:auto;
+	margin:0 auto;
+	padding:10px 0 10px 0;
+}
+
+.list_box{
+	width:190px;
+	height:auto;
+	padding:10px 0 10px 9px;
+	float:left;
+}
+
+.list_minibox{
+	width:90px;
+	height:auto;
+	padding:10px 0 10px 0px;
+	float:left;
+}
+
+
+
+
+#touhyou{
+	width:500px;
+	height:auto;
+	margin:0 auto;
+	clear:both;
+}
+
+
+#footer{
+	width:600px;
+	height:20px;
+	text-align:right;
+	font-size:10px;
+	color:#FFFFFF;
+	line-height:15px;
+	background-color:#bb1b1b;
+}
+
+A:link {color:#D92F0E ; text-decoration: none}
+A:visited {color:#971F08 ; text-decoration: none}
+A:hover {color:#4A22DD; text-decoration: underline}
+body{color: #692C04;}
+.font0 {FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px}
+.font1 {FONT-SIZE: 3mm; LINE-HEIGHT: 12px}
+.font2 {FONT-SIZE: 14px; LINE-HEIGHT: 16px}
+.font3 {FONT-SIZE: 16px; LINE-HEIGHT: 18px}
+.font4 {FONT-SIZE: 18px; LINE-HEIGHT: 20px}
+.font5 {FONT-SIZE: 20px; LINE-HEIGHT: 25px}
+.fonts {FONT-SIZE: 3.6mm; LINE-HEIGHT: 4mm}
+.fonts0 {FONT-SIZE: 2.3mm; LINE-HEIGHT: 2.8mm}
+.fonts1 {FONT-SIZE: 2.8mm; LINE-HEIGHT: 3.2mm}
+.fonts2 {font-size: 3.2mm; line-height: 3.5mm}
+.fonts3 {font-size: 3.4mm; line-height: 3.8mm}
+.fonts4 {font-size: 3.8mm; line-height: 4.2mm}
+.fontm1 {font-size: 4.5mm; line-height: 4.8mm}
+.title {font-size: 5mm; line-height: 5.2mm; font-weight: bold}
+.title1 {FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold}
+.title2 {FONT-SIZE:14px; LINE-HEIGHT: 16px ; FONT-WEIGHT:bold}

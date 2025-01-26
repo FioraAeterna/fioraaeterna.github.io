@@ -1,0 +1,60 @@
+/* css */
+
+/* LINK style */
+A:link {color:#D92F0E ; text-decoration: none}
+A:visited {color:#971F08 ; text-decoration: none}
+A:hover {color:#4A22DD; text-decoration: underline}
+
+/* BODY style */
+.body{
+scrollbar-face-color: #003A75;
+scrollbar-base-color: #000033;
+scrollbar-highlight-color: #0099CC;
+scrollbar-darkshadow-color: #000033;
+scrollbar-arrow-color: #FFFFFF;
+}
+
+/* FONT */
+.font0 {FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px}
+.font1 {FONT-SIZE: 3mm; LINE-HEIGHT: 12px}
+.font2 {FONT-SIZE: 14px; LINE-HEIGHT: 16px}
+.font3 {FONT-SIZE: 16px; LINE-HEIGHT: 18px}
+.font4 {FONT-SIZE: 18px; LINE-HEIGHT: 20px}
+.font5 {FONT-SIZE: 20px; LINE-HEIGHT: 25px}
+.fonts {FONT-SIZE: 3.6mm; LINE-HEIGHT: 4mm}
+.fonts0 {FONT-SIZE: 2.3mm; LINE-HEIGHT: 3.0mm}
+.fonts1 {FONT-SIZE: 2.8mm; LINE-HEIGHT: 3.5mm}
+.fonts2 {font-size: 3.2mm; line-height: 4.0mm; color: #000000}
+.fonts3 {font-size: 3.4mm; line-height: 4.5mm; color: #663333}
+.fonts4 {font-size: 3.8mm; line-height: 5.0mm}
+.fontm1 {font-size: 4.5mm; line-height: 5.5mm}
+.title {font-size: 5mm; line-height: 5.2mm; font-weight: bold}
+.title1 {FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold}
+.title2 {FONT-SIZE:14px; LINE-HEIGHT: 16px ; FONT-WEIGHT:bold}
+
+/* IMG style */
+img {border:0px;margin:0px;}
+
+/* BG */
+.bg_l {
+background:url(../../A9/Official/web_site/img/bg_l.html) no-repeat top right;}
+
+.bg_r {
+background:url(../../A9/Official/web_site/img/bg_r.html) no-repeat top left;}
+
+.bg_tb {
+background:url(../../A9/Official/web_site/img/bg.html) repeat top left;}
+
+.bg_b {
+background:url(../../A9/Official/web_site/img/img02.html) repeat-x bottom;}
+
+/*TABLE*/
+.table1 {border-width:0px 0px 3px 3px ; border-style:solid ; border-color:#334455 ; WIDTH:400; HEIGHT:26 ; float:top ; margin-top:0px ; margin-left:4px ; PADDING:6px 4px 2px 8px}
+.table2 {border-width:0px 0px 2px 2px ; border-style:solid ; border-color:#334455 ; WIDTH:384; HEIGHT:26 ; float:bottom ; margin-top:0px ; margin-left:20px ; PADDING:6px 0px 0px 4px}
+.table3 {border-width:0px ; WIDTH:376; HEIGHT:26 ; float:bottom ; margin-top:1px ; margin-left:28px ; PADDING:6px 4px 2px 4px}
+.table4 {border-width:2px 0px 2px 2px ; border-style:solid ; border-color:#334455 ; WIDTH:384; HEIGHT:26 ; float:bottom ; margin-top:1px ; margin-left:20px ; PADDING:6px 0px 0px 6px}
+.bigtitle {font-size: 8mm; line-height: 8.4mm; font-weight: bold}
+.fontsBBS2 {font-size: 3.2mm; line-height: 3.4mm}
+.font00 {  font-size: 3.2mm; line-height: 4.2mm}
+.fontP1 {FONT-SIZE: 12px; LINE-HEIGHT: 14px}
+.textfield00 {  font-family: "‚l‚r ‚oƒSƒVƒbƒN", "Osaka"; font-size: 10px; font-style: normal; background-attachment: fixed; background-image: url(../../A9/Official/web_site/img/chara_krein.html); background-repeat: no-repeat; background-position: left top; width: 180px; height: 300px; border-style: none; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}

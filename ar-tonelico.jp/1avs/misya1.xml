@@ -1,0 +1,576 @@
+﻿<cs>
+<comment>
+<bg src="null"/>
+<talk id="3" chara="coneco" face="00" cos="01">お久しぶりです、コネコです！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">オリカのコスモスフィアでとんでもない 結果を招いてしまったあのコネコです！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私は今、町で知り合ったレーヴァテイルの 女の子にダイブしています。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いやね、これがまた元気で可愛い 女の子だったのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だからきっと、精神世界も凄く素敵なところなんだろうな～、って思ってたの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなわけで、今現在私の目の前に広がっている素敵な光景ってのが・・・。</talk>
+<bg src="magma"/>
+<bgm src="misyaCS2"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ギャップ、あり過ぎない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">しかも、いきなり周り溶岩で囲まれて 身動き不能だし・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私、いきなりお星様になっちゃうのかしら？</talk>
+<talk id="3" chara="hama" face="00" cos="01" option="hidden">ちょっと、そこのあなた。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ん、誰？</talk>
+<talk id="0" chara="hama" face="01" cos="01" option="hidden">こんなところで何やってるのよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ヤダ、超プリチー！！</talk>
+<talk id="0" chara="hama" face="01" cos="01" option="hidden">？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">じゃなくて、助かった！ あなた、心の護でしょ？</talk>
+<talk id="0" chara="hama" face="01" cos="01" option="hidden">そんなことより、あなたは誰なのよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私はコネコよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">悠長に自己紹介してる余裕ないけど、 あなたの名前は？</talk>
+<talk id="0" chara="hama" face="01" cos="01">私は波摩よ。あなたの言うとおり、 ミシャの心の護なのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミシャ？私はミシャなんて子に ダイブした覚えないけど？</talk>
+<talk id="0" chara="hama" face="01" cos="01">そんなのわかってるのよ。だからどうして ここにいるのか聞いてるのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうしてって・・・どうしてだろ？</talk>
+<talk id="0" chara="hama" face="01" cos="01">ふざけないで！ それじゃ理由にならないわよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなこと言ったって、私は普通に ダイブしただけだし・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ミシャじゃない子によ？</talk>
+<talk id="0" chara="hama" face="01" cos="01">まったく、ただでさえ大変だっていうのに。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、あのさ、もうしわけないんだけど、 一つお願いして良いかな？</talk>
+<talk id="0" chara="hama" face="01" cos="01">なによ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">抱きしめさせてくれない？</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・は？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">変な意味じゃないのよ。 ほら、ハマはプカプカ浮いてるでしょ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なんか溶岩上がってきて、さっきから 爪先立ちずっとしてて辛いのよ。</talk>
+<talk id="0" chara="hama" face="02" cos="01">忙しいからしばらくそのまま我慢してて ほしいんだけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">無理無理、限界だよ！何かもう太ももとか 限界きてプルプルしてるし！</talk>
+<talk id="0" chara="hama" face="01" cos="01">わかったのよ！ それじゃ、さっさと現実に返してあげる。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・抱きしめさせてはくれないのね。</talk>
+<talk id="0" chara="hama" face="01" cos="01">何か言った？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">正直な想いがちょっと口に出ちゃった だけよ。</talk>
+<talk id="0" chara="hama" face="02" cos="01">・・・そのまま我慢する？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">じょ、冗談だってば！</talk>
+<talk id="0" chara="hama" face="01" cos="01">早く決めてほしいのよ！私はミシャのところに行かなきゃいけないんだから！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、もう助かるなら何でも 良いから・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あれ？ ここって、ミシャのコスモスフィア？</talk>
+<talk id="0" chara="hama" face="01" cos="01">だから何度もそう言ってるのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミシャって、ライナーとオリカと一緒にいるミシャのこと？</talk>
+<talk id="0" chara="hama" face="01" cos="01">あなた、ミシャのこと知ってるの！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">前に、オリカにダイブした時にちょっとね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それにしても、ここを見る限りなんか 荒れてるみたいね。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・・・・。</talk>
+<talk id="0" chara="hama" face="01" cos="01">あなた、オリカにダイブしたって 言ったわよね？</talk>
+<talk id="0" chara="hama" face="01" cos="01">その時、パラダイムシフトを起こした？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ええ、したわよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・それなら、一つだけお願いしたいことがあるのよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">ミシャに会って、説得をしてほしいの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・説得？</talk>
+<talk id="0" chara="hama" face="01" cos="01">ミシャは今、クレセントクロニクルという 所で、謳う準備をしているの。</talk>
+<talk id="0" chara="hama" face="01" cos="01">自分の、星詠みとしての役目を全うする ためにね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">星詠みってのは何？</talk>
+<talk id="0" chara="hama" face="01" cos="01">簡単に言えば、特別な詩を謳う役目を持つ 人のことなのよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">それをしないと、この世界が滅んでしまうのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">謳わないと、世界が滅ぶ？ いや、それはないでしょ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">本当なのよ。ミシャは謳うことで、 ミュールを押さえつけているのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミュールって？</talk>
+<talk id="0" chara="hama" face="01" cos="01">とにかく悪い奴、って思ってくれれば 間違いではないのよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">でも、ちょっと色々あって、ミシャは謳うことをやめてしまおうと思ってるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">謳うのやめたら、ミュールっていうのを 抑えられないのよね？</talk>
+<talk id="0" chara="hama" face="01" cos="01">だからあなたに頼んでるのよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">もう一度、ミシャを謳わせて欲しいのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・まあ、微妙に信じられないけど、 世界の危機ってわけね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、謳うことをやめようと思い始めたってことは、最初は謳う気だったのよね？</talk>
+<talk id="0" chara="hama" face="01" cos="01">そうよ。前はちゃんと謳ったんだもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それが、どうして今回は謳いたくないなんて言いだしたのかしら？</talk>
+<talk id="0" chara="hama" face="01" cos="01">それは・・・。 悪いけど、私の口からは言えないわ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・酷過ぎて、私には言えないのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ミシャ、大変な目に合ったんだね。</talk>
+<talk id="0" chara="hama" face="01" cos="01">だから、どうしても助けが必要なのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私よりも、ハマが説得した方が効果あるん じゃない？</talk>
+<talk id="0" chara="hama" face="01" cos="01">私はダメ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">直接ミシャに謳いたくないって言われたら、何も言えなくなっちゃうと思うし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・優しいのね。</talk>
+<talk id="0" chara="hama" face="03" cos="01">私はミシャの心の護よ。 ミシャの幸せを一番に考えるわ。</talk>
+<talk id="0" chara="hama" face="03" cos="01">ミシャが謳いたくないと言ってる以上、 強制は出来ないもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、それなら私にミシャを説得するように頼むのは、矛盾してない？</talk>
+<talk id="0" chara="hama" face="01" cos="01">ミシャが謳いたくないと思っているのは 確かよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">けど、世界を滅ぼしたい、って思っているわけでもないのよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">世界は救いたい、でも謳いたくない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どちらかを選ばなきゃいけないけど、 決められないのね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それにしても、世界って簡単に 壊れるものなのね。</talk>
+<talk id="0" chara="hama" face="01" cos="01">それで、どうするの？ 溶岩、また上がってきてるわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いけない、忘れてた！！</talk>
+<select>
+<option tag="t104">もう面倒はイヤよ</option>
+<option tag="t105">世界の危機なら仕方ない</option>
+</select>
+<tag name="t104"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ～・・・悪いんだけど、もう勘弁かな。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">前にさ、オリカのコスモスフィアで、 それこそ死にそうな思いしてね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もうね、これからは自分を少し大事に したいのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから、悪いけど面倒はお断りよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ってか、そろそろいい加減に抱きしめさせてほしいんだけど？</talk>
+<talk id="0" chara="hama" face="02" cos="01">そんな必要ないわ。 現実世界に戻してあげるのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、でもせっかくなんだし。</talk>
+<talk id="0" chara="hama" face="02" cos="01">お願い聞いてくれないなら、ここにいられても邪魔なだけなのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや、そんなこと言わずに！</talk>
+<buc id=" 0" action="out"/>
+<wait time=" 30"/>
+<exec param="fout"/>
+<talk id="3" chara="coneco" face="00" cos="01">って、あ、あれ！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">前言撤回、ストップストップゥー！！</talk>
+<exec param="over"/>
+<tag name="t105"/>
+<talk id="3" chara="coneco" face="00" cos="01">わかったわ、ミシャを謳わせれば良いのね？</talk>
+<talk id="0" chara="hama" face="03" cos="01">引き受けてくれるのね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">世界の危機なら仕方ないわよ。 死なせたくない人、いるしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・そんなわけで、そろそろ助けてくれないかしら？</talk>
+<talk id="0" chara="hama" face="01" cos="01">わかったのよ・・・あなた、体重は？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">名前の通り、子猫並の軽さよ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さあ、抱きしめさせて。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・息が出来る程度にしなさいよ。</talk>
+<exec param="ffout"/>
+<buc id=" 0" action="out"/>
+<bg src="town"/>
+<bgm src="misyaCS1"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">あ～、助かったぁ。 もう少しで丸焼けになるとこだったわ。</talk>
+<talk id="0" chara="hama" face="01" cos="01">ドロドロに溶けるの間違いなのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ、そういえばそうか。</talk>
+<talk id="0" chara="hama" face="01" cos="01">そんなことより、いつまでしがみついてるのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">迷惑じゃなければ、もう少しこのままで いたいんだけど・・・。</talk>
+<talk id="0" chara="hama" face="02" cos="01">重いって言ってるのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">おっと、いけないいけない。 さすがに体格差ありすぎだもんね。</talk>
+<talk id="0" chara="hama" face="02" cos="01">何が子猫並の軽さよ！ 全然軽くなかったのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私の彼氏はいつもそう言ってくれるわ。</talk>
+<talk id="0" chara="hama" face="02" cos="01">ノロケなんか聞きたくないのよ！</talk>
+<talk id="0" chara="hama" face="01" cos="01">とにかく、次はあなたが頑張る番なのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">任せてよ。 ちゃんとミシャに謳ってもらうからね。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・・・・。</talk>
+<talk id="0" chara="hama" face="01" cos="01">・・・本当は、あまり謳わせたくないんだ けどね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え？ 何か言った？</talk>
+<talk id="0" chara="hama" face="02" cos="01">な、なんでもないのよ！</talk>
+<talk id="0" chara="hama" face="01" cos="01">それより、早くミシャを探しに行かないと。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">うん、そうね・・・。 でも、今気づいたことがあるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私・・・ミシャの顔知らないから探せないんだけど。</talk>
+<talk id="0" chara="hama" face="01" cos="01">そういえば、ダイブしてここにいるわけじゃなかったのよね。</talk>
+<talk id="0" chara="hama" face="01" cos="01">こんなこと、前代未聞なのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ、普段からこんなことあったらまともにダイブなんか出来ないしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・あら？ なんか、誰か来たみたいよ。</talk>
+<talk id="0" chara="misyaC" face="07" cos="standerd">・・・・・・。</talk>
+<buc id="0" action="out"/>
+<talk id="2" chara="hama" face="03" cos="01">ミシャ！ 良かった、探してたのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・この子がミシャか。</talk>
+<talk id="1" chara="misyaC" face="05" cos="standerd">あなた、誰？ ここで何をしてるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私？ 私はコネコって言うの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">実は、ミシャが謳ってくれないと世界が 滅亡するって話を聞いてね。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">・・・あなたも、私に謳えって言うのね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まあ、世界の危機だからね。 滅亡されたら困るし。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">・・・・・・。</talk>
+<talk id="1" chara="misyaC" face="05" cos="standerd">確かにそうよね。私も、現実世界が壊れる のはイヤだもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それじゃ、謳ってくれるの？</talk>
+<talk id="1" chara="misyaC" face="05" cos="standerd">そのためには、もう一人の私をやつけるしか方法はないわ。</talk>
+<talk id="1" chara="misyaC" face="05" cos="standerd">このコスモスフィアにいる、謳いたくないと思っている私をね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それって、ミシャがもう一人いるってこと？</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">そうよ。もう一人の私が謳いたくないと 駄々をこねてるから困ってるのよ。</talk>
+<talk id="1" chara="misyaC" face="01" cos="standerd">だから、私と一緒にもう一人の私と 戦ってくれる？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">戦うって、でもそれもミシャなんでしょ？</talk>
+<talk id="1" chara="misyaC" face="01" cos="standerd">そうよ。でも、もう一人の私は自分の使命を果たそうとしない私よ。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">私はイヤなの、そんな自分がいるなんて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから戦ってやっつける、か・・・。 気が進まないなぁ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">思いは違えど自分に変わり無いんでしょ？ 自分同士で戦うって、イヤじゃない？</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">でも、このまま謳わなかったら世界は 滅んじゃうわ。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">だから私は、謳って世界を滅亡から守るという使命を果たさなきゃいけないの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そのためには、どうしてももう一人の自分を倒さなきゃいけない、と？</talk>
+<talk id="1" chara="misyaC" face="12" cos="standerd">その通りよ。 でも、自分が相手だから力も互角。</talk>
+<talk id="1" chara="misyaC" face="12" cos="standerd">勝負はつかないわ。</talk>
+<talk id="1" chara="misyaC" face="01" cos="standerd">だから、あなたに協力して欲しいの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・正直、気が進まないなぁ。</talk>
+<talk id="2" chara="hama" face="01" cos="01">私との約束、忘れたの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">いや、もちろんそれはわかってるよ。 けど・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・なんか気持ち悪いんだよね。 こう、胸の当たりスッキリしなくて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">本当にもう一人のミシャと戦う以外の 方法って無いの？</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">あるなら私が聞きたいくらいよ。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">それに、あまり長く考えている時間も 無いわ。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">だから一刻も早く、もう一人の私を 倒すしかないのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="1" chara="misyaC" face="01" cos="standerd">大丈夫よ。コネコには、ちょっとオトリになってもらうだけだから。</talk>
+<talk id="1" chara="misyaC" face="01" cos="standerd">もう一人の私の気を引いてくれるだけで 良いの。</talk>
+<talk id="1" chara="misyaC" face="01" cos="standerd">その間に私が魔法を溜めて、一撃で もう一人の私をやつけるから。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">えぇっ！？ なんか卑怯でイヤなんだけど・・・。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">卑怯でも何でも良いのよ。 私が言うんだから。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、やっぱり卑怯なことは・・・。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">もう時間が無いのよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・正直、気は進まないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、やらなきゃダメなら・・・ 仕方ないわよね。</talk>
+<talk id="1" chara="misyaC" face="04" cos="standerd">じゃあ決まりね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、一つ聞かせて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミシャが世界を守りたいって思っている 気持ちは良くわかったよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、それならどうして、謳いたくないってミシャが存在しているの？</talk>
+<talk id="1" chara="misyaC" face="07" cos="standerd">そ、それは・・・。</talk>
+<talk id="3" chara="coneco" face="" cos="01">多分、それがわかれば少しは私の胸が スッキリすると思うんだけど・・・。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">・・・わ、わからないわ、そんなの。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">だって私は、謳うことを決めた ミシャだもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ハマ、あなたは知ってるのよね？</talk>
+<talk id="2" chara="hama" face="01" cos="01">・・・私の口からは、言えないのよ。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">それはもう一人の私に聞けば良いことよ。 ほら、時間が無いのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・気が進まないなぁ。</talk>
+<exec param="ffout"/>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<bg src="mori"/>
+<wait time=" 30"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="misyaC" face="05" cos="standerd">ずっと無口だけど、気分でも悪いの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ううん、そうじゃないけど・・・。</talk>
+<talk id="0" chara="misyaC" face="01" cos="standerd">何よ、まだ悩んでるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そりゃ悩むでしょ。だってこれから、 ミシャを倒さなきゃいけないんだもの。</talk>
+<talk id="0" chara="misyaC" face="01" cos="standerd">悩む必要ないでしょ？ 別に現実で戦ってるわけじゃないんだし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そういう問題じゃなくて、 なんて言うかな・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミシャは良いの？ 自分の中の自分を、自分で倒して。</talk>
+<talk id="0" chara="misyaC" face="02" cos="standerd">悪い部分を消すんだもの。 良いに決まってるじゃない。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・悪い部分、ね。</talk>
+<talk id="0" chara="misyaC" face="02" cos="standerd">悪い部分でしょ？ だって、謳わない自分なんだもん。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・本当に悪い部分なのかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうして謳わないのか、その理由がわかってないんでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それなのに、悪いって決め付けるのは どうも・・・。</talk>
+<talk id="0" chara="misyaC" face="02" cos="standerd">悪い部分なのは確かよ。 私にはわかるもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうして謳いたくないのか、その理由 わかるの？</talk>
+<talk id="0" chara="misyaC" face="09" cos="standerd">そんなもの関係ないんだってば！</talk>
+<talk id="0" chara="misyaC" face="09" cos="standerd">世界が滅ぶかもしれない状況下でワガママ 言うなんて、悪に決まってるじゃない！</talk>
+<talk id="0" chara="misyaC" face="09" cos="standerd">もう、これ以上同じこと言わないでよ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<bgm src="kintyou"/>
+<talk id="0" chara="misyaC" face="03" cos="standerd">待って！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうしたの？</talk>
+<talk id="0" chara="misyaC" face="09" cos="standerd">いたわ。 もう一人の私よ。</talk>
+<buc id=" 0" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">え、どこどこ？</talk>
+<talk id="3" chara="misya" face="" cos="standerd">ほら、あそこよあそこ。</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="0" chara="misyaC" face="01" cos="standerd">・・・どうかした？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私、目がおかしいのかしら？ あれって大人の女よね？</talk>
+<talk id="0" chara="misyaC" face="01" cos="standerd">あれも私よ。私、大人になったり子供に なったり自由に出来るのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・レーヴァテイルって、便利なのね。</talk>
+<talk id="0" chara="misyaC" face="01" cos="standerd">私が特別なだけよ。 それより、準備は良い？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">準備は良いけど、気持ち的には良くないわ。</talk>
+<talk id="0" chara="misyaC" face="01" cos="standerd">だったら問題ないわ。 しっかりと向こうの私の気を引いてね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">最終確認だけど、本当にやるの？</talk>
+<talk id="0" chara="misyaC" face="02" cos="standerd">ここまで来てこれ以上ワガママ 言わないでよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">わ、わかったわよ・・・。 それじゃ、ちょっと言ってくるわ。</talk>
+<talk id="0" chara="misyaC" face="04" cos="standerd">うん、頑張ってね！</talk>
+<buc id=" 0" action="out"/>
+<bgm src="null"/>
+<talk id="3" chara="coneco" face="00" cos="01">（何をどう頑張れって言うんだか・・・）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ～、ちょっと良いかしら？</talk>
+<bgm src="sasayaki"/>
+<talk id="0" chara="misya" face="02" cos="standerd">・・・何かしら？ 私、今忙しいんだけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何が忙しいのかはわからないけど、 こっちも急用でね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなた、星詠みだかなんだか言って、 謳う使命があるのよね？</talk>
+<talk id="0" chara="misya" face="03" cos="standerd">あら、知ってるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">さっき教えてもらったのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それと、あなたが謳わなければ世界が滅ぶ、ともね。</talk>
+<talk id="0" chara="misya" face="01" cos="standerd">なるほどね・・・それで、私になんの用？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">聞きたいことがあるのよ、個人的にね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">今、このコスモスフィアには二人のミシャがいるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">一人は謳おうとするミシャ、もう一人は謳いたくないって言うミシャ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、ミシャは星詠みの使命を全うしたいって気持ちが凄く強かったのよね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなミシャの中に、どうして謳いたくないなんて想いが生まれたのかしら？</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・何よ、あなたも答えてくれないの？</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">・・・それを知って、どうするつもり？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ハマと約束しちゃったのよ。 ミシャを謳わせる、って。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、ハマはこうも言ったわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミシャの幸せを一番に考える、ってね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私的には、約束よりもハマのそっちの気持ちを第一に優先した方が良い気がしてね。</talk>
+<talk id="0" chara="misya" face="01" cos="standerd">約束破ったら、ハマに怒られるわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">破る気はさらさら無いけど、結果的に 悲しませたくないだけよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">約束ってのは、最高の形で守ってあげるのが一番だと思わない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから、どうしても知っておきたいの。 ミシャに何があったかね。</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">・・・あなたには、関係ないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなたの心の護であるハマと約束しちゃった以上、もう関係しちゃってるのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから教えて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">世界が崩壊するかもしれないのに、 どうして謳ってくれないの？</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">・・・言いたくないわ。</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">でも、本当だったらもう、謳わなくても 良かったのに・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">でも、今は謳わないとダメになったん でしょ？</talk>
+<talk id="0" chara="misya" face="11" cos="standerd">そうよ。だから、現実世界の私は今、 謳う準備に取り掛かってるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だけど、今のままじゃ現実世界のミシャは 謳えないんでしょ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ミシャが、謳いたくないと少なからず 思っているから。</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">いえ、一応謳いはすると思うわ。</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">ただ、少しでもそんな気持ちがある以上、 ずっと不安定な状態が続くけどね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">それが続くと、どうなるの？</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">途中で謳いたくないと思う気持ちが大きく なって、謳うのをやめる可能性があるわ。</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">ううん、多分ほぼ確実にそうなるわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・このままじゃダメってことね。</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">謳いたくないと言っている私を説得するか、もしくは力ずくで倒すか。</talk>
+<talk id="0" chara="misya" face="13" cos="standerd">現実世界のミシャを安定させるには、その どちらかの方法しかないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">その謳いたくない張本人は、あなたでしょ？</talk>
+<talk id="0" chara="misya" face="07" cos="standerd">バカなこと言わないで！</talk>
+<talk id="0" chara="misya" face="07" cos="standerd">私は自分のすべきこと、自分の使命を ちゃんと受け入れてるわ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え？あなたが謳いたくないと 思ってるんじゃ・・・。</talk>
+<talk id="0" chara="misya" face="04" cos="standerd">私は謳うわ。ミュールに世界が崩壊させられるのを、見たくないもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">え、だって・・・えぇっ！？ それじゃ、二人とも謳う気満々！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・いや、でも待てよ？）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ねえ、もう一人のミシャがどんな姿をして いるか知ってる？</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">もう一人の私は、子供の姿をしているわ。</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">今は私の想いの方が勝ってるから、 私は大人の姿をしているの。</talk>
+<talk id="0" chara="misya" face="02" cos="standerd">でも、現実世界のミシャが謳い始めれば、 いずれ私が子供の姿になるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・どうなってるの、これ？</talk>
+<bgm src="null"/>
+<talk id="0" chara="misya" face="07" cos="standerd">！？ 危ない、後ろ！！</talk>
+<select>
+<option tag="t110">そんな手に乗るか！！</option>
+<option tag="t111">振り向く</option>
+</select>
+<tag name="t110"/>
+<talk id="3" chara="coneco" face="00" cos="01">そんな古い手に引っかかるわけ・・・。</talk>
+<talk id="3" chara="hama" face="00" cos="01">コネコ、伏せるのよ！！</talk>
+<bgm src="yuukan"/>
+<talk id="3" chara="coneco" face="00" cos="01">へ？</talk>
+<buc id=" 0" action="out"/>
+<act action="flash"/>
+<act action="quake"/>
+<se param="explode2"/>
+<talk id="3" chara="coneco" face="00" cos="01">きゃぁぁぁぁぁぁぁっ！！</talk>
+<act action="clear"/>
+<exec param="ffout"/>
+<exec param="over"/>
+<tag name="t111"/>
+<talk id="3" chara="coneco" face="00" cos="01">え？</talk>
+<talk id="0" chara="hama" face="01" cos="01">コネコ、伏せるのよ！！</talk>
+<bgm src="yuukan"/>
+<talk id="3" chara="coneco" face="00" cos="01">うわっ！？</talk>
+<buc id=" 0" action="out"/>
+<act action="flash"/>
+<act action="quake"/>
+<se param="explode1"/>
+<wait time=" 30"/>
+<talk id="3" chara="coneco" face="00" cos="01">ぶはっ！？ げほっ、げほっ！！</talk>
+<act action="clear"/>
+<buc id="0" action="out"/>
+<talk id="2" chara="misya" face="08" cos="standerd">あ、あなた、大丈夫！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">な、なんとかね・・・ハマは！？</talk>
+<talk id="1" chara="hama" face="01" cos="01">私は平気なのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そう・・・良かった。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・って、そうじゃなくて！！</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">・・・しぶといわね。</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">あなた・・・随分と卑怯な真似 してくれるわね。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">本当は一撃でラクにしてあげたかったん だけどね。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">気に入らない部分ではあるけど、 一応私だし。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょっとミシャ、何考えてるのよ！？ 私まで巻き込むつもり！？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">関係ないわよ。 もう一人の私を倒すことが目的なんだから。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">そいつを倒さないと、私は謳わなきゃ いけないんだもの。</talk>
+<bgm src="null"/>
+<talk id="3" chara="coneco" face="00" cos="01">さっきと言ってること逆じゃん！！</talk>
+<bgm src="kanasii"/>
+<talk id="3" chara="coneco" face="00" cos="01">ってか、小さい方のミシャが謳いたくないと思っているミシャなのね。</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">あなた、この人のこと騙して利用したの！？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">背に腹は変えられないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それって、私は大事じゃないって言われてるも同然なんだけど。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">自分の一生がかかってるのに、他人なんかに構ってられないわよ！</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">なんてこと言うの！！ 自分が星詠みであることを、忘れたの！？</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">私達は詩を謳って、この世界をミュールから守らなければいけないのよ？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">そんなの知ってるわよ。 勝手に決められた使命だってのもね。</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">私たちじゃなきゃ出来ないんだから、 仕方ないでしょ。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">仕方なくなんか無いわよ！</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">だって、本当は私たち、もう謳わなくても 良かったのよ？</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">普通の女の子として生きられる。 そう思っていたのに・・・。</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">・・・それを我慢するのも、私たちの 使命でしょ。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">イヤよ、絶対にイヤ！！</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">あなただって、本当はイヤなんでしょ？ 一生謳い続けるなんて。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">は？ 謳うって、一生なの！？</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">それは・・・。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">ほらね。 なのに、どうして我慢してるのよ！</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">・・・確かに謳わないで良いのなら、 それに越したことはないわ。</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">でも、今は謳わないとダメな時なのよ。</talk>
+<talk id="2" chara="misya" face="02" cos="standerd">だから私は、星詠みとして精一杯謳って、 この世界を守らないとダメなの。</talk>
+<talk id="1" chara="misyaC" face="02" cos="standerd">・・・・・・。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">・・・信じらんない。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">あんなことがあって、まだそんなこと 言えるの？</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">・・・・・・。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">ライナーにあんなこと言われて、まだ 我慢するつもりなの！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ライナー！？ なに、またあいつが原因！？</talk>
+<talk id="2" chara="misya" face="08" cos="standerd">あなた、ライナーのこと知ってるの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なによ、今度は一体どんなことやったの？</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">・・・ライナーは今ね、シュレリア様を 助けようとしているのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（また知らない人の名前だよ・・・）</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">でも、シュレリア様を助けると、私がまた 謳わなければならなくなるの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どうして？ミシャはミュールを抑えるために謳うのよね？</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">そうよ。ミュールは今、活動を完全に停止しているから、私は謳わなくても良いの。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">けど、シュレリア様を助けると、ミュールもまた活動を始めてしまう。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">そうなると、また私が謳ってミュールを 押さえつけなくちゃいけなくなるのよ。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">シュレリア様のことは、私だって助けたい！</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">だからライナーがシュレリア様を助けるって言った時、私は賛成したわ。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">だけど・・・。</talk>
+<talk id="1" chara="misyaC" face="10" cos="standerd">だからって、あんな簡単に言わなくても いいのに・・・。</talk>
+<talk id="1" chara="misyaC" face="10" cos="standerd">一生謳い続けなきゃいけないのわかってて、謳ってくれないか、なんて・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それ、本当？</talk>
+<talk id="1" chara="hama" face="01" cos="01">・・・本当の話よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あ～、まったく！ 次から次へと問題残して！！</talk>
+<talk id="1" chara="misyaC" face="10" cos="standerd">ライナーの頼みなら断れない・・・。 断れないけど、でも・・・。</talk>
+<talk id="1" chara="misyaC" face="10" cos="standerd">これは納得がいかないわ！！</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">でも、ライナーは世界を救いたいから、 だから・・・。</talk>
+<talk id="1" chara="misyaC" face="10" cos="standerd">ライナーが助けたいのは、世界じゃなくて シュレリア様よ！！</talk>
+<bgm src="null"/>
+<talk id="3" chara="mule" face="00" cos="01" option="hidden">その通りよ。あなたの言葉が正しいわ。</talk>
+<bgm src="kintyou"/>
+<talk id="1" chara="misyaC" face="07" cos="standerd">だ、誰！？</talk>
+<talk id="2" chara="mule" face="03" cos="01">ライナーはシュレリアを助けるために、 あなたに犠牲になってもらったのよ。</talk>
+<talk id="2" chara="misya" face="03" cos="standerd">あなた、誰？</talk>
+<talk id="2" chara="mule" face="03" cos="01">はじめまして・・・。 私のことは、ミウとでも呼んでちょうだい。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・久しぶり。</talk>
+<talk id="2" chara="mule" face="03" cos="01">こんにちは、コネコ。 無理に引っ張ってきてごめんなさいね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">あなたの仕業だったのね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">まさか、他人のコスモスフィアに引っ張り 込まれるだなんて思いもしなかったわ。</talk>
+<talk id="2" chara="mule" face="01" cos="01">ふふ、前回の勝負の続きをするには、 もってこいの舞台じゃない？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">勝負って、他人のコスモスフィアでそんな 自分勝手するもんじゃないと思うけど？</talk>
+<talk id="2" chara="mule" face="01" cos="01">大丈夫よ。ちゃんとその代償として、 ミシャを幸せにしてあげるから。</talk>
+<talk id="2" chara="mule" face="01" cos="01">だからミシャ、あなたはもう謳わないで 良いのよ。</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">な、何をバカなことを言ってるの！？ そんなことしたら、世界が滅ぶのよ？</talk>
+<talk id="2" chara="mule" face="03" cos="01">確かに、ミシャが謳わなければ世界は わた・・・。</talk>
+<talk id="2" chara="mule" face="03" cos="01">じゃなくて、ミュールに滅ぼされるわね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">今、なんか言いかけなかった？</talk>
+<talk id="2" chara="mule" face="03" cos="01">別に何も、気のせいよ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">まあ、そんなわけで現実世界が滅ぶのは 確実よ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">だから、コスモスフィアで永遠に 生き続ければ良いのよ。</talk>
+<talk id="1" chara="misyaC" face="03" cos="standerd">そ、そんなことが出来るの！？</talk>
+<talk id="2" chara="mule" face="01" cos="01">ええ、もちろん。お望みなら、ライナーを こっちに連れてくることも出来るわ。</talk>
+<talk id="1" chara="misyaC" face="07" cos="standerd">・・・本当に、そんなことが可能なの？</talk>
+<talk id="2" chara="mule" face="01" cos="01">あなたが謳わないと言うなら、それを実現 させてあげるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょっとちょっと、そういう出来もしない 約束をするのは良くないわよ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">本当よ。ミシャがもし謳わなければ、 いずれ私の力が完全に戻るわ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">そうなれば、その程度のことは朝飯前よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">理由はわからないけど、今のあなたには その力が無いってわけ？</talk>
+<talk id="3" chara="mule" face="03" cos="01">色々と理由があるのよ。</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">ダメよそんなの！</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">私達がワガママ言ったら、世界中の人達が 死んでしまうのよ！？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">なによそれ？ 私達はどうでもいいって言うの？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">私達だって、普通の女の子としての幸せを 手に入れられてたのよ？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">それなのに、シュレリア様を助けるために その幸せを手放して・・・。</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">他人の幸せのために自分の幸せを捨てて、 一生を棒にするのが正しいって言うの？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">そっちの方が、絶対におかしいわよ！！</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">・・・・・・。</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">で、でも、仮にライナーをここに 連れて来たとするわ。</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">そうなったとして、ライナーと二人だけの 世界が、それが幸せだっていうの？</talk>
+<talk id="2" chara="misya" face="13" cos="standerd">大勢の人達を犠牲にして手に入れた幸せが、本当に良いって言うの？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">みんなの幸せのために自分の一生を 捧げるのに比べたら、全然マシよ！</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ちょっと、ミウちゃんさ。</talk>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="03" cos="01">なにかしら？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">今度はミシャのコスモスフィアを 崩壊させようとか、思ってない？</talk>
+<talk id="0" chara="mule" face="01" cos="01">あら、私が壊したいのは現実世界で、 ミシャのコスモスフィアじゃないわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そうかしら？本当は二つを壊したいとか 思ってるんじゃないの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">そこまでワガママじゃないわ。</talk>
+<talk id="0" chara="mule" face="01" cos="01">それに私は、ミシャを幸せにしてあげたいと思ってるんだもの。</talk>
+<talk id="0" chara="mule" face="01" cos="01">ライナーを連れてきて、ミシャと幸せに過ごせるようにしてあげたいと思ってる。</talk>
+<talk id="0" chara="mule" face="01" cos="01">だから、私は現実世界を崩壊させる 手伝いをするわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・両方どうにかするのって、やっぱり 無理なの？</talk>
+<talk id="0" chara="mule" face="03" cos="01">ワガママね。二兎を追うもの一兎も得ず、 って言葉、知ってる？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私の嫌いな言葉の一つね。</talk>
+<buc id=" 0" action="out"/>
+<bgm src="misyaCS2"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="misyaC" face="09" cos="standerd">もうイヤ！ 私、絶対に謳わないんだから！</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">そんなのダメよ！ライナーのためにも、 私達は謳わないとダメなんだから！</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">ライナーのためじゃないわ！ シュレリア様のためでしょ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ちょっとちょっと、二人とも落ち着いてよ！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">自分同士で言い争ってたって、 どうにもならないでしょ。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<buc id="1" action="out"/>
+<buc id="2" action="out"/>
+<talk id="0" chara="mule" face="03" cos="01">その通りね、良いこと言うじゃない。</talk>
+<talk id="0" chara="mule" face="03" cos="01">自分同士で戦ったとしても、相打ちになって両方消えるだけよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だったらどうにかして止める方法を 考えなさいよ！</talk>
+<talk id="0" chara="mule" face="03" cos="01">あるわよ、いい方法がね。</talk>
+<talk id="0" chara="mule" face="03" cos="01">そのためには、あなたの力も 必要になるけど。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・うわっ、なんか凄い嫌な予感するん だけど。</talk>
+<talk id="0" chara="mule" face="03" cos="01">オリカのコスモスフィアでのリベンジを させてもらうわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">また勝負するっていうの？</talk>
+<talk id="0" chara="mule" face="02" cos="01">当然でしょ。ただの人間に敗北したまま 黙ってられないもの。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">そんなこと言ったって仕方ないでしょ？ 私、負けるのって好きじゃないし。</talk>
+<talk id="0" chara="mule" face="02" cos="01">私だって好きじゃないわよ！ だから、今度こそ勝たせてもらうわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・なんか、今回は気が進まないこと ばっかりだわ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">それは災難ね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・ちょっと、イライラしてきてるかも。</talk>
+<talk id="0" chara="mule" face="03" cos="01">勝負方法の説明をするわ。</talk>
+<talk id="0" chara="mule" face="03" cos="01">まず、私とあなたがどちらかのミシャに ついて、全力でサポートするの。</talk>
+<talk id="0" chara="mule" face="03" cos="01">そうすれば相打ちにならずに、どちらかは 必ず残るわ。</talk>
+<buc id=" 0" action="out"/>
+<buc id="0" action="out"/>
+<talk id="1" chara="misyaC" face="09" cos="standerd">ちょっと、勝手に決めないでよ！！</talk>
+<talk id="2" chara="mule" face="03" cos="01">相打ちになって死んでしまっても良いの？ 二度とライナーに会えなくなるわよ。</talk>
+<talk id="1" chara="misyaC" face="06" cos="standerd">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・それで、勝利条件は？</talk>
+<talk id="2" chara="mule" face="03" cos="01">そうね・・・あなた、世界を滅ぼしたい？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">滅ぼしたくないに決まってるでしょ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">なら、世界が滅んだ場合は私の勝ちよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">つまり、小さいミシャが生き残れば、 あなたの勝ちってことね？</talk>
+<talk id="2" chara="mule" face="03" cos="01">そうよ。 それ以外なら、あなたの勝ち。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・気に入らないなぁ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">どっちかを倒さないで良い方法を 探すのは・・・。</talk>
+<talk id="2" chara="mule" face="03" cos="01">時間と労力の無駄よ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">即答なのね。</talk>
+<talk id="2" chara="mule" face="03" cos="01">じゃあ、このまま放っておく？ 何もしないままじゃ、世界は崩壊するわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">何もしないのはもっとイヤ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">あら、即答ね。 だったら私と勝負するのね？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・気は進まないけどね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（とはいえ、これからどちらかのミシャに つかなきゃいけないのよね）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（このまま行くと、私は大きい方のミシャをサポートしなくちゃいけないのか）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・でも、それもなんか気に入らないのよねぇ）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（どっちのミシャも、言ってることは間違いでもワガママでもないし）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（世界を救いたいという想いと、普通に 生きたいという想い）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（・・・天秤にかけたくないなぁ）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（でも謳ってもらわないと世界は滅亡だし、謳えばミシャが不幸になる・・・）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">（だとしたら・・・どうする？）</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">・・・はぁ、仕方ないか。</talk>
+<talk id="2" chara="mule" face="03" cos="01">覚悟を決めたようね。 それじゃあ、私は・・・。</talk>
+<bgm src="null"/>
+<talk id="3" chara="coneco" face="00" cos="01">私は、小さい方のミシャにつくわ。</talk>
+<bgm src="kita-"/>
+<talk id="2" chara="mule" face="02" cos="01">・・・・・・は？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">勝負条件はそのまま！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だけど私は、謳いたくないっていうミシャの幸せのために、全力を尽くすわ！</talk>
+<talk id="2" chara="misya" face="08" cos="standerd">・・・ウソでしょ！？</talk>
+<talk id="1" chara="misyaC" face="03" cos="standerd">本気なの！？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">謳いたいの？</talk>
+<talk id="1" chara="misyaC" face="09" cos="standerd">イヤよ！！</talk>
+<talk id="3" chara="coneco" face="00" cos="01">なら決まり。 私はあなたをサポートするわ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">・・・勝負条件、忘れてるんじゃないの？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">小さい方のミシャが生き残ったら あなたの勝ち、でしょ？</talk>
+<talk id="2" chara="mule" face="02" cos="01">選んだミシャを全力でサポートする。 それも条件の一つなのよ？</talk>
+<talk id="3" chara="coneco" face="00" cos="01">もちろん承知してるわ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">ってかさ、謳いたくないって言ってる相手をムリヤリ謳わせるの、イヤなのよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">嫌がってるのをムリヤリって、悪役みたい だしね。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">だから、ミシャ・・・。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私はあなたを、謳わせないわ。</talk>
+<talk id="1" chara="misyaC" face="07" cos="standerd">・・・コネコ。</talk>
+<talk id="2" chara="mule" face="03" cos="01">・・・後悔するわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">後悔も嫌いなのよ。 だから、決めたわ。</talk>
+<buc id=" 1" action="out"/>
+<buc id=" 2" action="out"/>
+<exec param="ffout"/>
+<exec param="fout"/>
+<exec param="ffin"/>
+<talk id="3" chara="coneco" face="00" cos="01">私はミシャを、謳わせない！</talk>
+<talk id="3" chara="system" face="00" cos="01">後編へ続く！！</talk>
+<exec param="ffout"/>
+<exec param="end1"/>
+<bg src="stone"/>
+<exec param="ffin"/>
+<talk id="1" chara="mule" face="02" cos="01">バカな人間ね。 手抜きは一切しないから、覚悟しなさい。</talk>
+<talk id="2" chara="misya" face="07" cos="standerd">世界の命運がかかってるんだから、 手加減はしないわよ。</talk>
+<talk id="3" chara="coneco" face="00" cos="01">私も手加減しないよ。 ミシャの幸せがかかってるからね。</talk>
+<exec param="ffout"/>
+<exec param="end2"/>
+</comment>
+</cs>

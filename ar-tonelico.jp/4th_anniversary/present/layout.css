@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#total_container{
+	width:802px;
+	height:auto;
+	margin:0 auto;
+}
+
+#header{
+	width:800px;
+	height:240px;
+}
+
+.main_menu{
+	width:800px;
+	height:20px;
+	text-align:center;
+	font-size:12px;
+	line-height:20px;
+	color:#FFFFFF;
+	background-color:#ff7800;
+}
+.main_menu a:link{text-decoration:underline; color:#FFFFFF;}
+.main_menu a:visited{text-decoration:underline; color:#FFFFFF;}
+.main_menu a:hover{text-decoration:underline; color:#c20000;}
+
+.link{
+	width:800px;
+	height:20px;
+	text-align:center;
+	font-size:14px;
+	line-height:20px;
+	color:#FFFFFF;
+	background-color:#ff7800;
+}
+.link a:link,a:visited,a:active{
+	text-decoration:underline;
+	color:#FFFFFF;
+}
+.link a:hover{
+	text-decoration:underline;
+	color:#c20000;
+}
+
+#link_underspace{
+	width:800px;
+	height:5px;
+}
+
+/* ======== [ font ] ======== */
+.font_normal{
+	font-size:12px;
+	line-height:16px;
+	color:#333333;
+}
+
+.font_normal a:link{text-decoration:underline; color:#0000FF;}
+.font_normal a:visited{text-decoration:underline; color:#0000FF;}
+.font_normal a:hover{text-decoration:underline; color:#FF0000;}
+/* ======== [ font ] ======== */
+
+#menu{
+	width:800px;
+	height:28px;
+	text-align:center;
+	font-size:11px;
+	line-height:14px;
+	color:#FFFFFF;
+	background-color:#ff983c;
+	padding:2px 0 2px 0;
+}
+#menu a:link{text-decoration:underline; color:#FFFFFF;}
+#menu a:visited{text-decoration:underline; color:#FFFFFF;}
+#menu a:hover{text-decoration:underline; color:#FF0000;}
+
+
+#contents{
+	width:800px;
+	height:auto;
+}
+
+/* ======== [ listbox ] ======== */
+
+.list_box{
+	width:700px;
+	height:auto;
+	margin:0 auto;
+}
+
+.list_top_bg{
+	width:700px;
+	height:86px;
+	background-image:url(img/list_top.jpg);
+	background-repeat:no-repeat;
+	background-position:top;
+}
+
+.list_top{
+	width:656px;
+	height:86px;
+	padding:0 15px 0 29px;
+}
+
+.list_left{
+	width:29px;
+	height:auto;
+	background-image:url(img/list_left.jpg);
+	background-repeat:repeat-y;
+	background-position:top;
+	float:left;
+}
+.list_center{
+	width:656px;
+	height:auto;
+	background-color:#FFFFFF;
+	float:left;
+}
+
+.explanation{
+	width:656px;
+	height:auto;
+}
+.img{
+	width:190px;
+	height:170px;
+	float:left;
+}
+.img_spacer{
+	float:left;
+}
+.img_clear{
+	clear:both;
+	width:656px;
+	height:10px;
+}
+.oubo_btn{
+	width:160px;
+	height:40px;
+	clear:both;
+	padding:30px 248px 5px 248px;
+}
+.disclaimer{
+	width:656px;
+	height:auto;
+	padding:0 0 10px 0;
+	font-size:10px;
+	color:#FF0000;
+	text-align:center;
+}
+.disclaimer a:link,a:visited,a:active{
+	text-decoration:underline;
+	color:#FF0000;
+}
+.disclaimer a:hover{
+	text-decoration:underline;
+	color:#0000FF;
+}
+.list_right{
+	width:15px;
+	height:auto;
+	background-image:url(img/list_right.jpg);
+	background-repeat:repeat-y;
+	background-position:top;
+	float:right;
+}
+.list_bottom{
+	width:658px;
+	height:50px;
+	clear:both;
+}
+
+/* ======== [ listbox ] ======== */
+
+
+/* ======== [ footer ] ======== */
+#footer{
+	width:800px;
+	height:15px;
+	font-size:10px;
+	color:#333333;
+	line-height:12px;
+	text-align:right;
+	padding:4px 0 5px 0;
+}
+/* ======== [ footer ] ======== */
