@@ -1,0 +1,13 @@
+<meta charset="shift-jis">
+
+<script type="text/javascript" src="ecl.js"></script>
+
+<script type="text/javascript">
+function callback(bitlyResponse){
+
+	for(var i in bitlyResponse.results) {
+		var su = bitlyResponse.results[i]['shortUrl'];
+	}
+
+	urls = ' #tsp ' + su;
+
