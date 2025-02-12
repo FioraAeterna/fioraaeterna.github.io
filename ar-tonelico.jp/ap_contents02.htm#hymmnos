@@ -1,0 +1,3594 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>アルポータル-アルトネリコ総合情報ファンサイト-</title>
+<link href="css/home.css" rel="stylesheet" type="text/css" />
+<script src="js/ar_portal.js"></script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="main2">
+<!--header-->
+	<div id="header">
+    <div><script language="JavaScript" src="http://ar-tonelico.jp/js/swf_re01.js"></script></div>
+    </div>
+<!--header--><!--main-->
+<div id="main">
+
+	
+	<!--contents_menu(左)-->
+    	<div id="left">
+    		<div><img src="img/cont_title_user.jpg" alt="ユーザーズプラザ" width="187" height="36" /></div>
+          	<div class="supo_left_m"><a href="ap_suppotail01.htm" target="_self"><img src="img/user_bt_01.gif" alt="さぽている" width="185" height="49" border="0" /></a></div>
+          	<div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppotail02.htm" target="_self">◆HP/ブログがある方はこちら</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppotail03.htm" target="_self">◆HP/ブログが無い方はこちら</a></div>
+            <div class="supo_left_m"><a href="ap_suppo07.htm" target="_self"><img src="img/user_bt_07.gif" alt="サポーターズナビ" width="185" height="49" border="0" /></a></div>
+          	<div class="supo_left_m"><a href="ap_suppo01.htm" target="_self"><img src="img/user_bt_05.gif" alt="サポーターズリンク" width="185" height="49" border="0" /></a></div>
+          <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppo02.htm" target="_self">◆サポーター情報変更</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppotail01.htm" target="_self">◆さぽているを導入する</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppo03.htm?mode=ban1" target="_self">◆バナーの変更</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="http://www.salburg.com/release/" target="_blank">◆公式画像庫へ</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppo04.htm" target="_self">◆パスワード紛失申請</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppo05.htm" target="_self">◆サポーター退会申請</a></div>
+            <div class="supo_left_m"><a href="ap_contents01.htm" target="_self"><img src="img/user_bt_02.gif" alt="ヒュムネクロニクル" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="ap_contents02.htm" target="_parent"><img src="img/user_bt_03.gif" alt="トウコウスフィア" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="ap_supporeview02.htm" target="_top"><img src="img/user_bt_04.gif" alt="サポーターズレビュー" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/1avs/index.html" target="_blank"><img src="img/user_bt_06.gif" alt="フラッシュコスモスフィア" width="185" height="49" border="0" /></a></div>
+    	</div>
+    <!--contents_menu(左)-->
+<!--============contents(右)============-->
+    	<div id="right">
+        
+       	  <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+        	<div align="right"><a href="http://ar-tonelico.jp/1avs/syukuji/index.html" target="_blank"><img src="img/conts_bt_01.gif" alt="1周年記念祝辞ページ" width="169" height="145" border="0" /></a></div>
+          <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+            <div align="right"><a href="javascript:openit('http://ar-tonelico.jp/present.htm',460,700)"><img src="img/conts_bt_02.gif" alt="ボイスメッセージ" width="169" height="145" border="0" /></a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+          <div align="right"><a href="javascript:openit('http://ar-tonelico.jp/syukuden.htm',460,700)"><img src="img/conts_bt_03.gif" alt="サイトオープンお祝いメッセージ" width="169" height="145" border="0" /></a></div>
+        
+        </div>
+    <!--============contents(右)============-->	<!--mein_ct(中央)-->
+    	<div id="main_ct">
+        	<table width="589" height="692" border="0" cellspacing="0" cellpadding="0">
+  	<tr>
+    <td width="589" height="404" align="left" valign="top">
+	<table width="589" border="0" cellspacing="0" cellpadding="0">
+	  	<tr>
+		<td colspan="3" width="589"><img src="img/toukou/toukou_tb_01.jpg" width="589" height="93" /></td>
+    	</tr>
+  		<tr>
+    	<td width="25" align="left" valign="top" background="img/toukou/toukou_tb_02.jpg"><img src="img/at_spacer_01.gif" width="25" height="10" /></td>
+    	<td width="557" align="center" valign="top" background="img/toukou/toukou_tb_03.jpg">
+        
+
+			<SCRIPT LANGUAGE="JavaScript">
+				function popup(url,mx,my) {
+				sealWin=window.open(url,"levelwin",'toolbar=no,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width='+mx+',height='+my);
+				sealWin.focus();
+				self.name = "mainWin"; }
+			</script>
+			<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="490" bgcolor="#FFFFFF" align="right"><font color="#8D0000"><font class=fonts1><b>∴Page Number</b> <font color="#8D0000"><b><font color="#cccccc">1</font> <a href="/ap_contents02.htm?page=1">2</a> <a href="/ap_contents02.htm?page=2">3</a> <a href="/ap_contents02.htm?page=3">4</a> ...</b></font></td>
+</tr>
+
+<tr> 
+<td width="520" height="22" background="http://ar-tonelico.jp/pre_arportal/img/gps/toukou_bg_01.jpg" align="center"><table width="490" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="490" class="fonts3" align="center" valign="middle"><font color="#663333"><b>◇トウコウスフィア第３６回目！◇</b></font></td>
+</tr>
+</table></td>
+</tr>
+<tr> 
+<td width="520" bgcolor="#FFFFFF" align="center">
+
+<table width="490" border="0" cellspacing="0" cellpadding="0">
+<tr> 　
+<td width="490" class="fonts2" align=left><font color="#692C04"><a name="top" id="top"></a>
+<font class="title2" color="#880000"><b>トウコウスフィア第36号！</b><br>
+</font>
+<font class="fonts2">毎回深化、毎回サプライズ！トウコウスフィア第36号更新！</font><br>
+<br />
+<span class="fonts2"><a href="#toukou">次回分の投稿も受け付けてるよ！</a></span><br />
+<br />
+<b>
+<span class="fonts2"><font color="#880000"><b>■■■メニュー■■■</b></font><br />
+<a href="#tukkomi">★今月のツッコミオリカ</a><br>
+<a href="#letter">★お便りコーナー</a><br>
+<a href="#zange">★大人ミシャのお悩み相談室</a><br>
+<a href="#pic">★ハマの投稿道場</a><br>
+<a href="#hymmnos">★シュレリア様とジャクリののテクニカルサービスセンター</a><br>
+<a href="#mess">★編集後記</a><br>
+<a href="#toukou">★投稿はこちら！</a></span><br>
+<br>
+</b>
+
+
+<!--▼今隔週のツッコミオリカ▼-->
+<a name="tukkomi" id="tukkomi"></a>
+<table width="520" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="520" height="50"><img src="http://ar-tonelico.jp/toukou_sozai/toukou_01.jpg" width="520" /></td>
+</tr>
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_10.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#FF0000">
+<font class="title2">やほーい！オリカだよ！</font><br />
+１月に1回しかみんなに会えなくなっちゃったけど、あたしのこと忘れないでね。
+それにしても、前回のインフェルブリーズ、凄かったね。<br />
+お陰で東京を中心に恐ろしい寒気団が押し寄せて、今週なんて雪が降っちゃったもんね。
+多分また2月上旬ごろに、大雪の恐れがあるから、防寒対策はしっかりしておいた方がいいよ。<br />
+オリカからの優しいアドバイスだよ！
+</font>
+
+</td>
+<!--▲コメント▲-->
+</tr>
+
+
+
+</table>
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+</td></tr></table>
+<br /><br />
+<!--▲今隔週のツッコミオリカ▲-->
+
+
+<!--▽▼▽▼▽▼▽▼▽▼▽▼おたよりコーナー▽▼▽▼▽▼▽▼▽▼▽▼-->
+
+<a name="letter" id="letter"></a>
+<!--▼おたよりコーナー上部▼-->
+<table width="520" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="520" height="50"><img src="http://ar-tonelico.jp/toukou_sozai/toukou_02.jpg" width="520" /></td>
+</tr>
+<tr>
+<td width="520" height="5" align="left" valign="top">
+</td>
+</tr>
+<!--▲おたよりコーナー上部▲-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>今</b></font>
+回より2のキャラクターも本格的に登場して、とても嬉しく思っています。<br />
+ところで、2で一番の苦労人かつ常識人でツッコミを兼ねるのは、クロアだと考えています。
+これまでツッコミ役を一手に引き受けてきたミシャに一言。大丈夫、2にも仲間はいるんですよ（血涙<br />
+（いし）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/3d_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+このことについては、前回から沢山の投稿があったわ。<br />
+ツッコミ役ならクロアに任せるのが一番、常にツッコミに回ってたクロアなら大丈夫、<br /><font color="#FF0000" class="title2">ツッコミマスタークロア</font>、ってね。
+<br />そんなわけで、良いことを思いついたの。<br />
+次回のおたよりコーナーは私達１のキャラは一部を除いて全員遅い正月休みをもらうことにしたわ。<br />
+実を言うと、今回来た投稿の内容がかなりキャラ限定されているせいで、せっかく前回から参戦した２のキャラが中々出せない現状なの。<br />
+しかも、出てきている２の人達もまだこのトウコウスフィアに慣れてないせいで上手く答えることが出来てないしね。<br />
+そんなわけで、<font class="title2" color="#FF0000">次回のトウコウスフィアのおたよりコーナーは２のキャラだけでやってもらうからよろしくね。</font><br />
+どんな質問だろうと、１の誰かに対しての質問だろうと問答無用で答えてもらって、その答えに何か問題がある場合はクロアが容赦なくツッコミを入れてフォローするの。
+２のキャラがトウコウスフィアに慣れると同時に、ツッコミの練習をクロアがするのにも丁度いいし、決まりね。<br />
+</td>
+<!--▲コメント▲-->
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_6.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#FF0000" class="title2">ツッコミマスタークロアなんて投稿どこにも来てないぞ、ってかマジで休むのか！？</font><br />
+トウコウスフィアに出てきたばかりの俺達にどうしろっていうんだよ！？<br />
+</td>
+<!--▲コメント▲-->
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_10.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+大丈夫だよ、優しいあたしがちゃんと緊急事態用のフォロー役として休み返上で監督してあげるよ。<br />
+<font color="#FF0000" class="title2">一緒にトウコウスフィアをいつも以上に盛り上げるように頑張ろうね！！</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+さ、最悪だ……一番の危険人物が残るなんて。
+</td>
+<!--▲コメント▲-->
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ア</b></font>
+ルフマン総統！！
+貴方に一言物申す！！
+…その髪ファッションですか？
+（ジン）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/2_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+えーっ！あんなファッションあるわけないよぅ。<br />
+私はあれ、多分<font color="#FF0000" class="title1">武器</font>になるんじゃないかなって思ってるんだけど。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_10.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+あ、気が合うね。<br />
+あたしもあれはファッションじゃないと思うよ。
+アレって世間では<font color="#FF0000" class="title1">アホ毛</font>って呼ばれてて、女の子について初めて意味をなす髪だしね。<br />
+ちょっと渦巻きっぽくアレンジされてるけど、男の人がファッションでするようなものじゃないよ。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/19_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#000099" class="title2">ふん、この毎朝一時間かけてセットする髪をアホ毛などと言ってもらいたくないな！</font><br />
+これは超一流の男にしか出来ない、難易度の高いオシャレなんだ。<br />
+俺以外に誰もこの髪形をしていないのが何よりの証拠だ！<br />
+悔しかったら挑戦してみな、まあ無理だろうがな！
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>「マ</b></font>
+マキタボタン」は、我が家では「ヨメキタボタン」として活躍しています。
+でも、ジャクリのスピリガンナーでニヤついている時は、間に合いませんでした。
+その日はずっと「ご主人様」って呼ばれました。
+すごく怖かったです。<br />
+（ぱんだ）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font class="title2" color="#FF6600">ご主人様と呼ぶならメイド服を着てからにしろ、って言いかえすことが出来ないでどうするの？</font></td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/18_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font class="title2" color="#FF6600">その通りよジャクリちゃん、感動したわ！！</font><br />
+メイドにご主人様と呼ばれて萌える人間に対して、メイドでもなんでもない人が私服でご主人様と言ったところで何の意味も成さないということをしっかりと教えてあげるべきなのよ。<br />
+<font color="#FF6600" class="title2">メイドさん好きを甘く見るのは侮辱以外の何者でもないと叱ること、それがあなたの役目よ！！</font></td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_3.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+……なあ、これってそこまで必死になって答えるような投稿か？</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ア</b></font>
+マリエレアキャラ同盟入りおめでとう！<br />
+（しろ）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/7_1.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+……あ、あれ？<br />
+今日も出番があるってことは、もしかして私レアキャラ同盟候補脱出！？
+よーし、この調子で次回もバリバリ登場するわよ！
+</td>
+<!--▲コメント▲-->
+</tr>
+
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/8_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+レアキャラ同盟って、名前はアレだけどかなりよく出没してるんだけどね。<br />
+ある程度の登場回数を得たいなら入った方がいいと思うわよ。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/16_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+確かに、登場回数なら私達の方が更に少ないからな。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/11_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+トウコウスフィア……そういえば、そんなものもあったな。<br />
+まったく出てなかったからここの存在をすっかり忘れていた。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ク</b></font>
+ローシェ様のブーツ(？)のヒールすっごい高いですね！！
+足首の角度なら全キャラ中一番ですよ☆…多分。<br />
+（YYY）</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/1_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+え、えっと……こ、これって、ありがとう、って答えるべきなのかしら？<br />
+というよりも、足首の角度が一番と言われても正直どう喜べばいいのか微妙なんだけれど……
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/6_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+そうやって何でも深く考えてたらここではやっていけないぞ。<br />
+肩の力を抜いて、気軽な気持ちで自分に送られてきた投稿に目を通してみるんだ。<br />
+そうすればどう答えればいいのか、自然とわかるはずさ。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/1_11.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font class="title2" color="#0000FF">……だ、ダメ、わからない。</font><br />
+というよりも、わかったら何か大切なものを無くすような気がして、わかりたくないわ。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ラ</b></font>
+ードルフだまされてるよ！！<br />
+（トシクワ）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/6_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+ああ、確かに俺はファルス司祭にずっと騙されていた。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/4_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#006600" class="title2">そういうことじゃねぇよ。</font><br />
+ってか、おまえがミュールとメイメイと三人で聖地にいるところがどうしても想像できないんだが……
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/1_1.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+聖地と呼ばれるような場所ならば、御子である私も行かなくてはならないわね。<br />
+今度行くときには私も誘ってちょうだい。</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>オ</b></font>
+リカとルカの料理対決が見たいです。
+(イオ)
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/2_1.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+オリカさんの方が凄いと思うよっ！<br />
+<font color="#FF0000" class="title2">だってあの焼肉ソーダ、凄く美味しいし！</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_10.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+焼肉ソーダの味がわかるんだ……<font color="#FF0000" class="title2">意外といい子なんだね。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/19_1.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+俺もこの味は嫌いじゃないな。<br />
+俺のように普段から忙しい人間にとって、この焼肉ソーダは欠かせない飲み物となっている。<br />
+<font color="#FF0000" class="title2">疲れた時、仕事が終わった時、徹夜明けなどにはこの一杯が美味い！！</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_5.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+……このアホ毛のおじさん、何でこんなにうるさいの?
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ト</b></font>
+ウコウスフィアの惨状を目の当たりにして、『ミシャさんが真っ先にストレスでハゲるんじゃないか』と本気で心配してしまいました…。<br />
+（サブレ）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/3d_11.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+心配してくれてありがと。
+でも、ハゲる前にストレスから来る胃痛の方が先かもしれないわ。
+最近はその兆候で食欲が減ってきてるしね……
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/1_5.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#FF0000" class="title2">だったら俺がオボンヌ粥作るよ。</font><br />
+胃に優しくてしかもオボンヌ、美味そうだろ？
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/3d_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+……想像しただけで胃が痛くなってきたわ。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>初</b></font>
+めまして、シュレリア様に質問です。
+保護されたIPDはルカによって治療されているのに、なぜクローシェ様親衛隊になってしまうのでしょうか？
+手柄横取りですか？<br />
+（としあき）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/1_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+横取りも何も、別に私が親衛隊を作ったわけじゃないわ。<br />
+ルカが助けた子達が勝手に言い出して作ったのが始まりなんだし。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/2_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+私的には逆にそうなってくれて助かってるんだけどね。<br />
+だって、私に親衛隊なんか出来てもどうしたらいいかわからないし、困っちゃうよぉ。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/1_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font class="title2" color="#000066">っていうか、親衛隊の何人かの私に対する視線や発言がかなり危険で困ってるんだけどね。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ル</b></font>
+カ君やクローシェ君、もしかしたらジャクリ君も気になっているかも知れないが…
+クロア君…君がココナ君と【二人きり】で生活していた時、本当に何も無かったのかね？
+少しぐらいは嬉し恥かしのハプニングがあったのでは無いのかね？
+今こそ話す時だよ？さあ！さあ！！さあ！！！<br />
+（Dr.Question）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/5_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+う～ん……そのハプニングって、私がお風呂に入ってる時に知らずにクロがドアを開けちゃってキャーッみたいなこと？
+そういうのだったら一度も無かったよ。<br />
+<font color="#FF3300" class="title2">逆はあったけどね。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+一応ココナだってお年頃なんだから、俺が入ってても平然と入ってくるのはマズイと思うぞ。<br />
+それと、逆はあったけど、<font color="#FF3300" class="title2">だけだと俺がココナに裸見られて叫んだと思われかねないから、そこの説明を抜かさないでくれよ。
+</font></td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>初</b></font>
+投稿で御座います。ついに、ついにオリカさんのコーナーが乗っ取られましたね…
+それとも慈悲の心で譲ってあげたのですか？ <br />
+（偽紳士）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_10.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+慈悲なんかじゃなくて、是非ともあのコーナーをやってもらいたくて譲ったんだよ。<br />
+だってあんなに面白いこといえるんだし、毎回みんなを大爆笑させる場が無いなんて勿体無いでしょ？<br />
+<font color="#FF0000" class="title2">あたしもあのギャグの大ファンだしね！</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/11_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+私のギャグをそこまで楽しみにしてくれてるだなんて……嬉…す、少しは見る目があるようね。
+そんなに期待してくれてるなら、もっともっと面白いギャグを研究する価値も出てくるってものだわ。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/6_5.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#0000CC" class="title2">……トウコウスフィアを氷河期にするつもりか？</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>本</b></font>
+音を言わなさそうなクロアに代わってルカの誤解を解きたい。
+ルカのドロデレが「悪い」んじゃない、クローシェ様のツンデレが「良すぎる」だけなんだ！<br />
+（eryo）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+ツンデレが良すぎる？<br />
+よく考えてみなさい、実際にツンデレなんて性格の女を相手にしてたら面倒くさくてやってられないわよ。<br />
+<font color="#006633" class="title2">ツンデレなんて良いもんじゃないってことを理解しなさい。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/10_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+う～ん……確かに、ちょっと付き合うのに苦労しそうな性格かもしれないよね。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_1.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+確かにツンデレなんて性格の人間と付き合うのは面倒だと思うけど、<font color="#006633" class="title2">ミュールだってツンデレでしょ？</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/9_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#009933" class="title2">そしてあなたもツンデレだってことを忘れちゃダメよ、シュレリア。</font></td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>な</b></font>
+ぜテクニカルサービスセンターの名前が『シュレリア様とジャクリの』なんですか！
+ジャックも様付けを!<br />
+（麗羅）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_1.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+随分と偉い人になったみたいね、<font color="#FF0000" class="title2">ジャック様。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/1_5.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+それだけ思われてる証拠だよな、<font color="#FF0000" class="title2">ジャック様。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/5_2.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#FF0000" class="title2">ジャック様、</font>早く借金返してよね。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/4_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+<font color="#FF0000" class="title2">嬉しくねぇよ！！<br />
+ってか、明らかに名前を書き間違えただけの投稿なんだから察して普通に答えてやれよ！</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>一</b></font>
+つ質問ですが、調合中、仮初にも専門家？である調合娘、とんでもない方向にもってくことはあるもののメインで作成しているであろうヒロインたちの役割はなんとなくでも分かるのですが、必ずどこでも調合に参加するクロアは何をしているのでしょう？
+助手？単なるツッコミ役？やっぱり器用貧乏なのでしょうか。
+あと調合の種類によっては参加出来ないヒロインもいますが、腕前が必要というわけでもないので、出来ないんじゃなくてやる気っていうか興味がわかないってことなんですかね？<br />
+（ぴょ）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_1.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+やる気とか興味じゃなくて、不得意な分野だからあえて手をつけないようにしている、って言った方が正しいな。<br />
+例えば武器に関してだと、ジャクリとクローシェ様ならともかく、ダイバーズセラピストとしてずっと過ごしてきたルカにはまったくわからない分野だから、レシピカードがあったとしても何をどうすればいいのかわからなくて手に負えないんだ。<br />
+
+そういうのがあるから、調合出来る人と出来ない人が出てくる。<br />
+それで俺の役目は力仕事とかサポートを中心だな。<br />
+さすがに女の子達に力仕事をやらせるのは無理だし、調合途中のモノがどんどん変な方向へ向かっているのを少しでも正常な方向に戻すようにサポートしてる。<br />
+<font color="#FF0000" class="title2">……まあ、いくらサポートしたとしてもとんでもないものを作られるのがほとんどなんだが。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/2_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+まとも過ぎる答えでつまんないよ。<br />
+<font color="#FF0000" class="title2">もっと面白い答え方しないとここでは生きていけないよ？</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+何もそんな無理に面白い答え方をする必要は無いと思うんだが……
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ア</b></font>
+ヤタネに訊きたいです。
+ジャクリさんが「私には家族が居ない」発言をしていますが、息子としては、そこの所どうですか<br />
+（そ）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/7_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+別に気にしてないよ、いつものことさ。<br />
+それに、母さんはそれを本気で言ってるわけじゃないと思うよ。<br />
+<font color="#990066" class="title2">だってほら、母さんってツンデレだしね。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/6_4.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+親のことをちゃんと理解している息子、素晴らしい。<br />
+<font color="#990066" class="title2">理解ある息子さんがいて幸せだな。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_2.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+ふん、当然よ。<br />
+<font color="#990066" class="title2">私の息子はそこらの親に対しての理解が無いヤツとは違うのよ。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+……そんな理解のされ方で本当にいいのか？
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>前</b></font>
+回のトウコウでは、クロアは２の主人公にも関わらず他のキャラに比べて影が薄かったような…
+ここは先輩であるライナーに、いかに目立つかを伝授してあげて欲しいです。 <br />
+（rita）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/1_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+どんな方法でもいいなら、オリカに対してケンカを売る、っていうのが一番じゃないか？<br />
+トウコウスフィア一番人気のオリカに目をつけられれば、毎回何かしらオリカから行動を起こしてくれるし、それに対しての励ましの投稿とかも沢山来ると思うしな。<br />
+<font color="#FF0000" class="title2">もちろん命の保障はしないし、責任も取れないけどな。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/4_3.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+……元々目立とうと思ってるわけじゃないけど、そんな目立ち方だけは絶対にしたくない、っていうかそんなことしたら次のトウコウスフィアは確実に出れなくなるよな？
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+
+
+
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+
+<!--***********************▼おたよりコーナー複製テーブル▼***********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ア</b></font>
+ルトネリコ2でミシャ様はあのスーツの着心地はどうでしたか？<br />
+（無限）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+<!--****************<▼キャラコメ複製はここから▼>****************-->
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="520" height="7" /></td>
+</tr>
+<!--▲bar_small▲-->
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/3d_0.jpg" width="80" height="80" />
+</td>
+<!--▼コメント▼-->
+<td width="433" align="left" valign="middle" class="fonts1">
+あの体に良い感じにフィットする感じは気に入ってるわ。<br />
+でも、なんでかサイズが若干小さかったから前をかなり大きく開けてなきゃいけなかったのが問題だったわね。<br />
+<font color="#99CC00" class="title2">それと……全裸のミュールに見慣れてたせいか、あのくらいの露出は特に恥ずかしげもなくやってた自分に気づいた時はちょっとだけショックだったけどね。</font>
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲アルトネキャラコメント▲-->
+<!--****************<▲キャラコメ複製はここまで▲>****************-->
+
+<!--***********************▲おたよりコーナー複製テーブル▲***********************-->
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+</table>
+<!--△▲△▲△▲△▲△▲△▲おたよりコーナー△▲△▲△▲△▲△▲△▲-->
+
+<!--===========================▼大人ミシャのお悩み相談室▼===========================-->
+<br />
+<font class="fonts2"><a href="#top"><b>▲TOP▲</b></a></font><br>
+<!--▼大人ミシャのお悩み相談室▼-->
+<a name="zange" id="zange"></a>
+<!--▼大人ミシャのお悩み相談室上部▼-->
+<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="520" height="50" align="left" valign="top"><img src="http://ar-tonelico.jp/toukou_sozai/toukou_03.jpg" width="520" /></td>
+</tr>
+<!--▲大人ミシャのお悩み相談室上部▲-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+あけましておめでとう。<br />
+今年も、みんなの悩みをバシバシ解決するわよ。<br />
+
+</td>
+</tr>
+
+<tr>
+<td width="520" align="left" valign="top">
+
+</td>
+</tr>
+<!--▼大人ミシャのお悩み相談室テーブル▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+
+
+
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>ミ</b></font>
+シャ様、相談です。<br />
+今高校２年生で、今後の進路を決めなければ成りません。自分は将来ゲーム関係の会社に、あわよくばガスト様に入社したいと考えています。<br />
+ですが先生や親には、「そんな将来も分からない職業は進められない。」と言われました。よく考えれば、先生達の言うことも分からなくはありません。<br />
+そこでミシャ様に相談です。自分のやりたい職業に就く方が良いのでしょうか。それとも、安定した職業を選んだ方が良いのでしょうか。どうか御力を貸して下さい。<br />
+（9=6+x）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+
+
+
+
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+
+<!--▼ミシャコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/3d_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="top" class="fonts1">
+自分のなりたい職業、やりたい仕事。そういうものがあるなんて、とても素敵な事ね。<br />
+夢を持つことはとても素晴らしいこと。そしてそれに向かって色々頑張れることは、人生を豊かにするわ。
+でも、この相談に対する回答は、私には答えられない。これが私の回答よ。<br />
+なぜかわかるかしら？<br />
+安定した仕事に就くか、自分の夢を追い続けるか。<br />
+どっちの方がいいのか、その絶対的な答えなんて、この世の中にはただ１つしか存在しないの。
+その答えがどこにあるのか、わかるかしら？<br />
+<font color="#FF0000" class="title2">それは、あなたの心の中よ。</font><br />
+貴方がどうしたいのか。貴方がどういう人生を歩みたいのか。それを分かっているのは貴方だけ。<br />
+どちらの道を選んでも、貴方が自分で決意した事なら頑張れると思うわ。<br />
+でもその選択は、サイコロを振るような生半可な気持ちで選んではダメよ。<br />
+本当に自分と向き合って、それぞれの選択をしたときに、それぞれ将来どんな自分になっているかを予想したり
+どんな自分になりたいかを想い描くの。それと同時に、どんな苦労があるか、そしてどんなリスクがあるかも。<br />
+あと、その道に進んだ先輩の意見も聞いてみるといいわ。その先輩が今どんな気持ちか。どんな人生か。満足しているかしていないか。<br />
+でも、それらを元に最終的にどちらに進むか決めるのは、必ず貴方自身が決めるの。<br />
+人の意見に左右されることだけは絶対にしてはダメ。<br />
+貴方の人生なんだから、貴方自身が納得して、決意して、そして進んで欲しい。
+それだけの気合いで決めたことなら、どんな人生を選んでも、それは正解だと思う。<br />
+自分はどうしたいか。それを選択したときに、どんな事があるか。それを解決できるか。<br />
+そういったことを、深く掘り下げて考えてみてね。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+<!--▲ミシャコメント▲-->
+
+
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+
+
+
+
+</table>
+<br />
+<br />
+
+<!--===========================▲大人ミシャのお悩み相談室▲===========================-->
+
+
+<!--===========================▼ハマの投稿道場▼===========================-->
+<br />
+<font class="fonts2"><a href="#top"><b>▲TOP▲</b></a></font><br>
+<a name="pic" id="pic"></a>
+<!--********************▼はまの投稿道場上部▼********************-->
+
+<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="520" height="50" align="left" valign="top"><img src="http://ar-tonelico.jp/toukou_sozai/toukou_04.jpg" width="520" />
+</td>
+</tr>
+
+
+
+
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="top" class="fonts1">
+最近投稿道場が大繁盛なのよ！！<br />
+それにみんなの腕もメキメキパワーアップしてるのよー！<br />
+これはコメントのし甲斐があるのよ！<br /><br />
+<font class="title2" color="#004400">★投稿方法<br /></font>
+<b>・メールタイトルを「[TOUKOU] SphereMes.」にして<br />　画像を添付し、<a href="mailto:fun@salburg.com">fun@salburg.com</a>へメールする</b><br><br>
+<b>・ホームページにアップし、そのアドレスを記載して<br />
+　下記フォームに投稿する<br><br></b></td>
+</tr>
+</table>
+</td>
+</tr>
+<!--********************▲はまの投稿道場上部▲********************-->
+
+
+
+
+<!--********************▽▼▽ハマの投稿道場 -投稿部分-▽▼▽********************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/01.htm',350,500)"><img src="http://www.salburg.com/img/post_system/1177/01.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+初投稿です。<br />
+自分的には頑張って描きました・・・拙いですけど。<br />
+ミシャは歌もキャラも好きです。<br /><br />
+<b>HP：<a href="http://fuho.dip.jp/y-s/" target="_blank">http://fuho.dip.jp/y-s/</a><br />
+Blog：<a href="http://air.ap.teacup.com/kimino/" target="_blank">http://air.ap.teacup.com/kimino/</a></b><br />
+（君）<br />
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">
+とってもしおらしいミシャなのよ！！<br />
+ここは天覇のあの場所なのよ。<br />
+ミシャにとっては色んな意味で記念すべき場所なのよー！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/02.htm',636,495)"><img src="http://www.salburg.com/img/post_system/1177/02.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+ハマさん、遅くなりましたが；あけましておめでとうございます！２回目の投稿です＾＾
+アルトネⅡ発売後早速やって即トリコになりました＞＜<br />
+特にクローシェ様のカッコ可愛いこと！！（カッコいい＋可愛いの意。）
+たまりません（熱<br />
+私もレーヴァテイルだったら絶対クローシェ様親衛隊に入る～！！！<br /><br />
+<b>misaki自由帳</b><br />
+<b><a href="http://kururu0204.blog104.fc2.com/" target="_blank">http://kururu0204.blog104.fc2.com/</a></b>
+
+<br />
+（みさき）
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">
+アルトネ２ヒロインズなのよ！！<br />
+ルカもクローシェもとってもかわいいのよ。<br />
+是非レーヴァテイルになって親衛隊に入るのよーーー！
+</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/03.htm',800,800)"><img src="http://www.salburg.com/img/post_system/1177/03.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+最近は２のキャラの投稿が増えてきたのであえて１のキャラを描いてみました。ちなみにシュレリア様のコスモスフィア仕様になっているので、
+ライナーが学生服っぽいのを着ていたり、ボルドが金魚のおじさんに扮していたりします・・・あとジャ・・・じゃなくてミュールもいます。(笑)
+トウコウスフィア、ついに2のキャラが参入しましたね！トウコウスフィアのノリに呆然とするレグリス隊長や瞬ちゃんが面白かったです～。<br /><br /> 
+<b>HP：<a href="http://activity.cccjp.com/" target="_blank">http://activity.cccjp.com/</a></b><br />
+（青瀬さらとが）
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">
+にゃー！シュレリアが凄い勢いで中心取ってるのよ！！<br />
+そしてボルドが異様にいい人みたいでかわいいのよ！！<br />
+金魚とか絶対にオマケしてくれそうなのよー！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top">
+<a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/04.htm',310,250)"><img src="http://www.salburg.com/img/post_system/1177/04.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+今回はゲストに“あの人”をお迎えして、『アイスクリーム丼』を作ってみました。<br />
+冬なのに。<br />
+そのまま再現してもよかったのですが、普通に美味しいパフェになってしまいそうだったので、ちょっとだけアレンジを加えてあります。
+どんなアレンジなのかは、読んでからのお楽しみ。<br />
+人数が増えてより賑やかに、そしてハチャメチャになった掛け合いコントをどうぞお楽しみください。<br /><br />
+<b>HP:<a href="http://gaoo.blog55.fc2.com/blog-entry-281.html" target="_blank">http://gaoo.blog55.fc2.com/blog-entry-281.html</a></b><br />
+(dony)<br />
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">相変わらずすごいのよー！！<br />
+  だけど、普通にオイシイパフェだと何がまずいのよー！<br />
+  わざと不味くするのはよくないのよ！たまには普通に食べられるモノを創るのよ！<br />
+  そうしないと、そのうち本当にご父兄の方々から苦情がくるのよー！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/05.htm',468,630)"><img src="http://www.salburg.com/img/post_system/1177/05.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+遅くなりましたが、あけましておめでとうございます。<br />
+今年もよろしくお願いいたします。<br />
+自サイトの年賀絵として描いた、うちのさぽているのアトリです。<br />
+マスターたる自分が不甲斐ないせいで会話に変化はあまりつけられていませんが、訪問
+してくださる方のメッセージを運んでくれたり、交流さぽていらーさんにメールを運ん
+でくれたりと、うちの看板娘として頑張ってくれています。<br /><br />
+<b>HP「草薙」<br />
+<a href="http://www.geocities.jp/lavandula_hybride/" target="_blank">URL：http://www.geocities.jp/lavandula_hybride/</a></b><br />
+（ちはや）<br />
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">にゃーー！！！すごい綺麗なのよ！！<br />
+  しかも洛紗タイプにピッタリの景色なのよーー！！<br />
+  着物もとっても綺麗なのよー！これは力作なのよ！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/06.htm',880,620)"><img src="http://www.salburg.com/img/post_system/1177/06.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+今回はいとしのＥＬＭＡちゃんです。ＥＬＭＡは自分の中でかなり上位に位置するお
+気に入りキャラクターです。一度でいいから戯れてみたいです。まぁ怒らせた場合は
+間違いなく命を落としそうですが。きっとシュレリア様の悪口さえ言わなければ大丈
+夫でしょう。シュレリア様、今度一日でいいので貸してください。え？ＥＬＭＡだけ
+じゃ不安ですか？じゃあ是非三人いｓｓｙ（略）<br />
+（はぐるま）
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">エルマちゃん投稿道場初登場なのよー！<br />
+  シュレリアを一途に想うエルマちゃんはとてもいい子なのよ。<br />
+  是非甘噛みしてもらうといいのよ！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/07.htm',775,496)"><img src="http://www.salburg.com/img/post_system/1177/07.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+おぼえていますか。手とオボンヌが触れ合った時を。<br />
+おぼえていますか。初めてオボンヌが口腔で溶けた瞬間を。<br />
+―――誰もが心のすみっこにそっと立てかけてある、オボンヌと過ごした遠い日々。
+それは、ずっとずっと。これまでも、これから先も。<br />
+決して色褪せることなく、しかし主張することなく、ただただそこにあるのです。
+不安になったとき、ちょっとパッションが足りなくなったとき、その扉をそっと開けてみてください。
+きっと、初めて逢ったままの姿のオボンヌが、円らな２つの瞳が、あなたを暖かく迎えてくれます。<br />
+（ruroi）<br />
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">なんだかとっても切なくなる絵なのよー。<br />
+  絵と文章が相まって、とっても…とっても……<br />
+  笑いをこらえるのが大変なのよーーーー！！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/08.htm',850,510)"><img src="http://www.salburg.com/img/post_system/1177/08.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+前回のオリカが余りにも黒くて、ここを思い出しましたw<br />
+しかし2のキャラが出てきてもお構いなしですか。<br />
+オリカは一部まで鬱々悲観少女だったのに、二部に入っていきなりの「おばさん」発言はびっくらでした。<br />
+（コージ）
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">すごい１シーンなのよー！！これもとっても力作なのよーーー！！<br />
+  あのイベントの情景がリアルに浮かび上がってくるのよ！！<br />
+  空の高さも壮大さも、オリカの可愛さも最高なのよーー！！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/09.htm',760,511)"><img src="http://www.salburg.com/img/post_system/1177/09.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+ハマ師匠、遅ればせながら明けましておめでとうございます。今年も宜しくお願い致します。<br />
+トウコウスフィアにも２のキャラが登場し始めましたが、未だ２を購入しておらず、またも１のキャラです。シュレリア様です。
+ソル・シエールでは雪は降らないそうですが、もし降ることがあったらシュレリア様には是非雪うさぎを作ってもらいたいと思います。
+“きゅっきゅっ”と鳴かないけど、可愛いでしょ？<br />
+（南部新）<br />
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">にゃー！とてもセクシーなシュレリアなのよ！<br />
+  シュレリアなら雪で必ず雪うさこを創るのよ。<br />
+  でも雪うさこの存在を教えたら危険なのよ。<br />
+  ソルシエールに雪を降らそうとして大変なことになるのよーー！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/10.htm',456,586)"><img src="http://www.salburg.com/img/post_system/1177/10.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+イラスト初投稿です。<br />
+オボTがツボ過ぎたので2ヒロインズに着てもらいました（笑）
+オボンヌ可愛いよオボンヌー。<br />
+銘菓オボンヌ販売されないかな…←をい。<br />
+（なぎのすけ）<br />
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">とっても可愛いディフォルメなのよー！！<br />
+  それにみんなでオボンヌを着れば怖くないのよ！<br />
+  渋谷のセンター街でもどんとこいなのよーー！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▼ユーザー投稿部分▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="200" align="left" valign="top"><a href="javascript:openit('http://ar-tonelico.jp/ap_contents/toukou/2008_01_20/11.htm',580,820)"><img src="http://www.salburg.com/img/post_system/1177/11.jpg" border="0" /></a></td>
+<td width="320" align="left" valign="middle" class="fonts1">
+挨拶が遅れてますが、
+明けましたおめでとうございます。<br />
+いつものあの透き通ったヒュムノスのメロディもいいのですが、
+こんな感じでハード・ロック・ライブなんて面白いかも～
+とかイメージしてイラストにしてみました。<br /><br />
+<b>HP= <a href="http://homepage2.nifty.com/noir-exhibition/" target="_blank">http://homepage2.nifty.com/noir-exhibition/</a></b><br />
+（ノアール）
+
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼はまコメント▼-->
+<tr>
+<td width="520" align="left" valign="top" colspan="2">
+<table width="520" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/22_3.jpg" width="80" height="80" /></td>
+<td width="433" align="left" valign="middle" class="fonts1">これは大変なライブになるのよーー！！<br />
+  しかもルカもクローシェもいっちゃってるのよ！！<br />
+  ジャクリは素でいっちゃってる感じに見えるのが哀しいのよ。<br />
+  さらにフレリアは露出度高すぎなのよー！</td>
+</tr>
+</table></td>
+</tr>
+<!--▲はまコメント▲-->
+</table></td>
+</tr>
+<!--▲ユーザー投稿部分▲-->
+
+
+
+<!--********************△▲△ハマの投稿道場 -投稿部分-△▲△********************-->
+
+
+
+
+
+
+<!--******************************＜▼変更しないで▼＞********************************-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+</table>
+<!--******************************＜▲変更しないで▲＞********************************-->
+
+<!--===========================▲ハマの投稿道場▲===========================-->
+
+
+<br />
+<font class="fonts2"><a href="#top"><b>▲TOP▲</b></a></font><br>
+
+<!--▼スーパーサポテイラー▼-->
+<a name="hymmnos" id="hymmnos"></a>
+<!--▼スーパーサポテイラー上部▼-->
+<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="520" height="50" align="left" valign="top"><img src="http://ar-tonelico.jp/toukou_sozai/toukou_08.jpg" width="520" /></td>
+</tr>
+<tr>
+<td width="520" height="5" align="left" valign="top"><img src="http://ar-tonelico.jp/new_image/spencer.gif" width="5" height="5" /></td>
+</tr>
+
+<!--▲スーパーサポテイラー上部▲-->
+
+
+<!--▼スーパーサポテイラー紹介▼-->
+
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /></td>
+<td width="437" align="left" valign="middle" class="fonts1">
+<font color="#FF6600" class="title1">シュレリア様と！</font></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_0.jpg" width="80" height="80" /></td>
+<td width="437" align="left" valign="middle" class="fonts1">
+<font color="#FF0000" class="title1">…ジャクリの…</font></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td colspan="2" align="left" valign="middle">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+	<tr>
+    <td width="160" align="left" valign="middle"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /><img src="http://ar-tonelico.jp/new_image/small_02/3_0.jpg" width="80" height="80" /></td>
+    <td width="403" align="left" valign="middle" class="fonts1"><font color="#FF6600" class="title1">テクニカルセンター！</font><br /><font color="#FF0000" class="title1">テクニカルサービ…</font></td>
+  	</tr>
+</table>
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_1.jpg" width="80" height="80" /></td>
+<td width="437" align="left" valign="middle" class="fonts1">
+どうでもいいけど、言い出しっぺが間違えるのだけはやめてちょうだい。</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_5.jpg" width="80" height="80" /></td>
+<td width="437" align="left" valign="middle" class="fonts1">た、たまたまです！<br />
+  次こそは大丈夫ですから！</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_1.jpg" width="80" height="80" /></td>
+<td width="437" align="left" valign="middle" class="fonts1">
+次ってあるわけ？</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /></td>
+<td width="437" align="left" valign="middle" class="fonts1">
+ここではアルトネリコの世界観などの技術的な質問に、徹底的に真面目に答えるコーナーです<br />。
+「本気で知りたい！マジに回答してくれ！」という質問が有る方は、このコーナー宛てへの投稿をお勧めします。<br />
+その時は、本文に必ず「テクニカルサービスセンター宛」と書いて送ってくださいね。<br />
+書いてないと、見落としてしまうかもしれませんよ。</td>
+</tr>
+</table></tr>
+
+
+
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+
+<!--ヒュムノス語講座回答-->
+<!--▼ユーザーコメント▼-->
+<tr>
+<td width="415" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>テ</b></font>
+クニカルサポートセンター宛です。<br />
+メタファルスではダイブ屋は全てテル族ととのことですが、ソル・シエールのダイブ屋もテル族なのでしょうか？
+ソル・シエールではテル族はイム・フェーナで人間と別れて暮らしているはずなので人間なのではと思いますが。<br />
+（FAKE）
+</td>
+</tr>
+<!--▲ユーザーコメント▲-->
+
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<!--▼アルトネキャラコメント▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">
+ソルシエールでは、ダイブ屋は人間が経営していますよ。<br />
+なぜなら、メタファルスとソルシエールでは、ダイブという技術の歴史が違う為です。<br />
+詳細は後ほど発行される設定資料集にも掲載されると想いますが、メタ・ファルスのダイブ技術には
+数百年前に大きな変革期があります。それまでのダイブは現在の形式とは違いテル族の力を利用した形式のものでした。<br />
+その後、確実性などのメリットから、後から入ってきたソルシエール式のダイブマシンに切り替わっていったのです。<br />
+しかし、昔からダイブ屋を営んでいたのがテル族だったため、現在でもテル族の家系がダイブ屋を経営しています。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+</td>
+</tr>
+<!--▲スーパーサポテイラー紹介▲-->
+
+<!--bar_small-->
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>テ</b></font>
+クニカルサービスセンター宛です。<br />
+インストールポイントについての質問です。レーヴァテイルに必ずあるインストールポイントですが、このマーク(模様？)も一人ずつ違うんですよね？
+だとしたら、マークはどのようにして決まるのでしょうか？それにしてもシュレリア様のマーク、カッコイイですね！<br />
+（まつり）
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">
+インストールポイントの模様については色んな説がありますが、明確な回答は出ていません。<br />
+ただ１つ言える法則性があります。<br />
+オリジンほどデジタルなデザインで、第三世代へいくほど曖昧で無秩序なデザインになっていくという事です。<br />
+これは、オリジンから受け継がれている何かの情報が、遺伝を重ねる事に劣化していき、それによって形状を変え曖昧になっていくと言われています。<br />
+今ガストショップにタトゥシールのサンプルがありますので、そちらでその法則性を研究してみてくださいね。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>テ</b></font>
+クニカルサービスセンター宛です。<br />
+2の最後で「メタファリカを歌うとインフェル・ピラのデータが初期化される」とありましたが、その場合I.P.D達のコスモスフィアはどうなるのでしょうか？
+インフェル・ピラからアルトネリコに戻されたりするのでしょうか？<br />
+（do-hentai）
+</td>
+</tr>
+
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">
+この辺はどうやら説明不足だったみたいね。確か物語中で一応は言っていたはずだけど。<br />
+メタファリカを謳うとインフェル・ピラが初期化される、という事の本来の意味は「デフラグ」なのよ。<br />
+インフェル・ピラのメモリ領域には、それぞれのI.P.D.のコスモスフィア領域がひしめき合っている。<br />
+でも、I.P.D.が死ぬことで、そこに未使用領域が生まれるわ。そしてその間隙が多くなればなるほど、大きな空間としての未使用領域は少なくなっていく。
+メタファリカを謳うと、大陸意識を格納するためにとても大きな空き領域が必要になるわ。<br />
+その為、既に身体を持たないI.P.D.の領域を全部初期化し、生きたI.P.D.の情報をメモリ領域の端から詰めて整理し直すのよ。
+だから、身体が生きている場合、単にメモリ内のアドレスが変更になるだけで、特に何の影響も無いのよ。<br />
+だいたいそういう事。後は大きなネタバレになるから、自分で予測してね。
+</td>
+<!--▲コメント▲-->
+</tr>
+</table>
+</td>
+</tr>
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>テ</b></font>
+クニカルサービスセンター宛です。<br />
+I.P.Dレーヴァテイルの詩魔法サーバはインフェル・ピラだと思うんですが、インフェル・ピラ内にはグラスノ盤とパラメノ盤があったりするんでしょうか？確かパラメノで吸収して塔で増幅、グラスノで放出が大雑把な詩魔法のシステムだったと思います。インフェル・ピラも同じシステムで機能してるのでしょうか？<br />
+それと、インフェル・ピラを設計したのはインフェルだそうですが、元々はメタファリカによる大陸創造の基盤？として作られたんですか？<br />
+わかんない事だらけなので、インフェル・ピラについて詳しく教えてください。できれば設計者のインフェルさんにもお話を伺いたいです。お願いします。<br />
+（アイギル）
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">
+この辺のカラクリも、第一塔の理屈とは全然ちがうのよ。<br />
+設定資料集に詳しく解説が載ると思うから、是非それを楽しみにして欲しいところね。<br />
+大陸創造理論も多分詳しく載ると思うけど。その辺はもう少ししてみないと分からないわ。
+</td>
+<!--▲コメント▲-->
+</tr>
+
+</table>
+</td>
+</tr>
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+<font color="#FF0000" class=title1><b>テ</b></font>
+クニカルサービスセンター宛てです。<br />
+オリジンのシュレリア様とライナーの子供はどんな存在になるんですか？<br />
+（ふうる）
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">
+え！？そ、それはもう、玉のように可愛くてかっこよくて、それで…きゅっきゅって可愛くなく子になりますよ。
+いつできるかって？それは…その…も、もう！恥ずかしいじゃないですか…
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">
+のろけは無視するとして、それ以前にあなた子供生めたっけ？
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+<!--▲bar_big▲-->
+<!--spencer-->
+<tr>
+<td>
+<img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer.gif" width="15" height="15" />
+</td>
+</tr>
+<!--spencer-->
+
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+
+
+
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small/13_0.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">今日も回答に力が入りましたね。とてもいい汗かきました。<br />
+  また次回も是非、ドシドシご応募くださいね！</td>
+<!--▲コメント▲-->
+</tr>
+
+</table>
+</td>
+</tr>
+<!--▼bar_small▼-->
+<tr>
+<td width="520" height="4" colspan="3" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_03.jpg" width="519" height="7" /></td>
+</tr>
+<!--▼bar_small▼-->
+
+<tr>
+<td width="520" align="left" valign="top">
+<table width="519" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="80"><img src="http://ar-tonelico.jp/new_image/small_02/3_1.jpg" width="80" height="80" /></td>
+<!--▼コメント▼-->
+<td width="438" align="left" valign="middle" class="fonts1">この子のためにも、もっと簡単な質問にしてあげて。<br />
+  お願いだから。</td>
+<!--▲コメント▲-->
+</tr>
+
+</table>
+</td>
+</tr>
+
+
+<!--▼アルトネキャラコメント▼-->
+
+</td>
+</tr>
+<!--▲スーパーサポテイラー紹介▲-->
+
+<!--▼bar_big▼-->
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲bar_big▲-->
+</table>
+<!--▲スーパーサポテイラー▲-->
+<br />
+<br />
+<!--===========================▼編集後記▼===========================-->
+<br />
+<font class="fonts2"><a href="#top"><b>▲TOP▲</b></a></font>
+<a name="mess" id="mess"></a><br />
+<!--▼編集後記▼-->
+<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="520" height="50" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/toukou_06.jpg" width="520" /></td>
+</tr>
+
+<tr>
+<td width="520" align="left" valign="top">
+
+</td>
+</tr>
+<!--▼編集後記テーブル▼-->
+<tr>
+<td width="520" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_01.jpg" width="519" /></td>
+</tr>
+
+
+
+<!--▼編集後記コメント▼-->
+<tr>
+<td width="520" align="left" valign="top" class="fonts1">
+２のキャラ達が参戦して、皆さんの評判はどんな感じになるかな…？と、ドキドキしながらの2週間でした。<br />
+お陰様でご好評いただいており、ホッとしています。今回の投稿数は何と３５０通！！<br />
+今まで平均１５０～２００通でしたから、本当に投稿数大幅アップです！<br />
+今後も更に楽しいトウコウスフィアになるよう、キャラ達も全力で頑張っていきます！<br />
+次回もまた、是非ともお楽しみに！<br />
+（土屋）<br />
+<!ミニ投票セット==============================================>
+
+	<a name="enq0120">
+	<table border=1 bordercolor="#000044" width=519>
+	<form method="post" action="/ap_contents02.htm#enq0120">
+	<input type="hidden" name="mode2" value="vote">
+	<input type="hidden" name="tagcode" value="enq0120">
+	<td bgcolor="#000044" align=center valign=top><font class=fonts2 color=white><b>
+	今週のトウコウスフィアは？</font>
+	</td><tr>
+	<td bgcolor="#ddddff" align=left valign=top><font class=fonts2>
+	
+	サポor市民ID：<input type="text" size=8 name="Uid" value="">　
+	
+	パスワード：<input type="password" size=8 name="pas" value="">
+	</td><tr>
+	<td bgcolor="#ddddff" align=left valign=top><font class=fonts2>
+	投票してね：<select name="votesel"><option value="yes">面白かった！</option><option value="nnn">まあまあだな</option><option value="no">前回の方が面白かった</option><option value="no2">ってか面白くない</option>
+	</select>
+	<input type="submit" value="投票"><hr>
+	<center><table border=1 cellspacing=0 cellpadding=0 bordercolor="#000044">
+			<td align=left valign=middle nowrap bgcolor=white><font class=fonts1>面白かった！</td>
+			<td align=left valign=middle width=363.3 bgcolor=white>
+			<table width=323.3 cellspacing=0 cellpadding=0>
+			<td bgcolor="#CC3333" width=363.3><font class=fonts1>　</font></td>
+			<td align=left valign=middle nowrap><font class=fonts1>　24(96%)<br>
+			</table>
+			</td><tr>
+			<td align=left valign=middle nowrap bgcolor=white><font class=fonts1>前回の方が面白かった</td>
+			<td align=left valign=middle width=363.3 bgcolor=white>
+			<table width=323.3 cellspacing=0 cellpadding=0>
+			<td bgcolor="#CC3333" width=15.1375><font class=fonts1>　</font></td>
+			<td align=left valign=middle nowrap><font class=fonts1>　1(4%)<br>
+			</table>
+			</td></table>
+	<div align=right class=font0>Fun's minivote system -TOU=Hyoon-. Made by A.T</div>
+	</td></form></table><!============================================================>
+</td>
+</tr>
+<!--▲編集後記コメント▲-->
+
+
+<tr>
+<td width="520" height="8" align="left" valign="top"><img src="http://ar-tonelico.jp/img/toukou_img/bar_02.jpg" width="519" /></td>
+</tr>
+<!--▲編集後記テーブル▲-->
+</table>
+<br />
+<br />
+
+<!--===========================▲編集後記▲===========================--></font></td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr> 
+<td width="520" height="4" background="http://ar-tonelico.jp/pre_arportal/img/gps/toukou_line.jpg" align="center">
+<table width="490" border="0" cellspacing="0" cellpadding="0">
+</table></td>
+</tr>
+
+<tr>
+<td width="500" height="16" bgcolor="#FFFFFF" align="right"><font class=fonts1><b>∴Page Number</b> <font color="#8D0000"><b><font color="#cccccc">1</font> <a href="/ap_contents02.htm?page=1">2</a> <a href="/ap_contents02.htm?page=2">3</a> <a href="/ap_contents02.htm?page=3">4</a> ...</b></font>
+<div align=left><font class=fonts1><b>
+　　　<a name="olds">【・バックナンバー（過去の記事）】</a><br>
+</b>
+
+　　　・<a href="javascript:popup('http://www.salburg.com/php/gpsview.php?no=1171',570,855);">トウコウスフィア第３５回目！</a><br>
+
+　　　・<a href="javascript:popup('http://www.salburg.com/php/gpsview.php?no=1164',570,855);">トウコウスフィア第３４回目！</a><br>
+
+　　　・<a href="javascript:popup('http://www.salburg.com/php/gpsview.php?no=1156',570,855);">トウコウスフィア第３３回目！</a><br>
+
+　　　・<a href="javascript:popup('http://www.salburg.com/php/gpsview.php?no=1146',570,855);">トウコウスフィア第３２回目！</a><br>
+
+　　　・<a href="javascript:popup('http://www.salburg.com/php/gpsview.php?no=1138',570,855);">トウコウスフィア第３１回目！  	</a><br>
+
+</td>
+</tr>
+
+
+</table><br />
+
+<table width="520" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3" width="520"><img src="http://ar-tonelico.jp/img/toukou_img/toukou_mes_01.jpg" width="520" height="17 " /></td>
+</tr>
+<tr>
+<td width="9" align="left" valign="top" background="http://ar-tonelico.jp/img/toukou_img/toukou_mes_02.jpg"><img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer2.gif" width="9" /></td>
+<td width="500" align="center" valign="top" background="http://ar-tonelico.jp/img/toukou_img/toukou_mes_03.jpg">
+
+<a name="toukou">
+
+<table width="500" border="0" cellspacing="0" cellpadding="0">
+<td width="500" height="22" align="center" valign="middle" background="http://ar-tonelico.jp/img/toukou_img/toukou_mes_06.jpg">
+<table width="500" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="500" align="center" valign="middle" class="fonts2"><font color="#FFFFFF"><b>■燃える投稿箱！■</b></font></td>
+  </tr>
+</table>
+</td></table>
+
+<center>
+
+<table width=500 border=0><td align=left>
+<font class=fonts1>
+投稿内容は、アルトネに関係あること無いこと問わない。スタッフの判断で「面白い！」となったら、掲載しツッコミを入れるぞ。
+とにかく、なんでもいいから君の声を開発スタッフに届けてくれい！
+</td></table>
+
+<table width=500 border=1 bordercolor="#330022">
+<form method="post" action="global_post.php">
+<input type="hidden" name="send" value="fun@salburg.com,t023@hotmail.com">
+<input type="hidden" name="subj" value="[TOUKOU] SphereMes.">
+<input type="hidden" name="mode" value="post">
+<td bgcolor="#bf0000" nowrap align=left><font color="#FFFFFF" class=fonts1>サポーターID（無い場合は空欄で）</td>
+<td bgcolor="#bf0000" align=left><input type="text" size=30 name="NAME" value="SP"></td>
+<tr>
+<td bgcolor="#bf0000" nowrap align=left><font color="#FFFFFF" class=fonts1>ペンネーム</td>
+<td bgcolor="#bf0000" align=left><input type="text" size=30 name="PEN_NAME" value=""></td>
+<tr>
+<td bgcolor="#bf0000" nowrap align=left><font color="#FFFFFF" class=fonts1>メールアドレス（記述無きもの無効）</td>
+<td bgcolor="#bf0000" align=left><input type="text" size=30 name="MAIL" value=""></td>
+<tr>
+<td bgcolor="#bf0000" colspan=2 align=center><font color="#FFFFFF" class=fonts1><center>■投稿本文■</td><tr>
+<td bgcolor="#bf0000" colspan=2 align=center><textarea name="MESS" cols=50 rows=6></textarea></td><tr>
+<td bgcolor="#bf0000" colspan=2 align=center><font class=fonts1><center><input type="submit" value="　　投稿する！　　"></td>
+</form></table>
+<br>
+
+</td>
+<td width="11" align="left" valign="top" background="http://ar-tonelico.jp/img/toukou_img/toukou_mes_04.jpg"><img src="http://ar-tonelico.jp/img/toukou_img/toukou_spencer2.gif" width="11" /></td>
+</tr>
+<tr>
+<td colspan="3" width="520"><img src="http://ar-tonelico.jp/img/toukou_img/toukou_mes_05.jpg" width="520" height="17" /></td>
+</tr>
+</table>
+</td>
+
+</td>
+    	<td width="7" align="left" valign="top" background="img/toukou/toukou_tb_04.jpg"><img src="img/at_spacer_01.gif" width="7" height="10" /></td>
+  		</tr>
+  		<tr>
+    	<td colspan="3" width="589"><img src="img/toukou/toukou_tb_05.jpg" width="589" height="14" /></td>
+    	</tr>
+	</table>
+	</td>
+  	</tr>
+	</table>
+        </div>
+    <!--mein_ct(中央)-->
+
+
+</div>
+<!--main-->
+
+<!--footer-->
+<div id="footer">
+<div><img src="img/bg_footer.jpg" alt="" width="950" height="29" /></div>
+</div>
+<!--footer-->
+</div>
+</body>
+</html>

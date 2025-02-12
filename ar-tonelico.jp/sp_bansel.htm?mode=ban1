@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>アルポータル-アルトネリコ総合情報ファンサイト-</title>
+<link href="css/home.css" rel="stylesheet" type="text/css" />
+<script src="js/ar_portal.js"></script>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="main2">
+<!--header-->
+	<div id="header">
+    <div><script language="JavaScript" src="http://ar-tonelico.jp/js/swf_re01.js"></script></div>
+    </div>
+<!--header-->
+            <tr>
+			  <td width=577 align="left" valign="top">
+			  <table width="584" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="584" align="left" valign="top" colspan="3"><img src="img/suppomente/top_spmente.gif" width="584" height="94" border=0 /></td>
+                </tr>
+                <tr>
+
+			  <td align="center" valign="top"><table width="4" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="584" align="left" valign="top" colspan="3"><img src="img/top_release/spencer.gif" width="5" height="10" /></td>
+                  </tr>
+                <tr>
+                  <td width="584" colspan="3"><img src="img/suppotail/top_waku_01.gif" width="584" height="18" /></td>
+                  </tr>
+                <tr>
+                  <td width="10" align="left" background="img/suppotail/top_waku_02.gif"><img src="img/top_release/spencer.gif" width="10" /></td>
+                  <td width="584" background="img/suppotail/top_waku_05.gif" align=left valign=top>
+	
+		<br>
+		<table width=548 border=0>
+		<!-- ▼ライン▼ -->
+		<td background="" bgcolor="#000077" height=1>
+		<font class=fonts4 color=white><b>　■サポーターバナー一覧</b></font>
+		<img src="/img/tra.gif" width="543" height="1"><br>
+		</td></tr>
+		<!-- ▲ライン▲ -->
+		<tr>
+		<td background="" bgcolor="">
+		<font class=fonts3>
+
+		使いたいバナーを選択して下のフォームにサポーターIDを入力すると、貼り付けるだけのタグが出力されます。
+		それをそのまま現在のタグと置き換えれば、変更完了です。<br>
+
+
+		<br><center>
+		<table width=508><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a11"><font class=fonts2 color=white><b>ロロナのアトリエ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=ad2"><font class=fonts2 color=white><b>アニーのアトリエ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a10"><font class=fonts2 color=white><b>マナケミア２</b></font></a></td><tr><td width=180 align=center valign=middle bgcolor="#770000"><font class=fonts2 color=orange><b>アルトネリコ２</b></font></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a9"><font class=fonts2 color=white><b>マナケミア</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=ad"><font class=fonts2 color=white><b>リーズのアトリエ</b></font></a></td><tr><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a8"><font class=fonts2 color=white><b>グランファンタズム</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=at"><font class=fonts2 color=white><b>アルトネリコ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a1_2"><font class=fonts2 color=white><b>マリー＋エリー</b></font></a></td><tr><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a7"><font class=fonts2 color=white><b>イリスのアトリエ２</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a6"><font class=fonts2 color=white><b>イリスのアトリエ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a5"><font class=fonts2 color=white><b>ヴィオラートのアトリエ</b></font></a></td><tr><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a4"><font class=fonts2 color=white><b>ユーディーのアトリエ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a3"><font class=fonts2 color=white><b>リリーのアトリエ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a2"><font class=fonts2 color=white><b>エリーのアトリエ</b></font></a></td><tr><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a1"><font class=fonts2 color=white><b>マリーのアトリエ</b></font></a></td><td width=180 align=center valign=middle bgcolor="#000077"><a href="/sp_bansel.htm?mode=ban1&title_id=a0"><font class=fonts2 color=white><b>アトリエ汎用</b></font></a></td></table></center><br><table width=548 border=0>
+		<form method="post" action="/sp_bansel.htm?mode=ban2">
+		<td colspan=4><font class=fonts4 color=green><b>▼通常タイプ(200x40)バナー</b></font><hr></td><tr>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2supA.gif"><br>
+					<input type="radio" name="banname" value="at2supA">
+					at2supA.gif</td>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2supD.gif"><br>
+					<input type="radio" name="banname" value="at2supD">
+					at2supD.gif</td><tr>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2supE.gif"><br>
+					<input type="radio" name="banname" value="at2supE">
+					at2supE.gif</td>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2supB.gif"><br>
+					<input type="radio" name="banname" value="at2supB">
+					at2supB.gif</td><tr>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2supF.gif"><br>
+					<input type="radio" name="banname" value="at2supF">
+					at2supF.gif</td>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2supC.gif"><br>
+					<input type="radio" name="banname" value="at2supC">
+					at2supC.gif</td><tr><tr><td colspan=4><font class=fonts4 color=red><b>▼ビッグ(400x80)バナー</b></font><hr></td><tr>
+					<td align=center valign=bottom colspan=4><img src="http://www.salburg.com/citizen/banner/at2lsupC.gif"><br>
+					<input type="radio" name="banname" value="at2lsupC">
+					at2lsupC.gif</td><tr>
+					<td align=center valign=bottom colspan=4><img src="http://www.salburg.com/citizen/banner/at2lsupB.gif"><br>
+					<input type="radio" name="banname" value="at2lsupB">
+					at2lsupB.gif</td><tr>
+					<td align=center valign=bottom colspan=4><img src="http://www.salburg.com/citizen/banner/at2lsupA.gif"><br>
+					<input type="radio" name="banname" value="at2lsupA">
+					at2lsupA.gif</td><tr><tr><td colspan=4><font class=fonts4 color=purple><b>▼ブログタイプ(125x150)バナー</b></font><hr></td><tr>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2msupB.gif"><br>
+					<input type="radio" name="banname" value="at2msupB">
+					at2msupB.gif</td>
+					<td align=center valign=bottom colspan=2><img src="http://www.salburg.com/citizen/banner/at2msupA.gif"><br>
+					<input type="radio" name="banname" value="at2msupA">
+					at2msupA.gif</td><tr><tr><td colspan=4><font class=fonts4 color=blue><b>▼ミニタイプ(125x35)バナー</b></font><hr></td><tr>
+					<td align=center valign=bottom colspan=1><img src="http://www.salburg.com/citizen/banner/at2ssupE.gif"><br>
+					<input type="radio" name="banname" value="at2ssupE">
+					at2ssupE.gif</td>
+					<td align=center valign=bottom colspan=1><img src="http://www.salburg.com/citizen/banner/at2ssupF.gif"><br>
+					<input type="radio" name="banname" value="at2ssupF">
+					at2ssupF.gif</td>
+					<td align=center valign=bottom colspan=1><img src="http://www.salburg.com/citizen/banner/at2ssupB.gif"><br>
+					<input type="radio" name="banname" value="at2ssupB">
+					at2ssupB.gif</td>
+					<td align=center valign=bottom colspan=1><img src="http://www.salburg.com/citizen/banner/at2ssupC.gif"><br>
+					<input type="radio" name="banname" value="at2ssupC">
+					at2ssupC.gif</td><tr>
+					<td align=center valign=bottom colspan=1><img src="http://www.salburg.com/citizen/banner/at2ssupA.gif"><br>
+					<input type="radio" name="banname" value="at2ssupA">
+					at2ssupA.gif</td>
+					<td align=center valign=bottom colspan=1><img src="http://www.salburg.com/citizen/banner/at2ssupD.gif"><br>
+					<input type="radio" name="banname" value="at2ssupD">
+					at2ssupD.gif</td>
+		</table><center><br>
+		<table width=500 border=2 bordercolor="#440000">
+		<td bgcolor="#ffcc66" align=center>
+		サポーターID<input type="text" name="sptid" value="">　　　<input type="submit" value="　タグを出す　"><br>
+		</td>
+		</form>
+		</table>
+		<br>
+		</td>
+		</table>
+		<font class=fonts2><b><a href="http://ar-tonelico.jp/ap_suppo07.htm">【サポーターズナビ・トップへ】</a><br><br>
+		<br>
+
+
+		<table width=548>
+		<!-- ▼ライン▼ -->
+		<td background="" bgcolor="#000077" height=1>
+		<font class=fonts4 color=white><b>　■サブセットバナー一覧</b></font>
+		<img src="/img/tra.gif" width="543" height="1"><br>
+		</td></tr>
+		<!-- ▲ライン▲ -->
+		<tr>
+		<td background="" bgcolor="">
+		<font class=fonts3>
+		サブセットバナーは単独で使用する事は出来ませんが、サポーター登録をしている方なら自由に使う事が出来ます。
+		<br><br>
+		<table width=548>
+		<td align=center valign=bottom><img src="http://www.salburg.com/citizen/banner/a6subsetA.gif"><br>a6subsetA.gif</td><td align=center valign=bottom><img src="http://www.salburg.com/citizen/banner/a6subsetB.gif"><br>a6subsetB.gif</td></table></td></table>
+		<font class=fonts2><b><a href="http://ar-tonelico.jp/ap_suppo07.htm">【サポーターズナビ・トップへ】</a><br><br>
+		<br>
+		
+				  </td>
+                  <td width="5" align="left" background="img/suppotail/top_waku_03.gif"><img src="img/top_release/spencer.gif" width="5" /></td>
+                </tr>
+                <tr>
+                  <td width="584" align="left" valign="top" colspan="3"><img src="img/suppotail/top_waku_04.gif" width="584" height="17" /></td>
+                  </tr>
+              </table></td>
+
+		  <!--検索キーワード-->
+				</td>
+                </tr>
+              </table>
+</div>
+<!--main-->
+
+<!--footer-->
+<div id="footer">
+<div><img src="img/bg_footer.jpg" alt="" width="950" height="29" /></div>
+</div>
+<!--footer-->
+<!--フッター-->
+<table width="950" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+    <td width="950" height="58" align="center" valign="middle" bgcolor="#373830">
+    	<table width="800" border="0" cellspacing="0" cellpadding="0">
+  			<tr>
+    		<td width="15"><img src="http://ar-tonelico.jp/footer/footer_01.gif" width="15" height="50" border="0" /></td>
+    		<td width="42"><a href="http://www.bandainamcogames.co.jp/"><img src="http://ar-tonelico.jp/footer/footer_02.gif" width="42" height="50" border="0" alt="ミラクル未来ウェブ" /></a></td>
+    		<td width="324"><a href="http://www.bngi-channel.jp/"><img src="http://ar-tonelico.jp/footer/footer_03.gif" width="324" height="50" border="0" alt="バンダイナムコゲームスチャンネル" /></a></td>
+    		<td width="419"><a href="http://www.banpresto-game.com/"><img src="http://ar-tonelico.jp/footer/footer_04.gif" width="419" height="50" border="0" alt="スーパーホットウェブ" /></a></td>
+  			</tr>
+		</table> 
+    </td>
+  	</tr>
+</table>
+<!--フッター-->
+</div>
+
+</body>
+</html>

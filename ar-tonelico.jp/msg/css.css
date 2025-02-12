@@ -1,0 +1,16 @@
+A:link {color:#D92F0E ; text-decoration: none}
+A:visited {color:#971F08 ; text-decoration: none}
+A:hover {color:#4A22DD; text-decoration: underline}
+.font0 {FONT-SIZE: 2.5mm; LINE-HEIGHT: 10px}
+.font1 {FONT-SIZE: 3mm; LINE-HEIGHT: 10px}
+.font2 {FONT-SIZE: 14px; LINE-HEIGHT: 16px}
+.font3 {FONT-SIZE: 16px; LINE-HEIGHT: 18px}
+.font4 {FONT-SIZE: 18px; LINE-HEIGHT: 20px}
+.font5 {FONT-SIZE: 20px; LINE-HEIGHT: 25px}
+.title1 {FONT-SIZE:25px; LINE-HEIGHT: 24px ; FONT-WEIGHT:bold}
+.title2 {FONT-SIZE:14px; LINE-HEIGHT: 14px ; FONT-WEIGHT:bold}
+.table1 {border-width:0px 0px 3px 3px ; border-style:solid ; border-color:#334455 ; WIDTH:400; HEIGHT:26 ; float:top ; margin-top:0px ; margin-left:4px ; PADDING:6px 4px 2px 8px}
+.table2 {border-width:0px 0px 2px 2px ; border-style:solid ; border-color:#334455 ; WIDTH:384; HEIGHT:26 ; float:bottom ; margin-top:0px ; margin-left:20px ; PADDING:6px 0px 0px 4px}
+.table3 {border-width:0px ; WIDTH:376; HEIGHT:26 ; float:bottom ; margin-top:1px ; margin-left:28px ; PADDING:6px 4px 2px 4px}
+.table4 {border-width:2px 0px 2px 2px ; border-style:solid ; border-color:#334455 ; WIDTH:384; HEIGHT:26 ; float:bottom ; margin-top:1px ; margin-left:20px ; PADDING:6px 0px 0px 6px}
+body{color: #663300}

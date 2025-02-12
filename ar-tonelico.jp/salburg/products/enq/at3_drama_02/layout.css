@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#container{
+	width:902px;
+	height:auto;
+	margin:0 auto;
+}
+
+.font0{
+	font-size:10px;
+	line-height:14px;
+	color:#333333;
+}
+.font1{
+	font-size:12px;
+	line-height:16px;
+	color:#333333;
+}
+.font2{
+	font-size:14px;
+	line-height:18px;
+	color:#FF0000;
+	font-weight:bold;
+}
