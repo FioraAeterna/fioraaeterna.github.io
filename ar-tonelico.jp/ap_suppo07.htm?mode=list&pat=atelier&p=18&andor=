@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>アルポータル-アルトネリコ総合情報ファンサイト-</title>
+<link href="css/home.css" rel="stylesheet" type="text/css" />
+<script src="js/ar_portal.js"></script>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="main2">
+<!--header-->
+	<div id="header">
+    <div><script language="JavaScript" src="http://ar-tonelico.jp/js/swf_re01.js"></script></div>
+    </div>
+<!--header--><!--main-->
+<div id="main">
+
+	
+	<!--contents_menu(左)-->
+    	<div id="left">
+    		<div><img src="img/cont_title_user.jpg" alt="ユーザーズプラザ" width="187" height="36" /></div>
+          	<div class="supo_left_m"><a href="ap_suppotail01.htm" target="_self"><img src="img/user_bt_01.gif" alt="さぽている" width="185" height="49" border="0" /></a></div>
+          	<div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppotail02.htm" target="_self">◆HP/ブログがある方はこちら</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppotail03.htm" target="_self">◆HP/ブログが無い方はこちら</a></div>
+            <div class="supo_left_m"><a href="ap_suppo07.htm" target="_self"><img src="img/user_bt_07.gif" alt="サポーターズナビ" width="185" height="49" border="0" /></a></div>
+          	<div class="supo_left_m"><a href="ap_suppo01.htm" target="_self"><img src="img/user_bt_05.gif" alt="サポーターズリンク" width="185" height="49" border="0" /></a></div>
+          <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppo02.htm" target="_self">◆サポーター情報変更</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppotail01.htm" target="_self">◆さぽているを導入する</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppo03.htm?mode=ban1" target="_self">◆バナーの変更</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="http://www.salburg.com/release/" target="_blank">◆公式画像庫へ</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppo04.htm" target="_self">◆パスワード紛失申請</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppo05.htm" target="_self">◆サポーター退会申請</a></div>
+            <div class="supo_left_m"><a href="ap_contents01.htm" target="_self"><img src="img/user_bt_02.gif" alt="世界終焉の引鉄は開発者も弾きまくる！" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="ap_contents02.htm" target="_self"><img src="img/user_bt_03.gif" alt="トウコウスフィア" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="ap_supporeview02.htm" target="_self"><img src="img/user_bt_04.gif" alt="サポーターズレビュー" width="185" height="49" border="0" /></a></div>
+		<div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+		<div class="supo01_left_subm"><a href="ap_supporeview02.htm" target="_self">◆サポーターズレビューについて</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_supporeview03.htm" target="_self">◆レビューはこちらから</a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/1avs/index.html" target="_blank"><img src="img/user_bt_06.gif" alt="フラッシュコスモスフィア" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/ap_tenpa_human.htm?mode=;0" target="_self"><img src="img/user_bt_08.gif" alt="天覇ニンゲン研究所" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/at_enq_site/index.htm" target="_blank"><img src="img/user_bt_09.gif" alt="アンケートキャンペーン" width="185" height="49" border="0" /></a></div>
+    	</div>
+    <!--contents_menu(左)-->
+<!--============contents(右)============-->
+    	<div id="right">
+        
+       	  <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+        	<div align="right"><a href="http://ar-tonelico.jp/1avs/syukuji/index.html" target="_blank"><img src="img/conts_bt_01.gif" alt="1周年記念祝辞ページ" width="169" height="145" border="0" /></a></div>
+          <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+            <div align="right"><a href="javascript:openit('http://ar-tonelico.jp/present.htm',460,700)"><img src="img/conts_bt_02.gif" alt="ボイスメッセージ" width="169" height="145" border="0" /></a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+          <div align="right"><a href="javascript:openit('http://ar-tonelico.jp/syukuden.htm',460,700)"><img src="img/conts_bt_03.gif" alt="サイトオープンお祝いメッセージ" width="169" height="145" border="0" /></a></div>
+        
+        </div>
+    <!--============contents(右)============-->
+	<!--mein_ct(中央)-->
+    	<div id="main_ct">
+        	<table width="589" height="692" border="0" cellspacing="0" cellpadding="0">
+  	<tr>
+    <td width="589" height="404" align="left" valign="top">
+	<table width="589" border="0" cellspacing="0" cellpadding="0">
+	  	<tr>
+		<td colspan="3" width="589"><img src="img/support_navi/supponavi_tb_01.jpg" width="589" height="93" /></td>
+    	</tr>
+  		<tr>
+    	<td width="25" align="left" valign="top" background="img/suppo_link/suppo_tb_02.jpg"><img src="img/at_spacer_01.gif" width="25" height="10" /></td>
+    	<td width="557" align="center" valign="top" background="img/suppo_link/suppo_tb_03.jpg">
+<!--サポーターズナビ内容-->
+			<table width="557" border="0" cellspacing="0" cellpadding="0">
+  			<tr>
+    		<td width="150" align="left" valign="top">
+			<!--menu-->
+				<table width="150" border="0" cellspacing="0" cellpadding="0">
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/support_navi/suppo_navi_ti01.jpg" alt="アルトネリコサイト一覧・検索" width="150" height="50" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=atelier&p=0"><img src="img/support_navi/suppo_navi_bt01.jpg" alt="全アルトネサイト一覧" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm"><img src="img/support_navi/suppo_navi_bt02.jpg" alt="サイト検索" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/support_navi/suppo_navi_ti02.jpg" alt="新着掲示板リンク" width="150" height="50" border="0" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=bbs1&p=0"><img src="img/support_navi/suppo_navi_bt03.jpg" alt="交流掲示板リンク" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=bbs2&p=0"><img src="img/support_navi/suppo_navi_bt04.jpg" alt="攻略掲示板リンク" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=bbs3&p=0"><img src="img/support_navi/suppo_navi_bt05.jpg" alt="お絵描き掲示板リンク" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/support_navi/suppo_navi_ti03.jpg" alt="新着ナビリンク" width="150" height="50" border="0" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=review&p=0"><img src="img/support_navi/suppo_navi_bt06.jpg" alt="どんなゲームか知りたい" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=kouryaku&p=0"><img src="img/support_navi/suppo_navi_bt07.jpg" alt="攻略情報がほしい" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=friend&p=0"><img src="img/support_navi/suppo_navi_bt08.jpg" alt="ファン同士で交流したい" width="150" height="50" border="0" /></a></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><img src="img/at_spacer_01.gif" width="10" height="5" /></td>
+  				</tr>
+  				<tr>
+    			<td width="150" align="left" valign="top"><a href="http://ar-tonelico.jp/ap_suppo07.htm?mode=list&pat=create&p=0"><img src="img/support_navi/suppo_navi_bt09.jpg" alt="創作ページへ行きたい" width="150" height="50" border="0" /></a></td>
+  				</tr>
+				</table>
+			<!--menu-->			</td>
+    		<td width="7" align="left" valign="top">&nbsp;</td>
+    		<td width="400" align="left" valign="top"><img src="img/at_spacer_01.gif" width="7" />
+
+		<img src="img/supponavi/i_contents.jpg"><br>
+		
+                  <table width="400" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td colspan="3"><br /></td>
+                      </tr>
+                      <tr>
+                        <td width="4" align="left" valign="top"><img src="http://ar-tonelico.jp/img/top_release/spencer.gif" width="4" /></td>
+                        <td width="390" align="left" valign="top">
+						<center>
+		<font color=red class=fonts3><b>258件のサイトがあります。</b></font>
+		<table width=390 border=0>
+		<td align=left class=fonts2><b><a href="/ap_suppo07.htm?mode=list&pat=atelier&p=17&andor=">《前ページ</a></b></td><td align=center class=fonts1><b>【...<a href="/ap_suppo07.htm?mode=list&pat=atelier&p=13&andor="><font color="#880000" class=fonts1>14</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=14&andor="><font color="#880000" class=fonts1>15</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=15&andor="><font color="#880000" class=fonts1>16</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=16&andor="><font color="#880000" class=fonts1>17</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=17&andor="><font color="#880000" class=fonts1>18</font></a> <font color=red class=fonts4>19 </font><a href="/ap_suppo07.htm?mode=list&pat=atelier&p=19&andor="><font color="#880000" class=fonts1>20</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=20&andor="><font color="#880000" class=fonts1>21</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=21&andor="><font color="#880000" class=fonts1>22</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=22&andor="><font color="#880000" class=fonts1>23</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=23&andor="><font color="#880000" class=fonts1>24</font></a> ...】</td><td align=right class=fonts2><b><a href="/ap_suppo07.htm?mode=list&pat=atelier&p=19&andor=">次ページ》</a></b></td></table>
+		
+			<table width="370" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			    <td width="370" height="20" colspan="3" align="center" valign="middle">
+				<table width="350" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td width="350" align="left" valign="top" class="fonts2">
+					<a href="?mode=jp&sptid=SP05016&jpa=koufuu.oboroduki.com/index.html" target="_blank"><font class=title2 color=white><b>光風霽月</b></font></a></td>
+			      </tr>
+			    </table></td>
+			  </tr>
+			
+			  <tr>
+			    <td width="7" align=left></td>
+			    <td width="356" align=left valign=top bgcolor="#eeeeff">
+				  <table width="356" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td rowspan=2 align=left valign=top><a href="?mode=jp&sptid=SP05016&jpa=koufuu.oboroduki.com/index.html" target="_blank">
+					<img src="http://koufuu.oboroduki.com/e/banner.jpg" border=0 width="170" height="40" /><br></a></td>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/ic05.gif"><br></td><tr>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/icb03.gif"><br></td>
+			      </tr>
+			      <tr>
+			        <td width="356" colspan="2" bgcolor="#6996a6" class="font0" align=left>アルトネリコ/マリーのアトリエ/</td>
+			        </tr>
+				
+			      <tr>
+			        <td width="370" bgcolor="#9cc9e9" colspan="2" class="fonts2" align=left>ゲームイラスト描いております。FF/ｻｶﾞ/ｾﾞﾉ/ﾃｲﾙｽﾞ/WA/FE/RO/PSO/MHetc.</td>
+			        </tr>
+			    </table></td>
+			    <td width="7"></td>
+			  </tr>
+				
+			  <tr>
+			    <td width="370" colspan="3"><br /></td>
+			  </tr>
+			</table>
+			<img src="http://www.salburg.com/img/tra.gif" width="360" height="5"><br>
+			
+			<table width="370" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			    <td width="370" height="20" colspan="3" align="center" valign="middle">
+				<table width="350" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td width="350" align="left" valign="top" class="fonts2">
+					<a href="?mode=jp&sptid=SP05165&jpa=www.denkishiki.com/" target="_blank"><font class=title2 color=white><b>電気式</b></font></a></td>
+			      </tr>
+			    </table></td>
+			  </tr>
+			
+			  <tr>
+			    <td width="7" align=left></td>
+			    <td width="356" align=left valign=top bgcolor="#eeeeff">
+				  <table width="356" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td rowspan=2 align=left valign=top><a href="?mode=jp&sptid=SP05165&jpa=www.denkishiki.com/" target="_blank">
+					<img src="http://www.denkishiki.com/bana/bana.jpg" border=0 width="170" height="40" /><br></a></td>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/ic02.gif"><br></td><tr>
+			        <td width="156" align=left valign=top><br></td>
+			      </tr>
+			      <tr>
+			        <td width="356" colspan="2" bgcolor="#6996a6" class="font0" align=left>アルトネリコ/</td>
+			        </tr>
+				
+			      <tr>
+			        <td width="370" bgcolor="#9cc9e9" colspan="2" class="fonts2" align=left>主に創作小説をやっております。アルトネリコ関連は、日記でアルトネリコ2のプレイ日記なんかを書いてます。フルコンプしたらレビューもする予定です(*´∀｀*)TOPにさぽている設置してます。</td>
+			        </tr>
+			    </table></td>
+			    <td width="7"></td>
+			  </tr>
+				
+			  <tr>
+			    <td width="370" colspan="3"><br /></td>
+			  </tr>
+			</table>
+			<img src="http://www.salburg.com/img/tra.gif" width="360" height="5"><br>
+			
+			<table width="370" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			    <td width="370" height="20" colspan="3" align="center" valign="middle">
+				<table width="350" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td width="350" align="left" valign="top" class="fonts2">
+					<a href="?mode=jp&sptid=SP05612&jpa=yowaduki.fc2web.com/" target="_blank"><font class=title2 color=white><b>TEMPUS</b></font></a></td>
+			      </tr>
+			    </table></td>
+			  </tr>
+			
+			  <tr>
+			    <td width="7" align=left></td>
+			    <td width="356" align=left valign=top bgcolor="#eeeeff">
+				  <table width="356" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td rowspan=2 align=left valign=top><a href="?mode=jp&sptid=SP05612&jpa=yowaduki.fc2web.com/" target="_blank">
+					<img src="http://yowaduki.fc2web.com/bana/a-bana.gif" border=0 width="170" height="40" /><br></a></td>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/ic05.gif"><br></td><tr>
+			        <td width="156" align=left valign=top><br></td>
+			      </tr>
+			      <tr>
+			        <td width="356" colspan="2" bgcolor="#6996a6" class="font0" align=left>アルトネリコ/</td>
+			        </tr>
+				
+			      <tr>
+			        <td width="370" bgcolor="#9cc9e9" colspan="2" class="fonts2" align=left>アルトネリコの二次創作（絵・小説）を扱う特設サイトです。まったりやってます。</td>
+			        </tr>
+			    </table></td>
+			    <td width="7"></td>
+			  </tr>
+				
+			  <tr>
+			    <td width="370" colspan="3"><br /></td>
+			  </tr>
+			</table>
+			<img src="http://www.salburg.com/img/tra.gif" width="360" height="5"><br>
+			
+			<table width="370" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			    <td width="370" height="20" colspan="3" align="center" valign="middle">
+				<table width="350" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td width="350" align="left" valign="top" class="fonts2">
+					<a href="?mode=jp&sptid=SP05691&jpa=clover4hopes.web.fc2.com/" target="_blank"><font class=title2 color=white><b>４leave</b></font></a></td>
+			      </tr>
+			    </table></td>
+			  </tr>
+			
+			  <tr>
+			    <td width="7" align=left></td>
+			    <td width="356" align=left valign=top bgcolor="#eeeeff">
+				  <table width="356" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td rowspan=2 align=left valign=top><a href="?mode=jp&sptid=SP05691&jpa=clover4hopes.web.fc2.com/" target="_blank">
+					<img src="http://www.salburg.com/img/gsf/no_banner.gif" border=0 width="170" height="40" /><br></a></td>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/ic01.gif"><img src="http://www.salburg.com/citizen/img/ic04.gif"><br></td><tr>
+			        <td width="156" align=left valign=top><br></td>
+			      </tr>
+			      <tr>
+			        <td width="356" colspan="2" bgcolor="#6996a6" class="font0" align=left>アルトネリコ/</td>
+			        </tr>
+				
+			      <tr>
+			        <td width="370" bgcolor="#9cc9e9" colspan="2" class="fonts2" align=left>アルトネリコ、オリカ役宮崎羽衣さんが所属するユニット、クローバーのファンサイトです</td>
+			        </tr>
+			    </table></td>
+			    <td width="7"></td>
+			  </tr>
+				
+			  <tr>
+			    <td width="370" colspan="3"><br /></td>
+			  </tr>
+			</table>
+			<img src="http://www.salburg.com/img/tra.gif" width="360" height="5"><br>
+			
+			<table width="370" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			    <td width="370" height="20" colspan="3" align="center" valign="middle">
+				<table width="350" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td width="350" align="left" valign="top" class="fonts2">
+					<a href="?mode=jp&sptid=SP05745&jpa=ww7.enjoy.ne.jp/~achilles/index.html" target="_blank"><font class=title2 color=white><b>シュトーラの宮殿</b></font></a></td>
+			      </tr>
+			    </table></td>
+			  </tr>
+			
+			  <tr>
+			    <td width="7" align=left></td>
+			    <td width="356" align=left valign=top bgcolor="#eeeeff">
+				  <table width="356" border="0" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td rowspan=2 align=left valign=top><a href="?mode=jp&sptid=SP05745&jpa=ww7.enjoy.ne.jp/~achilles/index.html" target="_blank">
+					<img src="http://ww7.enjoy.ne.jp/~achilles/strura/link01.gif" border=0 width="170" height="40" /><br></a></td>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/ic04.gif"><br></td><tr>
+			        <td width="156" align=left valign=top><img src="http://www.salburg.com/citizen/img/icb01.gif"><br></td>
+			      </tr>
+			      <tr>
+			        <td width="356" colspan="2" bgcolor="#6996a6" class="font0" align=left>リーズのアトリエ/グランファンタズム/アルトネリコ/イリスのアトリエ２/イリスのアトリエ/ヴィオラートのアトリエ/ユーディーのアトリエ/リリーのアトリエ/エリーのアトリエ/マリーのアトリエ/</td>
+			        </tr>
+				
+			      <tr>
+			        <td width="370" bgcolor="#9cc9e9" colspan="2" class="fonts2" align=left>がすとちゃんファンの集うＨＰになる予定。少しづつ、色々なものを追加していくつもりです。</td>
+			        </tr>
+			    </table></td>
+			    <td width="7"></td>
+			  </tr>
+				
+			  <tr>
+			    <td width="370" colspan="3"><br /></td>
+			  </tr>
+			</table>
+			<img src="http://www.salburg.com/img/tra.gif" width="360" height="5"><br>
+			
+		<table width=390>
+		<td align=left class=fonts2><b><a href="/ap_suppo07.htm?mode=list&pat=atelier&p=17&andor=">《前ページ</a></b></td><td align=center class=fonts1><b>【...<a href="/ap_suppo07.htm?mode=list&pat=atelier&p=13&andor="><font color="#880000" class=fonts1>14</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=14&andor="><font color="#880000" class=fonts1>15</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=15&andor="><font color="#880000" class=fonts1>16</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=16&andor="><font color="#880000" class=fonts1>17</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=17&andor="><font color="#880000" class=fonts1>18</font></a> <font color=red class=fonts4>19 </font><a href="/ap_suppo07.htm?mode=list&pat=atelier&p=19&andor="><font color="#880000" class=fonts1>20</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=20&andor="><font color="#880000" class=fonts1>21</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=21&andor="><font color="#880000" class=fonts1>22</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=22&andor="><font color="#880000" class=fonts1>23</font></a> <a href="/ap_suppo07.htm?mode=list&pat=atelier&p=23&andor="><font color="#880000" class=fonts1>24</font></a> ...】</td><td align=right class=fonts2><b><a href="/ap_suppo07.htm?mode=list&pat=atelier&p=19&andor=">次ページ》</a></b></td></table>
+
+		<table width=390>
+		<!-- ▼ライン▼ -->
+		<td background="" bgcolor="#003333" height=1 align=right>
+		<a href="/ap_suppo07.htm"><font class=fonts2 color=white><b>サポーターズナビ・トップページへ戻る》</b></font></a>
+		<img src="http://www.salburg.com/img/tra.gif" width="380" height="1"><br>
+		</td></tr>
+		<!-- ▲ライン▲ -->
+		</table>
+		
+                        </td>
+                        <td width="4" align="left" valign="top"><img src="http://ar-tonelico.jp/img/top_release/spencer.gif" width="4" /></td>
+                      </tr>
+                      <tr>
+                        <td colspan="3"><br /></td>
+                      </tr>
+                  </table>
+
+		  <!--検索キーワード-->
+				</td>
+                </tr>
+              </table>
+
+</td>
+    	<td width="7" align="left" valign="top" background="img/suppo_link/suppo_tb_04.jpg"><img src="img/at_spacer_01.gif" width="7" height="10" /></td>
+  		</tr>
+  		<tr>
+    	<td colspan="3" width="589"><img src="img/suppo_link/suppo_tb_05.jpg" width="589" height="14" /></td>
+    	</tr>
+	</table>
+	</td>
+  	</tr>
+	</table>
+        </div>
+    <!--mein_ct(中央)-->
+</td></div>
+<!--main-->
+</div>
+<!--フッター-->
+<div id="new_footer_bg">
+    <div id="new_footer_CR" align="right">
+    &copy; GUST CO.,LTD. 2007  &copy; 2007 NBGI
+    </div>
+</div>
+<div id="new_footer_outlink_bg">
+    <div id="new_footer_outlink">
+    <script src="http://www.bandainamcogames.co.jp/common/include/products/utf8/black/footer01.js" type="text/javascript" language="JavaScript"></script>
+    </div>
+</div>
+<!--フッター-->
+
+</body>
+</html>
+
+
+

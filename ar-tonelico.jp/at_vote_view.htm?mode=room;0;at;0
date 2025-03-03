@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>アルポータル-アルトネリコ総合情報ファンサイト-</title>
+<link href="css/home.css" rel="stylesheet" type="text/css" />
+<script src="js/ar_portal.js"></script>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="main2">
+<!--header-->
+	<div id="header">
+    <div><script language="JavaScript" src="http://ar-tonelico.jp/js/swf_re01.js"></script></div>
+    </div>
+<!--header--><!--main-->
+<div id="main">
+
+	
+	<!--contents_menu(左)-->
+    	<div id="left">
+    		<div><img src="img/cont_title_user.jpg" alt="ユーザーズプラザ" width="187" height="36" /></div>
+          	<div class="supo_left_m"><a href="ap_suppotail01.htm" target="_self"><img src="img/user_bt_01.gif" alt="さぽている" width="185" height="49" border="0" /></a></div>
+          	<div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppotail02.htm" target="_self">◆HP/ブログがある方はこちら</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppotail03.htm" target="_self">◆HP/ブログが無い方はこちら</a></div>
+            <div class="supo_left_m"><a href="ap_suppo07.htm" target="_self"><img src="img/user_bt_07.gif" alt="サポーターズナビ" width="185" height="49" border="0" /></a></div>
+          	<div class="supo_left_m"><a href="ap_suppo01.htm" target="_self"><img src="img/user_bt_05.gif" alt="サポーターズリンク" width="185" height="49" border="0" /></a></div>
+          <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppo02.htm" target="_self">◆サポーター情報変更</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppotail01.htm" target="_self">◆さぽているを導入する</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_suppo03.htm?mode=ban1" target="_self">◆バナーの変更</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="http://www.salburg.com/release/" target="_blank">◆公式画像庫へ</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppo04.htm" target="_self">◆パスワード紛失申請</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+          	<div class="supo01_left_subm"><a href="ap_suppo05.htm" target="_self">◆サポーター退会申請</a></div>
+            <div class="supo_left_m"><a href="ap_contents01.htm" target="_self"><img src="img/user_bt_02.gif" alt="世界終焉の引鉄は開発者も弾きまくる！" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="ap_contents02.htm" target="_self"><img src="img/user_bt_03.gif" alt="トウコウスフィア" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="ap_supporeview02.htm" target="_self"><img src="img/user_bt_04.gif" alt="サポーターズレビュー" width="185" height="49" border="0" /></a></div>
+		<div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+		<div class="supo01_left_subm"><a href="ap_supporeview02.htm" target="_self">◆サポーターズレビューについて</a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="3" border="0" /></div>
+            <div class="supo01_left_subm"><a href="ap_supporeview03.htm" target="_self">◆レビューはこちらから</a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/1avs/index.html" target="_blank"><img src="img/user_bt_06.gif" alt="フラッシュコスモスフィア" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/ap_tenpa_human.htm?mode=;0" target="_self"><img src="img/user_bt_08.gif" alt="天覇ニンゲン研究所" width="185" height="49" border="0" /></a></div>
+            <div class="supo_left_m"><a href="http://ar-tonelico.jp/at_enq_site/index.htm" target="_blank"><img src="img/user_bt_09.gif" alt="アンケートキャンペーン" width="185" height="49" border="0" /></a></div>
+    	</div>
+    <!--contents_menu(左)-->
+<!--============contents(右)============-->
+    	<div id="right">
+        
+       	  <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+        	<div align="right"><a href="http://ar-tonelico.jp/1avs/syukuji/index.html" target="_blank"><img src="img/conts_bt_01.gif" alt="1周年記念祝辞ページ" width="169" height="145" border="0" /></a></div>
+          <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+            <div align="right"><a href="javascript:openit('http://ar-tonelico.jp/present.htm',460,700)"><img src="img/conts_bt_02.gif" alt="ボイスメッセージ" width="169" height="145" border="0" /></a></div>
+            <div><img src="img/at_spacer_01.gif" width="10" height="5" /></div>
+          <div align="right"><a href="javascript:openit('http://ar-tonelico.jp/syukuden.htm',460,700)"><img src="img/conts_bt_03.gif" alt="サイトオープンお祝いメッセージ" width="169" height="145" border="0" /></a></div>
+        
+        </div>
+    <!--============contents(右)============-->
+	<!--mein_ct(中央)-->
+    	<div id="main_ct">
+        	<table width="589" height="692" border="0" cellspacing="0" cellpadding="0">
+  	<tr>
+    <td width="589" height="404" align="left" valign="top">
+	<table width="589" border="0" cellspacing="0" cellpadding="0">
+	  	<tr>
+		<td colspan="3" width="589"><img src="img/tenpa_human/tenpa_tb_01.jpg" width="589" height="93" /></td>
+    	</tr>
+  		<tr>
+    	<td width="25" align="left" valign="top" background="img/suppotail/suppo_tb_02.jpg"><img src="img/at_spacer_01.gif" width="25" height="10" /></td>
+    	<td width="557" align="left" valign="top" background="img/suppotail/suppo_tb_03.jpg">
+		<!--天覇ニンゲン研究所の内容はここから-->
+	<center>
+		<br><br>
+		<!- ▼▼ -->
+		<B><font color="#880000">【ヒストリーファイル】</font><br>FLASHコスモスフィア２では誰の話が見たい？</B>
+		<!- ▲▲ -->
+		<BR>
+		<hr width="380">
+
+		<font class=fonts2><br><a href="?mode=;0;at">【一覧ページへ戻る】</a><br><br>
+
+			<table border=0 width=400>
+			<tr align="center"> 
+			<td colspan="2"> 
+			<center>
+			<small> 
+
+			<table width="367" cellspacing="2" cellpadding="2" border="2" bordercolor="#000088">
+
+			<td background="" bgcolor="#eeeeff" align="center" width="380" colspan="12"><img src="http://www.salburg.com/img/tra.gif" width="334" height="1"><br>
+			<font color=red><b>投票期間：3/14～4/15</b></font><br>
+			<img src="http://bb.fwinc.co.jp/at2/images/banner/flash_banner_02.jpg"><br><br>いよいよ待望のWEBゲーム「FLASHコスモスフィア２」の制作が開始される！そこで今回はなんとプレイヤーである皆さんから、誰のエピソードが見たいかを聞いてみる事にした。更に、もしエピソード案やこんなお話が読みたい！といった希望が有る方は、コメント欄にそれを記入してほしい。皆さんからの熱いコメントを待っているぞ！<br>
+
+			</span></td>
+			</table>
+			<br>
+
+			<hr width="380">
+			<small> 
+			<center>
+		
+	<table border=1 width=350>
+	<td nowrap align=center><b>順位</b></td>
+	<td nowrap align=center><b>キャラクター名</b></td>
+	<td nowrap align=center><b>投票数</b></td>
+	<td nowrap align=center><b>割合</b></td>
+	<td nowrap align=center width=100><b>グラフ</b></td>
+	<tr>
+	<td><font size=-1>No.<b>1</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;18:1:0;at">インフェル</a></b></font></td>
+		<td align=center><font size=-1><b>916</b></font></td>
+		<td align=center><font size=-1><b>19%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="19"></td>
+		<tr><td><font size=-1>No.<b>2</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;3:1:0;at">ジャクリ</a></b></font></td>
+		<td align=center><font size=-1><b>912</b></font></td>
+		<td align=center><font size=-1><b>19%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="19"></td>
+		<tr><td><font size=-1>No.<b>3</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;1:1:0;at">ルカ</a></b></font></td>
+		<td align=center><font size=-1><b>820</b></font></td>
+		<td align=center><font size=-1><b>17%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="17"></td>
+		<tr><td><font size=-1>No.<b>4</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;2:1:0;at">クローシェ</a></b></font></td>
+		<td align=center><font size=-1><b>453</b></font></td>
+		<td align=center><font size=-1><b>9%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="9"></td>
+		<tr><td><font size=-1>No.<b>5</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;0:1:0;at">クロア</a></b></font></td>
+		<td align=center><font size=-1><b>437</b></font></td>
+		<td align=center><font size=-1><b>9%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="9"></td>
+		<tr><td><font size=-1>No.<b>6</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;7:1:0;at">ココナ</a></b></font></td>
+		<td align=center><font size=-1><b>291</b></font></td>
+		<td align=center><font size=-1><b>6%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="6"></td>
+		<tr><td><font size=-1>No.<b>7</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;21:1:0;at">シンシア</a></b></font></td>
+		<td align=center><font size=-1><b>248</b></font></td>
+		<td align=center><font size=-1><b>5%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="5"></td>
+		<tr><td><font size=-1>No.<b>8</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;16:1:0;at">フレリア</a></b></font></td>
+		<td align=center><font size=-1><b>234</b></font></td>
+		<td align=center><font size=-1><b>4%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="4"></td>
+		<tr><td><font size=-1>No.<b>9</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;8:1:0;at">タルガーナ</a></b></font></td>
+		<td align=center><font size=-1><b>95</b></font></td>
+		<td align=center><font size=-1><b>1%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="1"></td>
+		<tr><td><font size=-1>No.<b>10</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;9:1:0;at">ラクラ</a></b></font></td>
+		<td align=center><font size=-1><b>64</b></font></td>
+		<td align=center><font size=-1><b>1%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="1"></td>
+		<tr><td><font size=-1>No.<b>11</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;19:1:0;at">アヤタネ</a></b></font></td>
+		<td align=center><font size=-1><b>51</b></font></td>
+		<td align=center><font size=-1><b>1%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="1"></td>
+		<tr><td><font size=-1>No.<b>12</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;23:1:0;at">さーしゃ</a></b></font></td>
+		<td align=center><font size=-1><b>42</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>13</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;26:1:0;at">ノノ</a></b></font></td>
+		<td align=center><font size=-1><b>37</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>14</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;6:1:0;at">瞬</a></b></font></td>
+		<td align=center><font size=-1><b>33</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>15</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;25:1:0;at">レイニ</a></b></font></td>
+		<td align=center><font size=-1><b>28</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>16</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;14:1:0;at">レイシャ</a></b></font></td>
+		<td align=center><font size=-1><b>26</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>17</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;24:1:0;at">空猫</a></b></font></td>
+		<td align=center><font size=-1><b>22</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>18</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;4:1:0;at">アマリエ</a></b></font></td>
+		<td align=center><font size=-1><b>21</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>19</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;30:1:0;at">なっちゃん</a></b></font></td>
+		<td align=center><font size=-1><b>19</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>20</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;17:1:0;at">ゲンゴロー</a></b></font></td>
+		<td align=center><font size=-1><b>14</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>21</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;13:1:0;at">バッツ</a></b></font></td>
+		<td align=center><font size=-1><b>11</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>22</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;15:1:0;at">ラキ</a></b></font></td>
+		<td align=center><font size=-1><b>7</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>23</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;22:1:0;at">スピカ</a></b></font></td>
+		<td align=center><font size=-1><b>5</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>24</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;12:1:0;at">アルフマン</a></b></font></td>
+		<td align=center><font size=-1><b>3</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>25</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;10:1:0;at">ラウドネス</a></b></font></td>
+		<td align=center><font size=-1><b>2</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>25</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;20:1:0;at">スープ</a></b></font></td>
+		<td align=center><font size=-1><b>2</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>25</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;11:1:0;at">チェスター</a></b></font></td>
+		<td align=center><font size=-1><b>2</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>25</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;28:1:0;at">ダイブ屋ゲンさん</a></b></font></td>
+		<td align=center><font size=-1><b>2</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>29</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;27:1:0;at">ラーおばさん</a></b></font></td>
+		<td align=center><font size=-1><b>1</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr><td><font size=-1>No.<b>29</b></font></td>
+		<td nowrap align=center><font size=-1><b><a href="?mode=read;5:1:0;at">レグリス</a></b></font></td>
+		<td align=center><font size=-1><b>1</b></font></td>
+		<td align=center><font size=-1><b>0%</b></font></td>
+		<td align=left><img src="http://www.salburg.com/img/gsf/bg_red.gif" height=10 width="0"></td>
+		<tr></table></table><br><br>
+        <!--天覇ニンゲン研究所の内容はここまで-->
+        </td>
+    	<td width="7" align="left" valign="top" background="img/suppotail/suppo_tb_04.jpg"><img src="img/at_spacer_01.gif" width="7" height="10" /></td>
+  		</tr>
+  		<tr>
+    	<td colspan="3" width="589"><img src="img/suppotail/suppo_tb_05.jpg" width="589" height="14" /></td>
+    	</tr>
+	</table>
+	</td>
+  	</tr>
+	</table>
+        </div>
+    <!--mein_ct(中央)-->
+	</div>
+<!--main-->
+</div>
+<!--フッター-->
+<div id="new_footer_bg">
+    <div id="new_footer_CR" align="right">
+    &copy; GUST CO.,LTD. 2007  &copy; 2007 NBGI
+    </div>
+</div>
+<div id="new_footer_outlink_bg">
+    <div id="new_footer_outlink">
+    <script src="http://www.bandainamcogames.co.jp/common/include/products/utf8/black/footer01.js" type="text/javascript" language="JavaScript"></script>
+    </div>
+</div>
+<!--フッター-->
+
+</body>
+</html>
+
