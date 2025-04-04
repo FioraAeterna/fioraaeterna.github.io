@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+body, td, th {
+	font-family: "メイリオ", "Meiryo", verdana, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Sans-Serif;
+	font-size: 12px;
+}
+a:link {
+	color: #39F;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #39F;
+}
+a:hover {
+	text-decoration: underline;
+	color: #369;
+}
+a:active {
+	text-decoration: none;
+	color: #39F;
+}
+body {
+	background-color: #000000;
+	background-image: url(http://web.archive.org/web/20140313153514id_/http://boxell.jp/clock/images/tile.png);
+	background-repeat: repeat;
+	margin: 0 auto;
+}
+.list {
+	width: 80%;
+	border: 1px #000000 solid;
+	border-collapse: separate;
+	border-spacing: 0px;
+}
+.list td {
+	border: 1px #000000 solid;
+	width: 20%;
+	text-align: center;
+	vertical-align: top;
+}
+.background {
+	background-color: #FFF;
+	width: 800px;
+	padding: 10px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+}
+.title {
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, Osaka, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-size: 24px;
+	padding-left: 10px;
+	text-align: center;
+}
+.player {
+	border: 1px solid #000;
+	width: 640px;
+	height: 480px;
+	margin: 0 auto;
+}
+.topic {
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, Osaka, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	background-color: #369;
+	color: #FFF;
+	font-size: 16px;
+	width: 100%;
+	padding-left: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+}
+.topic a:link {
+	color: #FFF;
+	text-decoration: underline;
+}
+.topic a:visited {
+	text-decoration: underline;
+	color: #FFF;
+}
+.topic a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+.topic a:active {
+	text-decoration: underline;
+	color: #FFF;
+}
+.code {
+	border: 1px #0000000 thin;
+	width: 100%;
+	background-color: #FFB833;	
+}
+div.keyword {
+	display: none;
+}
