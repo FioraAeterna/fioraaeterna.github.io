@@ -22,7 +22,7 @@ a:active {
 }
 body {
 	background-color: #000000;
-	background-image: url(http://web.archive.org/web/20140313153514id_/http://boxell.jp/clock/images/tile.png);
+	background-image: url(images/tile.png);
 	background-repeat: repeat;
 	margin: 0 auto;
 }
