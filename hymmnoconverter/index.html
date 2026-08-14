@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Hymmnos Image Generator</title>
+<style>
+  @font-face {
+    font-family: 'Hymmnos';
+    src: url('hymmnos.ttf') format('truetype');
+  }
+  body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    background: #ffffff;
+    color: #000000;
+    margin: 20px;
+  }
+  h1 { font-size: 16px; }
+  textarea {
+    width: 400px;
+    height: 60px;
+    font-family: monospace;
+    font-size: 13px;
+  }
+  #result {
+    margin-top: 10px;
+  }
+  #output {
+    border: 1px dashed #999;
+    max-width: 100%;
+  }
+  .hint { color: #666; }
+</style>
+</head>
+<body>
+
+<h1>Hymmnos Image Generator</h1>
+
+<p>Type text, press the button, copy the image.</p>
+
+<textarea id="input" placeholder="Was yea ra chs hymmnos mea"></textarea>
+<br>
+Size: <input type="number" id="size" value="48" min="8" max="200" style="width:50px"> px
+&nbsp;
+<input type="checkbox" id="transparent"> <label for="transparent">transparent background</label>
+<br><br>
+<button id="generate">Generate</button>
+
+<div id="result" style="display:none">
+  <img id="output" alt="hymmnos text">
+  <br>
+  <button id="copy">Copy image</button>
+  <a id="download" download="hymmnos.png"><button>Download PNG</button></a>
+  <span id="status" class="hint"></span>
+</div>
+
+<p class="hint">Right-clicking the image and choosing &quot;Copy image&quot; also works.</p>
+
+<script>
+const canvas = document.createElement('canvas');
+const ctx = canvas.getContext('2d');
+
+async function generate() {
+  await document.fonts.load('48px Hymmnos');
+
+  const text = document.getElementById('input').value;
+  if (!text.trim()) return;
+
+  const size = parseInt(document.getElementById('size').value, 10) || 48;
+  const transparent = document.getElementById('transparent').checked;
+  const font = size + 'px Hymmnos';
+  const lines = text.split('\n');
+  const pad = Math.ceil(size * 0.4);
+  const lineHeight = Math.ceil(size * 1.3);
+
+  ctx.font = font;
+  const width = Math.ceil(Math.max(...lines.map(l => ctx.measureText(l).width)));
+
+  canvas.width = width + pad * 2;
+  canvas.height = lineHeight * lines.length + pad * 2;
+
+  if (!transparent) {
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+  }
+
+  ctx.font = font;
+  ctx.fillStyle = '#000000';
+  ctx.textBaseline = 'top';
+  lines.forEach((line, i) => {
+    ctx.fillText(line, pad, pad + i * lineHeight + (lineHeight - size) / 2);
+  });
+
+  const url = canvas.toDataURL('image/png');
+  document.getElementById('output').src = url;
+  document.getElementById('download').href = url;
+  document.getElementById('result').style.display = 'block';
+  document.getElementById('status').textContent = '';
+}
+
+async function copyImage() {
+  const status = document.getElementById('status');
+  try {
+    const blob = await new Promise(res => canvas.toBlob(res, 'image/png'));
+    await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]);
+    status.textContent = 'copied!';
+  } catch (e) {
+    status.textContent = 'copy failed — right-click the image instead';
+  }
+  setTimeout(() => { status.textContent = ''; }, 3000);
+}
+
+document.getElementById('generate').addEventListener('click', generate);
+document.getElementById('copy').addEventListener('click', copyImage);
+document.getElementById('input').addEventListener('keydown', e => {
+  if (e.key === 'Enter' && e.ctrlKey) generate();
+});
+</script>
+
+</body>
+</html>
